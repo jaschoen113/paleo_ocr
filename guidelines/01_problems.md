@@ -1,6 +1,6 @@
 ## Abbreviations
 
--  ꝑ = p_er_ 
+-  ꝑ = p _er_ 
 -  macron = ī ō n̄ 
      - what about double macrons?  
      - Furnivall does just n̄ when it looks like it it's over "on"  
