@@ -12,3 +12,6 @@
 - [ ] Test against non-Scribe D manuscripts 
 - [ ] Data analysis 
 - [ ] Write up results 
+
+Jenna's not Gianmarco's HW: 
+For 4/13 - Find Unicode Latin Abbreviation Stuff 
