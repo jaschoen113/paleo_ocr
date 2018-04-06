@@ -1,5 +1,6 @@
 
 - [ ] Transcription Standard 
+- [ ] Complete Scribe D Guide (letters plus abbreviations) 
 - [ ] Figure out what to do about book transcription/"gold standard"
 - [ ] Crop all images (find efficient way) 
 - [ ] Trial run with one or two pages 
