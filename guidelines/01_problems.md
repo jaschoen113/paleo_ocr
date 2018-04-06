@@ -1,8 +1,9 @@
 ## Abbreviations
 
 -  ꝑ = p_er_ 
--  macron = ī ō n̄
+-  macron = ī ō n̄ 
   - what about double macrons? 
+  - Furnivall does just n̄ when it looks like it it's over "on" 
 - p with r above 
 - y dot (not gonna do anything prob) = ẏ 
 - 
