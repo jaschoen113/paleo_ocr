@@ -11,6 +11,6 @@
 ## Special Characters 
 
 
-Useful Links: 
-MUFI[http://folk.uib.no/hnooh/mufi/]
-Unicode and Macron[http://www.personal.psu.edu/ejp10/psu/gotunicode/macron.html] 
+Useful Links:   
+MUFI[http://folk.uib.no/hnooh/mufi/]  
+Unicode and Macron[http://www.personal.psu.edu/ejp10/psu/gotunicode/macron.html]   
