@@ -14,4 +14,5 @@
 - [ ] Write up results 
 
 Jenna's not Gianmarco's HW: 
-For 4/13 - Find Unicode Latin Abbreviation Stuff 
+
+For 4/13 - Find Unicode Latin abbreviation stuff, collect manuscript weird stuff 
