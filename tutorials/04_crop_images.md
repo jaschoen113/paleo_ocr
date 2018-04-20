@@ -32,4 +32,11 @@ Adapted from [Linux Academy](https://linuxacademy.com/blog/linux/cropping-multip
 
 	- Where, of course, "width," "height," "x," and "y" are the values that you jotted down from Gimp; while "*.jpg" corresponds to the extension of the image files that you have saved in your folder.
 
+
+	- __Note__: this does not work. This does: `mogrify -crop {width}x{height}+{X}+{Y} *.jpg`
+
+		- Also, this does (somehow): `convert -crop {width}x{height}+{X}+{Y} *.jpg cropped_$file`
+
+	- There must be something else to add in the syntax of "do." But what?
+
 8. There you go! Now you all the images should have been copied and cropped into new "cropped_*.jpg" files.
