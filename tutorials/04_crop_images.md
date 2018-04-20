@@ -9,6 +9,12 @@ Adapted from [Linux Academy](https://linuxacademy.com/blog/linux/cropping-multip
 
 	> `sudo apt-get install gimp`
 
+2. Make sure that you have Imagemagick installed; if that's not the case, install it with the command:
+
+	> `sudo apt-get install imagemagick`
+
+	- Note: if that doesn't work, you will probably need to download a package from the [IM website](http://www.imagemagick.org/download/).
+
 1. Place all the images in the same folder.
 
 2. Open one of the images in Gimp.
@@ -27,16 +33,15 @@ Adapted from [Linux Academy](https://linuxacademy.com/blog/linux/cropping-multip
 7. Type the following command:
 
 
+	> `for i in $(ls *.jpg); do convert -crop {width}x{height}+{X}+{Y} $i cropped_$i; done`
+
 	> `*.jpg; do convert -crop {width}x{height}+{X}+{Y} $file cropped_$file; done`
 
 
 	- Where, of course, "width," "height," "x," and "y" are the values that you jotted down from Gimp; while "*.jpg" corresponds to the extension of the image files that you have saved in your folder.
 
-
-	- __Note__: this does not work. This does: `mogrify -crop {width}x{height}+{X}+{Y} *.jpg`
-
-		- Also, this does (somehow): `convert -crop {width}x{height}+{X}+{Y} *.jpg cropped_$file`
-
-	- There must be something else to add in the syntax of "do." But what?
+	- __Note__: if you don't want to create cropped copies of your original files, but simply replace them, you can use this command: `mogrify -crop {width}x{height}+{X}+{Y} *.jpg`.
 
 8. There you go! Now you all the images should have been copied and cropped into new "cropped_*.jpg" files.
+
+- __Note__: these values seem to _generally_ work for the CC MS 198: __3750x5200+880+900__.
