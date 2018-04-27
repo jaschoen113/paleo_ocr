@@ -5,7 +5,7 @@ date: April 20 2018
 
 - Method One; works when all images are indexed on a single webpage
 
-	1. Find the web address of the remote webpage where all the images are indexed; in the case of the CC MS 198, the page is this one: (http://image.ox.ac.uk/images/corpus/ms198/)[http://image.ox.ac.uk/images/corpus/ms198/].
+	1. Find the web address of the remote webpage where all the images are indexed; in the case of the CC MS 198, the page is this one: [http://image.ox.ac.uk/images/corpus/ms198/](http://image.ox.ac.uk/images/corpus/ms198/).
 
 	2. Open the terminal. Use "`cd`" to move to the folder where you would like these images to be downloaded.
 
