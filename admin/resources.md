@@ -11,3 +11,7 @@ Michigan's Online Version of [Furnivall](https://quod.lib.umich.edu/cgi/t/text/t
 Large Downloadable Images at [Early Manuscripts at Oxford University](http://image.ox.ac.uk/show?collection=corpus&manuscript=ms198)
 
 Easier to read version at [Digital Bodleian](https://tinyurl.com/ycd26ohphttps://tinyurl.com/ycd26ohp)
+
+### Scribe D Resources
+
+University of York's *Late Medieval English Scribes* [Profile](https://www.medievalscribes.com/index.php?navtype=scribes&navappellation=John%20Marchaunt%20or%20Scribe%20D&browse=hands&id=1&msid=58&nav=off) of Scribe D
