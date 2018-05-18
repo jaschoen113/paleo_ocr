@@ -1,18 +1,37 @@
+---
+title: "To-do list for OCRMEMS"
+date: May 2018
+---
 
-- [ ] Transcription Standard 
-- [ ] Complete Scribe D Guide (letters plus abbreviations) 
-- [ ] Figure out what to do about book transcription/"gold standard"
-- [ ] Crop all images (find efficient way) 
-- [ ] Trial run with one or two pages 
-- [ ] Split up transcription work and transcribe 
-- [ ] Train 
-- [ ] Test against training data 
-- [ ] Test against other parts of manuscript 
-- [ ] Test against other Scribe D manuscripts 
-- [ ] Test against non-Scribe D manuscripts 
-- [ ] Data analysis 
-- [ ] Write up results 
+## Tasks for the summer
 
-Jenna's not Gianmarco's HW: 
+### Part 1. Preliminary transcriptions
 
-For 4/13 - Find Unicode Latin abbreviation stuff, collect manuscript weird stuff 
+- [ ] Manually transcribe 10-20 pages of CC MS 198.
+
+    - [ ] Develop Transcription Standard
+        - [ ] Find Unicode Latin abbreviation stuff, collect manuscript weird stuff
+    - [ ] Complete Scribe D Guide (letters plus abbreviations)
+    - [ ] Figure out what to do about book transcription/"gold standard"
+
+### Part 2. Trial run
+
+- [X] Crop all images (find efficient way)
+- [ ] Trial run with one or two pages
+
+### Part 3. Training
+
+- [ ] Split up transcription work and transcribe
+- [ ] Train
+
+### Part 4. Testing
+
+- [ ] Test against training data
+- [ ] Test against other parts of manuscript
+- [ ] Test against other Scribe D manuscripts
+- [ ] Test against non-Scribe D manuscripts
+
+### Part 5. Analysis
+
+- [ ] Data analysis
+- [ ] Write up results
