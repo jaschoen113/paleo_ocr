@@ -14,6 +14,9 @@
 - double ff (is transcribed in the Furnivall): ﬀ   
 - tick at end of some final characters (k, t, f) (Furnivall does )
 - p with a superscript abbreviation for ri (Furnivall does p *ri*): ṕ
+- macron over o before m = om [ as in wōman = womman] Furnivall does wo*m*man
+- n with squiggle over top = ra before n as in tnsfigure = transfigure (Furnivall does t*ra*nsfigure)
+- thorn with r above = er as in whether  
 
 ## Temporary rules
 
