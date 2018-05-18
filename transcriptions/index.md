@@ -9,7 +9,7 @@ MS Page:
 - __2v__-__15v__: Section for testing
 
 - [ ] __16r__: Transcribe for training (1)
-- [ ] __16v__: Transcribe for training (2)
+- [X] __16v__: Transcribe for training (2)
 - [ ] __17r__: Transcribe for training (3)
 - [ ] __17v__: Transcribe for training (4)
 - [ ] __18r__: Transcribe for training (5)
