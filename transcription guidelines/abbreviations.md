@@ -1,8 +1,8 @@
 ## Abbreviations
 
-| __Abbreviation__ | __Extension__ | __Furnivall__ | __Other Option__ |
-|:-----------:| :-----------|
-| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/p%20underscore.png?raw=true "P with underscore")| per | ꝑ | ? |
+| __Manuscript__ | __Abbreviation Extension__ | __Furnivall__ | __Other Option__ | Temporary Rule |
+|:-----------:|:-----------:|:------------:|:-----------:| :-----------:|
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/p%20underscore.png?raw=true "P with underscore")| per | p*er* | ꝑ | ꝑ |
 |
 
 -  ꝑ = p _er_
@@ -15,7 +15,12 @@
 - tick at end of some final characters (k, t, f) (Furnivall does )
 - p with a superscript abbreviation for ri (Furnivall does p *ri*): ṕ
 
-## Special Characters
+## Temporary rules
+
+1. We use just "y" for both "y" with a dot and "y" without a dot.
+2. We use just "s" for both kidney-shaped round "s" and long "s."
+3. We use two "f"s ("ff") for the biting "ff" (as in "ffor").
+4. We use ...
 
 
 Useful Links:   
