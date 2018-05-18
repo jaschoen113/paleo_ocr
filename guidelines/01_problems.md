@@ -1,7 +1,9 @@
 ## Abbreviations
 
-
-
+| __Abbreviation__ | __Extension__ | __Furnivall__ | __Other Option__ |
+|:-----------:| :-----------|
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/p%20underscore.png?raw=true "P with underscore")| per | ꝑ | ? |
+|
 
 -  ꝑ = p _er_
 -  macron = ī ō n̄
