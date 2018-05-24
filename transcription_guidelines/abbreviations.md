@@ -2,7 +2,7 @@
 
 | __Manuscript__ | __Abbreviation Extension__ | __Furnivall__ | __Other Option__ | Temporary Rule |
 |:-----------:|:-----------:|:------------:|:-----------:| :-----------:|
-| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/p%20underscore.png?raw=true "P with underscore")| per or par | p*er* | ꝑ | ꝑ |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/p%20underscore.png?raw=true "P with underscore")| per or par | p*er* | ꝑ | ꝑ, Ꝑ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/biting%20fs.png?raw=true "biting fs")| ff (none) | ﬀ | ff | ﬀ  |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/macron%20over%20on.png?raw=true "macron over on") | on (none) | n̄ | ōn̄ (find way to put macron over? both) o͞n | ōn̄ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/n%20with%20tilde.png?raw=true "n with tilde") | ran | *ra*n | ñ | ñ |
@@ -16,10 +16,6 @@
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/e%20with%20hook.png?raw=true "e with hook") | em | e*m* | ẻ | ẻ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/us.png?raw=true "us") | bus | b*us* | ꝫ  | ꝫ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/paragraph.png?raw=true "paragraph") | paragraph | ¶ | ¶ | ¶ |
-
-to add:
-
-- paragraph mark
 
 
 ## Temporary rules
