@@ -4,6 +4,7 @@
 |:-----------:|:-----------:|:------------:|:-----------:| :-----------:|
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/p%20underscore.png?raw=true "P with underscore")| per or par | p*er* | ꝑ | ꝑ, Ꝑ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/biting%20fs.png?raw=true "biting fs")| ff (none) | ﬀ | ff | ﬀ  |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/biting%20ps.png?raw=true "biting p") | none | nothing | unicode but doesn't show up | pp |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/macron%20over%20on.png?raw=true "macron over on") | on (none) | n̄ | ōn̄ (find way to put macron over? both) o͞n | ōn̄ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/n%20with%20tilde.png?raw=true "n with tilde") | ran | *ra*n | ñ | ñ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/o%20with%20macron,%20middle%20of%20word.png?raw=true "o with macron middle of word") | om | o*m* | ō | ō |
@@ -14,6 +15,7 @@
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/y%20dot.png?raw=true "y dot") | y (none) | y | ẏ | ẏ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/hook.png?raw=true "hook") | none | either nothing or n̄ | n n̉ | n |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/e%20with%20hook.png?raw=true "e with hook") | em | e*m* | ẻ | ẻ |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/h%20cross.png?raw=true "h cross") | nothing? | ħ | h | ħ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/us.png?raw=true "us") | bus | b*us* | ꝫ  | ꝫ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/paragraph.png?raw=true "paragraph") | paragraph | ¶ | ¶ | ¶ |
 
