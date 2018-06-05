@@ -12,6 +12,7 @@
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/thorn%20with%20r.png?raw=true "thorn with r above") | þer | þ*er* |  þ̓ þ̉ þ̔ | þ̉ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/f%20tick.png?raw=true "f tick") | f (none) | adds a tick | f | f |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/t%20tick.png?raw=true "t tick") | t (none) | adds a tick | t | t |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/welsh%20l.png?raw=true "welsh l") | none | ỻ | ll | ỻ | 
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/y%20dot.png?raw=true "y dot") | y (none) | y | ẏ | ẏ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/hook.png?raw=true "hook") | none | either nothing or n̄ | n n̉ | n |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/e%20with%20hook.png?raw=true "e with hook") | em | e*m* | ẻ | ẻ |
