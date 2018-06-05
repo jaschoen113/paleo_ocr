@@ -8,9 +8,9 @@
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/macron%20over%20on.png?raw=true "macron over on") | on (none) | n̄ | ōn̄ (find way to put macron over? both) o͞n | n̄ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/n%20with%20tilde.png?raw=true "n with tilde") | ran | *ra*n | ñ | ñ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/o%20with%20macron,%20middle%20of%20word.png?raw=true "o with macron middle of word") | om | o*m* | ō | ō |
-| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/p_with_ri.png?raw=true "p with r above")| pri | p*ri* | p̓ p̉ | p̉ |
-| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/thorn%20with%20r.png?raw=true "thorn with r above") | þer | þ*er* |  þ̓ þ̉ þ̔ | þ̉ |
-|
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/p%20with%20left%20hook.png?raw=true "p with left hook")| pri | p*ri* | p̓ p̉ | p̉ |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/thorn%20with%20right%20hook.png?raw=true "thorn with right hook") | þer | þ*er* |  þ̓ þ̉ þ̔ | þ̔ |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/p%20with%20right%20hook%20.png?raw=true "p with right hook ") | per | p*er* | p&788;  | p&788; | 
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/f%20tick.png?raw=true "f tick") | f (none) | adds a tick | f | f |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/t%20tick.png?raw=true "t tick") | t (none) | adds a tick | t | t |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/welsh%20l.png?raw=true "welsh l") | none | ỻ | ll | ỻ |
