@@ -11,7 +11,7 @@
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/macron%20over%20on.png?raw=true "macron over on") | macron over on or n| u (i.e. oun) | n̄ | ōn̄ (over o as well)| n̄ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/hook.png?raw=true "hook") | hook over n | none | n or n̄ | n or n̉ | n |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/o%20with%20macron,%20middle%20of%20word.png?raw=true "o with macron middle of word") | macron over o | m (i.e. om) | o*m* | ō | ō |
-| ![alt text]( "o with tilde") | o with tilde | ur (i.e. our) | o*ur* | õ | õ |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/o%20with%20tilde.png?raw=true "o with tilde") | o with tilde | ur (i.e. our) | o*ur* | õ | õ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/p%20underscore.png?raw=true "P with underscore")| p with stroke through descender | er or ar (i.e. per or par) | p*er* or p*ar* | ꝑ | ꝑ and Ꝑ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/p%20with%20right%20hook%20.png?raw=true "p with right hook ") | p with right hook suprascript | er (i.e. per) | p*er* | p̔ (inverted comma diacritic)  | p̔ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/p%20with%20left%20hook.png?raw=true "p with left hook")| p with left hook suprascript | pri | p*ri* | p̓ (comma diacritic) p̉ (hook diacritic) | p̉ |
