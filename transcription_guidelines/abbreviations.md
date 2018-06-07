@@ -20,9 +20,10 @@
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/h%20cross.png?raw=true "h cross") | nothing? | ħ | h | ħ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/u%20macron.png?raw=true "u macron")| aun | au*n* | ū | ū |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/u%20with%20macron%20and%20balls.png?raw=true "u with macron and balls") | ra | *ra* | ǖ | ǖ |
-| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/s%20with%20diagonal.png?raw=true "s with diagonal") | ser | s*er* | ẜ | ẜ | 
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/s%20with%20diagonal.png?raw=true "s with diagonal") | ser | s*er* | ẜ | ẜ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/us.png?raw=true "us") | bus | b*us* | ꝫ  | ꝫ |
 | ![alt  text](https://github.com/gesaretto/paleo_ocr/blob/master/images/quod%20d.png?raw=true "quod d") | quod | q*uo*d | qd | qd |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/tironian%20et.png?raw=true "tironian et") | and | *and* | ⁊ | ⁊ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/paragraph.png?raw=true "paragraph") | paragraph | ¶ | ¶ | ¶ |
 
 
