@@ -6,7 +6,7 @@
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/e%20with%20hook.png?raw=true "e with hook") | e with suprascript |  m (i.e. em) | e*m* | ẻ (e with hook diacritic) | ẻ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/f%20tick.png?raw=true "f tick") | f with tick | none | adds a tick | f | f |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/biting%20fs.png?raw=true "biting fs")| biting f's | none | ﬀ (biting f's) | ff (two single f's) | ﬀ  |
-| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/extended%20g.png?raw=true "extended g") | g with extended stroke | none (potentially adds e) | adds tick | g | g | 
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/extended%20g.png?raw=true "extended g") | g with extended stroke | none (potentially adds e) | adds tick | g | g |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/h%20cross.png?raw=true "h cross") | h with stroke | nothing | ħ | h | ħ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/welsh%20l.png?raw=true "welsh l") | Welsh l | none | ỻ | ll | ỻ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/macron%20over%20on.png?raw=true "macron over on") | macron over on or n| u (i.e. oun) | n̄ | ōn̄ (over o as well)| n̄ |
@@ -16,7 +16,7 @@
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/o%20with%20macron,%20middle%20of%20word.png?raw=true "o with macron middle of word") | macron over o | m (i.e. om) | o*m* | ō | ō |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/o%20with%20tilde.png?raw=true "o with tilde") | o with tilde | ur (i.e. our) | o*ur* | õ | õ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/p%20underscore.png?raw=true "P with underscore")| p with stroke through descender | er or ar (i.e. per or par) | p*er* or p*ar* | ꝑ | ꝑ and Ꝑ |
-| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/p%20with%20right%20hook%20.png?raw=true "p with right hook ") | p with right hook suprascript | er (i.e. per) | p*er* | p̔ (inverted comma diacritic)  | p̔ |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/p%20with%20right%20hook%20.png?raw=true "p with right hook ") | p with right hook suprascript | er (i.e. per) or re (i.e. pre) | p*er* or p*re* | p̔ (inverted comma diacritic)  | p̔ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/p%20with%20left%20hook.png?raw=true "p with left hook")| p with left hook suprascript | pri | p*ri* | p̓ (comma diacritic) p̉ (hook diacritic) | p̉ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/p%20with%20back%20hook%20.png?raw=true "p with back loop") | p with loop on descender | ro (i.e. pro) | p*ro* | ꝓ (p with flourish) | ꝓ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/biting%20ps.png?raw=true "biting p") | biting p's | none | pp | bad unicode character | pp |
