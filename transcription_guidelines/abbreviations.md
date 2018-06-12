@@ -4,6 +4,7 @@
 |:-----------:|:-----------:|:------------:|:-----------:| :-----------:|:-----------:|
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/us.png?raw=true "us") | character resembling 3 | us (i.e. bus)| b*us* | ꝫ (Latin small et) | ꝫ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/e%20with%20hook.png?raw=true "e with hook") | e with suprascript |  m (i.e. em) | e*m* | ẻ (e with hook diacritic) | ẻ |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/e%20with%20macron.png?raw=true "e with macron") | e with macron | n (i.e. en) | e*n* | ē | ē |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/f%20tick.png?raw=true "f tick") | f with tick | none | adds a tick | f | f |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/biting%20fs.png?raw=true "biting fs")| biting f's | none | ﬀ (biting f's) | ff (two single f's) | ﬀ  |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/extended%20g.png?raw=true "extended g") | g with extended stroke | none (potentially adds e) | adds tick | g | g |
