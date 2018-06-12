@@ -25,6 +25,7 @@
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/r%20with%20hook.png?raw=true "r with hook") | r with right hook suprascript | e (i.e. re) | r*e* | r&#777; | r̉ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/s%20with%20diagonal.png?raw=true "s with diagonal") | long s with diagonal stroke | ser | s*er* | ẜ (long s with diagonal stroke) | ẜ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/t%20tick.png?raw=true "t tick") | t with tick | none | adds a tick | t | t |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/t%20with%20right%20hook%20.png?raw=true "t with right hook") | t with right hook suprascript | er (i.e. ter) | t*er* | t&#788; | t̔ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/thorn%20with%20right%20hook.png?raw=true "thorn with right hook") | thorn with right hook suprascript | er (i.e. þer) | þ*er* | þ̉ (hook diacritic) þ̔ (inverted comma diacritic)| þ̔ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/u%20macron.png?raw=true "u macron")| u with macron | n (i.e. un) | u*n* | ū | ū |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/u%20with%20macron%20and%20balls.png?raw=true "u with macron and balls") | u with macron and tilde | ra (i.e. ura) | u*ra* | ǖ (macron and diaeresis) | ǖ |
