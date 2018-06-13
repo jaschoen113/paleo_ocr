@@ -32,6 +32,7 @@
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/u%20with%20macron%20and%20balls.png?raw=true "u with macron and balls") | u with macron and tilde | ra (i.e. ura) | u*ra* | ǖ (macron and diaeresis) | ǖ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/u%20with%20right%20hook%20.png?raw=true "u with right hook") | u with right hook suprascript | er (i.e. uer) | u*er* | ủ (hook diacritic) | ủ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/y%20dot.png?raw=true "y dot") | y dot | none | y | ẏ | ẏ |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/y%20macron.png?raw=true "y macron") | y with macron | n (i.e. yn) | y*n* | ȳ | ȳ |
 | ![alt  text](https://github.com/gesaretto/paleo_ocr/blob/master/images/quod%20d.png?raw=true "quod d") | d with endstroke | quod | q*uo*d | qd (add nothing) | qd |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/tironian%20et.png?raw=true "tironian et") | tironian et | and | *and* | ⁊ | ⁊ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/paragraph.png?raw=true "paragraph") | paragraph marker | paragraph | ¶ | ¶ | ¶ |
