@@ -7,12 +7,14 @@ date: May 2018
 
 ### Part 1. Preliminary transcriptions
 
-- [ ] Manually transcribe 10-20 pages of CC MS 198.
+- [x] Manually transcribe 40 pages of CC MS 198 (ff. 16r-35v)
 
-    - [ ] Develop Transcription Standard
-        - [ ] Find Unicode Latin abbreviation stuff, collect manuscript weird stuff
+    - [x] Develop Transcription Standard
+        - [x] Find Unicode Latin abbreviation stuff, collect manuscript weird stuff
     - [ ] Complete Scribe D Guide (letters plus abbreviations)
-    - [ ] Figure out what to do about book transcription/"gold standard"
+    - [x] Figure out what to do about book transcription/"gold standard"
+
+- [ ] Double check transcriptions
 
 ### Part 2. Trial run
 

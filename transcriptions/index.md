@@ -50,3 +50,10 @@ MS Page:
 - [ ] __35v__: Transcribe for training (40)
 
 - __35v__-__266v__: Section for testing
+
+    - Sample folios for testing:
+
+        - ?
+        - ?
+        - ?
+        - ?
