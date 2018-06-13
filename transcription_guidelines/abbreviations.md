@@ -8,7 +8,7 @@
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/f%20tick.png?raw=true "f tick") | f with tick | none | adds a tick | f | f |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/biting%20fs.png?raw=true "biting fs")| biting f's | none | ﬀ (biting f's) | ff (two single f's) | ﬀ  |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/extended%20g.png?raw=true "extended g") | g with extended stroke | none (potentially adds e) | adds tick | g | g |
-| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/g%20with%20tilde%20.png?raw=true "g with tilde") | g with tilde | ra (i.e. gra) | g*ra* | g̃ | g̃ |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/g%20with%20tilde%20.png?raw=true "g with tilde") ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/g%20macron%20balls.png?raw=true "g with macron balls") | g with tilde or with macron and tilde | ra (i.e. gra) | g*ra* | g̃ | g̃ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/h%20cross.png?raw=true "h cross") | h with stroke | nothing | ħ | h | ħ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/welsh%20l.png?raw=true "welsh l") | Welsh l | none | ỻ | ll | ỻ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/macron%20m.png?raw=true "macron over m") | m with macron | m (i.e. mm) | m*m* | m̄ | m̄ |
