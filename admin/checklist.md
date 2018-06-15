@@ -37,3 +37,19 @@ date: May 2018
 
 - [ ] Data analysis
 - [ ] Write up results
+
+#### Questions
+
+1. What's the status of the User Interface? Should we wait before we input the transcription for the training, or can we go ahead? What are the advantages of using the new interface? Can we start by using one interface and finish the job by using the other?
+
+2. Transcription conventions.
+
+    - Multiple forms for the same letter: long s, kidney-shaped s, sigma-shaped s; should we have different characters for different letter forms, or will the software be able to work with radically different letter forms associated with the same character?
+
+    - Opposite case: letter forms that feature very small differences: the __h__ with a cross stroke and the dotted __y__; would it be better for the software if we associated slightly different letter forms with the same character?
+
+    - Another problem we have is the distinction between upper-case and lower-case letters; at times it is very hard to distinguish between the two (although the edition we are using does); at times it is just a matter of shading behind the letter. Do you have any advice about this?
+
+    - We have tried to find ways to match each special letter form--letter forms that signify abbreviations (superscript vowels and consonants, curls and hooks)--with a specific Unicode character. It has worked well so far, but we were wondering if it is the best approach. Do you have any suggestions? Have you encountered anything similar?
+
+3. What are the next steps? How do we decide on what other parts of the text to transcribe manually? How much of the document should we transcribe manually? How do we determine how accurate the software is?
