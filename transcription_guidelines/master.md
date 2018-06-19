@@ -11,7 +11,7 @@ Anglicana Formata, like other medieval bookhands, has multipe forms for certain 
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/sigma_s.png?raw=true "sigma s") | sigma s | s | σ | s |
 |![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/long_s.png?raw=true "long s") | long s | s | ſ | s|
 
-These different letter forms do not affect meaning in any way, but are either aesthetic or utilitarian; that is, they often depend on the place of "s" in a word or line (e.g. typically long-s can be either word-initial or word-final, whereas the kidney-shape s tends to be word-final, and the sigma only word-initial).
+These different letter forms do not affect meaning in any way, but are either aesthetic or functional; that is, they often depend on the place of "s" in a word or line (e.g. typically long-s can be either word-initial or word-final, whereas the kidney-shape s tends to be word-final, and the sigma only word-initial).
 
 We can either transcribe these forms individually, or collapse them together.
 
