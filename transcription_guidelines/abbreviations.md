@@ -25,16 +25,26 @@ For more multiple letter forms, see this chart below:
 
 | __Manuscript Image__ | Character Description |  __Furnivall's Transcription__ | __Unicode Option__ | Our Transcription |
 |:-----------:|:------------:|:-----------:| :-----------:|:-----------:|
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/d_looped.png?raw=true "d open loop") | d open loop| d | none | d |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/d_regular.png?raw=true "d closed loop") | d closed loop| d | none | d |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/e_chickpea.png?raw=true "chickpea e") | chickpea e | e | none | e |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/e_regular.png?raw=true "regular e") | regular e | e | e | e |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/f%20tick.png?raw=true "f tick") | f with tick | adds a tick | none | f |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/biting%20fs.png?raw=true "biting fs")| biting f's | ﬀ (connected stroke) | ﬀ (connected stroke) | ff (disconnected strokes) |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/extended%20g.png?raw=true "extended g") | g with extended stroke | adds tick | none | g |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/h%20cross.png?raw=true "h cross") | h with stroke | ħ | ħ | h |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/h_regular.png?raw=true "normal h") | normal h | h | h | h |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/welsh%20l.png?raw=true "welsh l") | Welsh l | ỻ | ỻ | ll |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/biting%20ps.png?raw=true "biting p") | biting p's | pp | none | pp |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/r_2_shaped.png?raw=true "2 r") | 2-shaped r | r | 2 | r |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/r_minuscule.png?raw=true "miniscule r") | miniscule r | r | r | r |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/r_split.png?raw=true "split r") | split r | r | none | r |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/t%20tick.png?raw=true "t tick") | t with tick |  adds a tick | none | t |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/y%20dot.png?raw=true "y dot") | y dot | y | ẏ | y |
 
 ## Abbreviations
+
+Medieval manuscripts have many abbreviations. Usually transcriptions will extend these abbreviations, marking the abbreviated letters with italics. Since Kraken requires diplomatic transcription (one-to-one characters), and abbreviations *do* carry semantic meaning (unlike the various letter forms above), we will be using special characters and diacritics to represent abbreviations. Certain choices here are quite obvious: for example, a macron
 
 | __Manuscript Image__ | Abbreviation Description | Abbreviation Extension | __Furnivall's Transcription__ | __Alternative Option__ | Temporary Rule |
 |:-----------:|:-----------:|:------------:|:-----------:| :-----------:|:-----------:|
