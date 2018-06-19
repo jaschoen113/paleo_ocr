@@ -17,7 +17,7 @@ We can either transcribe these forms individually, or collapse them together.
 
 Individually transcribing these forms is preferable if it helps the OCR system identify them correctly, and if our goal is produce a very conservative digital replication of the manuscript. However, if we were to transcribe these forms uniquely, we would use different Unicode characters for each form, and certain forms do not have a matching Unicode characters (see the kidney "s" above); while matching manuscript-character and Unicode-character is not necessary (we could edit machine-made transcriptions manually later), it is still desirable.  
 
-Collectively transcribing these forms is preferable if our goal is create a digital edition of the manuscript that is accessible to a modern reader. As well, collapsing these forms is easier for creating training data (since it is tedious to insert special characters).
+Collectively transcribing these forms is preferable if our goal is to create a digital edition of the manuscript that is accessible to a modern reader. As well, collapsing these forms is easier for creating training data (since it is tedious to insert special characters).
 
 Since Kraken is able to collapse forms, and these varieties do not affect semantics, we will be collapsing them.
 
