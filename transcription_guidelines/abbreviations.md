@@ -5,28 +5,40 @@
 
 Anglicana Formata, like other medieval bookhands, has multipe forms for certain letters. For example, the "s" can take either a kidney, sigma, or long shape:
 
+| __Manuscript Image__ | Character Description |  __Furnivall's Transcription*__ | __Unicode Option__ | Our Transcription |
+|:-----------:|:------------:|:-----------:| :-----------:|:-----------:|
+|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/kidney_s.png?raw=true "kidney s") | kidney s | s | none | s |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/sigma_s.png?raw=true "sigma s") | sigma s | s | σ | s |
+|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/long_s.png?raw=true "long s") | long s | s | ſ | s|
+
+These different letter forms do not affect meaning in any way, but are either aesthetic or utilitarian; that is, they often depend on the place of "s" in a word or line (e.g. typically long-s can be either word-initial or word-final, whereas the kidney-shape s tends to be word-final, and the sigma only word-initial).
+
+We can either transcribe these forms individually, or collapse them together.
+
+Individually transcribing these forms is preferable if it helps the OCR system identify them correctly, and if our goal is produce a very conservative digital replication of the manuscript. However, if we were to transcribe these forms uniquely, we would use different Unicode characters for each form, and certain forms do not have a matching Unicode characters (see the kidney "s" above); while matching manuscript-character and Unicode-character is not necessary (we could edit machine-made transcriptions manually later), it is still desirable.  
+
+Collectively transcribing these forms is preferable if our goal is create a digital edition of the manuscript that is accessible to a modern reader. As well, collapsing these forms is easier for creating training data (since it is tedious to insert special characters).
+
+Since Kraken is able to collapse forms, and these varieties do not affect semantics, we will be collapsing them.
+
+For more multiple letter forms, see this chart below:
+
 | __Manuscript Image__ | Character Description |  __Furnivall's Transcription__ | __Unicode Option__ | Our Transcription |
 |:-----------:|:------------:|:-----------:| :-----------:|:-----------:|
-|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/kidney_s.png?raw=true "kidney s") | Kidney "s" |
-
-Signma "s": !
-
-Long "s":
-
-These different letter forms do not affect meaning in any way, but are either aesthetic or utilitarian; they often depend on the place of "s" in a word or line (e.g. typically long-s can be either word-initial or word-final, whereas the kidney-shape s tends to be word-final, and the sigma only word-initial).
-
-We can either transcribe these forms individually, or collapse them together. If we were to transcribe them individually, we would use different Unicode characters for each form, and certain forms do not have a matching Unicode characters (see chart below); while matching manuscript-character and Unicode-character is not necessary (we could edit machine-made transcriptions manually), this would be preferable for readability. But in any case, since Kraken is able to collapse forms, and these varieties do not affect semantics, we will be collapsing them.
-
-Other multiple letter forms:
-
-| __Manuscript Image__ | Character Description |  __Furnivall's Transcription__ | __Unicode Option__ | Our Transcription |
-|:-----------:|:------------:|:-----------:| :-----------:|:-----------:|
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/d_looped.png?raw=true "d open loop") | d open loop| d | none | d |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/d_regular.png?raw=true "d closed loop") | d closed loop| d | none | d |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/e_chickpea.png?raw=true "chickpea e") | chickpea e | e | none | e |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/e_regular.png?raw=true "regular e") | regular e | e | e | e |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/f%20tick.png?raw=true "f tick") | f with tick | adds a tick | none | f |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/biting%20fs.png?raw=true "biting fs")| biting f's | ﬀ (connected stroke) | ﬀ (connected stroke) | ff (disconnected strokes) |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/extended%20g.png?raw=true "extended g") | g with extended stroke | adds tick | none | g |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/h%20cross.png?raw=true "h cross") | h with stroke | ħ | ħ | h |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/h_regular.png?raw=true "normal h") | normal h | h | h | h |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/welsh%20l.png?raw=true "welsh l") | Welsh l | ỻ | ỻ | ll |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/biting%20ps.png?raw=true "biting p") | biting p's | pp | none | pp |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/r_2_shaped.png?raw=true "2 r") | 2-shaped r | r | 2 | r |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/r_minuscule.png?raw=true "miniscule r") | miniscule r | r | r | r |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/r_split.png?raw=true "split r") | split r | r | none | r |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/t%20tick.png?raw=true "t tick") | t with tick |  adds a tick | none | t |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/y%20dot.png?raw=true "y dot") | y dot | y | ẏ | y |
 
@@ -45,6 +57,8 @@ It is often hard to distinguish between lowercase (minuscule) and uppercase (cap
 |ȝ|
 
 ## Abbreviations
+
+Medieval manuscripts have many abbreviations. Usually transcriptions will extend these abbreviations, marking the abbreviated letters with italics. Since Kraken requires diplomatic transcription (one-to-one characters), and abbreviations *do* carry semantic meaning (unlike the various letter forms above), we will be using special characters and diacritics to represent abbreviations. Certain choices here are quite obvious: for example, a macron
 
 | __Manuscript Image__ | Abbreviation Description | Abbreviation Extension | __Furnivall's Transcription__ | __Alternative Option__ | Temporary Rule |
 |:-----------:|:-----------:|:------------:|:-----------:| :-----------:|:-----------:|
