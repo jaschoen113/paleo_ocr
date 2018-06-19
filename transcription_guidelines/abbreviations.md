@@ -48,13 +48,13 @@ It is often hard to distinguish between lowercase (minuscule) and uppercase (cap
 
 |Letter|Minuscule|Capital|
 |:---|:---:|:---:|
-|h|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/h_minuscule.png "h minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/h_capital.png "h capital")|
-|l|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/l_minuscule.png "l minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/l_capital.png "l capital")|
-|þ|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/thorn_minuscule.png "þ minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/thorn_capital.png "þ capital")|
-|v|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/v_minuscule.png "v minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/v_capital.png "v capital")|
-|w|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/w_minuscule.png "w minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/w_capital.png "w capital")|
-|y|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/y_minuscule.png "y minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/y_capital.png "y capital")|
-|ȝ|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/yogh_minuscule.png "ȝ minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/yogh_capital.png "ȝ capital")|
+|h|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/h_minuscule.png?raw=true "h minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/h_capital.png?raw=true "h capital")|
+|l|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/l_minuscule.png?raw=true "l minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/l_capital.png?raw=true "l capital")|
+|þ|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/thorn_minuscule.png?raw=true "þ minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/thorn_capital.png?raw=true "þ capital")|
+|v|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/v_minuscule.png?raw=true "v minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/v_capital.png?raw=true "v capital")|
+|w|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/w_minuscule.png?raw=true "w minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/w_capital.png?raw=true "w capital")|
+|y|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/y_minuscule.png?raw=true "y minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/y_capital.png?raw=true "y capital")|
+|ȝ|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/yogh_minuscule.png?raw=true "ȝ minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/yogh_capital.png?raw=true "ȝ capital")|
 
 ## Abbreviations
 
