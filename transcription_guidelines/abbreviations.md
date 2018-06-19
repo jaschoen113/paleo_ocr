@@ -48,13 +48,13 @@ It is often hard to distinguish between lowercase (minuscule) and uppercase (cap
 
 |Letter|Minuscule|Capital|
 |:---|:---:|:---:|
-|h|
-|l|
-|þ|
-|v|
-|w|
-|y|
-|ȝ|
+|h|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/h_minuscule.png "h minuscule")|![alt text]( "h capital")|
+|l|![alt text]( "l minuscule")|![alt text]( "l capital")|
+|þ|![alt text]( "þ minuscule")|![alt text]( "þ capital")|
+|v|![alt text]( "v minuscule")|![alt text]( "v capital")|
+|w|![alt text]( "w minuscule")|![alt text]( "w capital")|
+|y|![alt text]( "y minuscule")|![alt text]( "y capital")|
+|ȝ|![alt text]( "ȝ minuscule")|![alt text]( "ȝ capital")|
 
 ## Abbreviations
 
