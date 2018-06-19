@@ -5,7 +5,7 @@
 
 Anglicana Formata, like other medieval bookhands, has multipe forms for certain letters. For example, the "s" can take either a kidney, sigma, or long shape:
 
-| __Manuscript Image__ | Character Description |  __Furnivall's Transcription*__ | __Unicode Option__ | Our Transcription |
+| __Manuscript Image__ | Character Description |  __Furnivall's Transcription__ | __Unicode Option__ | Our Transcription |
 |:-----------:|:------------:|:-----------:| :-----------:|:-----------:|
 |![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/kidney_s.png?raw=true "kidney s") | kidney s | s | none | s |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/sigma_s.png?raw=true "sigma s") | sigma s | s | σ | s |
@@ -58,7 +58,7 @@ It is often hard to distinguish between lowercase (minuscule) and uppercase (cap
 
 ## Abbreviations
 
-Medieval manuscripts have many abbreviations. Usually transcriptions will extend these abbreviations, marking the abbreviated letters with italics. Since Kraken requires diplomatic transcription (one-to-one characters), and abbreviations *do* carry semantic meaning (unlike the various letter forms above), we will be using special characters and diacritics to represent abbreviations. Certain choices here are quite obvious: for example, a macron
+Medieval manuscripts have many abbreviations. Usually transcriptions will extend these abbreviations, marking the abbreviated letters with italics. However, since Kraken requires diplomatic transcription (one-to-one characters), we can not extend the abbreviations in our training data. And since abbreviations *do* carry semantic meaning (unlike the various letter forms above), we will be using special characters and diacritics to represent abbreviations. Certain choices here are quite obvious: for example, a macron over an "o" can be easily represented with ō. Other abbreviations have no corresponding Unicode character (see, for example, "p"s with right hook and left hook suprascripts). For these forms, we have used Unicode diacritics that most closely resemble the abbreviations. We have also tried to be as consistent as possible with these abbreviations: for example, we use the same diacritic for the right hook ("er" or "re" abbreviation) over the p, n, t, þ, and u.  
 
 | __Manuscript Image__ | Abbreviation Description | Abbreviation Extension | __Furnivall's Transcription__ | __Alternative Option__ | Temporary Rule |
 |:-----------:|:-----------:|:------------:|:-----------:| :-----------:|:-----------:|
@@ -76,32 +76,27 @@ Medieval manuscripts have many abbreviations. Usually transcriptions will extend
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/p%20with%20right%20hook%20.png?raw=true "p with right hook ") | p with right hook suprascript | er (i.e. per) or re (i.e. pre) | p*er* or p*re* | p̔ (inverted comma diacritic)  | p̔ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/p%20with%20left%20hook.png?raw=true "p with left hook")| p with left hook suprascript | pri | p*ri* | p̓ (comma diacritic) p̉ (hook diacritic) | p̉ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/p%20with%20back%20hook%20.png?raw=true "p with back loop") | p with loop on descender | ro (i.e. pro) | p*ro* | ꝓ (p with flourish) | ꝓ |
-| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/r%20with%20hook.png?raw=true "r with hook") | r with right hook suprascript | e (i.e. re) | r*e* | r&#777; | r̉ |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/r%20with%20hook.png?raw=true "r with hook") | r with left hook suprascript | e (i.e. re) | r*e* | r&#777; | r̉ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/s%20with%20diagonal.png?raw=true "s with diagonal") | long s with diagonal stroke | ser | s*er* | ẜ (long s with diagonal stroke) | ẜ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/t%20with%20right%20hook%20.png?raw=true "t with right hook") | t with right hook suprascript | er (i.e. ter) | t*er* | t&#788; | t̔ |
-| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/thorn%20with%20right%20hook.png?raw=true "thorn with right hook") | thorn with right hook suprascript | er (i.e. þer) | þ*er* | þ̉ (hook diacritic) þ̔ (inverted comma diacritic)| þ̔ |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/thorn%20with%20right%20hook.png?raw=true "thorn with right hook") | thorn with right hook suprascript | er (i.e. þer) | þ*er* | þ̔ (inverted comma diacritic)| þ̔ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/u%20macron.png?raw=true "u macron")| u with macron | n (i.e. un) | u*n* | ū | ū |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/u%20with%20macron%20and%20balls.png?raw=true "u with macron and balls") | u with macron and tilde | ra (i.e. ura) | u*ra* | ǖ (macron and diaeresis) | ǖ |
-| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/u%20with%20right%20hook%20.png?raw=true "u with right hook") | u with right hook suprascript | er (i.e. uer) | u*er* | ủ (hook diacritic) | ủ |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/u%20with%20right%20hook%20.png?raw=true "u with right hook") | u with right hook suprascript | er (i.e. uer) | u*er* | ủ (hook diacritic) u&#788; (inverted comma diacritic) | u&#788; |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/y%20macron.png?raw=true "y macron") | y with macron | n (i.e. yn) | y*n* | ȳ | ȳ |
 | ![alt  text](https://github.com/gesaretto/paleo_ocr/blob/master/images/quod%20d.png?raw=true "quod d") | d with endstroke | quod | q*uo*d | qd (add nothing) | qd |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/tironian%20et.png?raw=true "tironian et") | tironian et | and | *and* | ⁊ | ⁊ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/paragraph.png?raw=true "paragraph") | paragraph marker | paragraph | ¶ | ¶ | ¶ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/word%20bar.png?raw=true "word bar") | vertical bar | divides cramped words | nothing (space) | &#124; | &#124; |
 
-## Temporary rules
-
-1. If there's a unicode character, and the abbreviation definitely affects the word, use unicode character
-2. If there's a unicode character, and the abbreviation does not affect the word, unclear
-3. If there's not a unicode character, and the abbreviation affects the word, unclear
-4. If there's not a unicode character, and the abbreviation does not affect the word, don't use anything
+"Furnivall's transcription" refers to *The Corpus MS of Chaucer's Canterbury Tales* ed. by Frederick J. [Furnivall](https://babel.hathitrust.org/cgi/pt?id=uva.x030198621;view=1up;seq=25), a print transcription of MS 198 from 1868-79
 
 
-Useful Links:   
+### Useful Links   
 MUFI[http://folk.uib.no/hnooh/mufi/]  
 Unicode and Macron[http://www.personal.psu.edu/ejp10/psu/gotunicode/macron.html]   
 
-## Unicode HTML codes
+### Unicode HTML codes
 
 (add semi-colon to end of codes)
 
