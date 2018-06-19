@@ -30,6 +30,20 @@ Other multiple letter forms:
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/t%20tick.png?raw=true "t tick") | t with tick |  adds a tick | none | t |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/y%20dot.png?raw=true "y dot") | y dot | y | ẏ | y |
 
+### Lowercase and uppercase
+
+It is often hard to distinguish between lowercase (minuscule) and uppercase (capital) letter forms. At times the scribe uses completely different graphs (for instance B and b, R and r, S and s); but often the distinction seems too subtle to be perceivable (for example, W and w, Þ and þ). Our reference, Furnivall's transcription, apparently distinguishes between capital and minuscule characters depending on their position; but we doubt that there are enough formal elements to justify this choice. Here are some examples
+
+|Letter|Minuscule|Capital|
+|:---|:---:|:---:|
+|h|
+|l|
+|þ|
+|v|
+|w|
+|y|
+|ȝ|
+
 ## Abbreviations
 
 | __Manuscript Image__ | Abbreviation Description | Abbreviation Extension | __Furnivall's Transcription__ | __Alternative Option__ | Temporary Rule |
