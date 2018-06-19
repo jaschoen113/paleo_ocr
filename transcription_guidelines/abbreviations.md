@@ -44,7 +44,7 @@ For more multiple letter forms, see this chart below:
 
 ### Lowercase and uppercase
 
-It is often hard to distinguish between lowercase (minuscule) and uppercase (capital) letter forms. At times the scribe uses completely different graphs (for instance B and b, R and r, S and s); but often the distinction seems too subtle to be perceivable (for example, W and w, Þ and þ). Our reference, Furnivall's transcription, apparently distinguishes between capital and minuscule characters depending on their position; but we doubt that there are enough formal elements to justify this choice. Here are some examples
+It is often hard to distinguish between lowercase (minuscule) and uppercase (capital) letter forms. At times the scribe uses completely different graphs (for instance B and b, R and r, S and s); but often the distinction seems too subtle to be perceivable (for example, W and w, Þ and þ). Our reference, Furnivall's transcription, apparently distinguishes between capital and minuscule characters depending on their position; but we doubt that there are enough formal elements to justify this choice. Uppercase letters are often shaded slightly to mark their capital form, but this shading will not be visible to Kraken, which receives a binarized (black and white) photo.  Here are some examples:
 
 |Letter|Minuscule|Capital|
 |:---|:---:|:---:|
@@ -55,6 +55,8 @@ It is often hard to distinguish between lowercase (minuscule) and uppercase (cap
 |w|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/w_minuscule.png?raw=true "w minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/w_capital.png?raw=true "w capital")|
 |y|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/y_minuscule.png?raw=true "y minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/y_capital.png?raw=true "y capital")|
 |ȝ|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/yogh_minuscule.png?raw=true "ȝ minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/yogh_capital.png?raw=true "ȝ capital")|
+
+Because these differences appear negligible, and will probably be difficult for the machine to discern, we will be transcribing these characters in their lower-case form. 
 
 ## Abbreviations
 
