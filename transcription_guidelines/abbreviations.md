@@ -48,13 +48,13 @@ It is often hard to distinguish between lowercase (minuscule) and uppercase (cap
 
 |Letter|Minuscule|Capital|
 |:---|:---:|:---:|
-|h|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/h_minuscule.png "h minuscule")|![alt text]( "h capital")|
-|l|![alt text]( "l minuscule")|![alt text]( "l capital")|
-|þ|![alt text]( "þ minuscule")|![alt text]( "þ capital")|
-|v|![alt text]( "v minuscule")|![alt text]( "v capital")|
-|w|![alt text]( "w minuscule")|![alt text]( "w capital")|
-|y|![alt text]( "y minuscule")|![alt text]( "y capital")|
-|ȝ|![alt text]( "ȝ minuscule")|![alt text]( "ȝ capital")|
+|h|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/h_minuscule.png "h minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/h_capital.png "h capital")|
+|l|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/l_minuscule.png "l minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/l_capital.png "l capital")|
+|þ|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/thorn_minuscule.png "þ minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/thorn_capital.png "þ capital")|
+|v|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/v_minuscule.png "v minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/v_capital.png "v capital")|
+|w|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/w_minuscule.png "w minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/w_capital.png "w capital")|
+|y|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/y_minuscule.png "y minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/y_capital.png "y capital")|
+|ȝ|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/yogh_minuscule.png "ȝ minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/yogh_capital.png "ȝ capital")|
 
 ## Abbreviations
 
