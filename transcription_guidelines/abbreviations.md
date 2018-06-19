@@ -5,19 +5,23 @@
 
 Anglicana Formata, like other medieval bookhands, has multipe forms for certain letters. For example, the "s" can take either a kidney, sigma, or long shape:
 
-| __Manuscript Image__ | Character Description |  __Furnivall's Transcription__ | __Unicode Option__ | Our Transcription |
+| __Manuscript Image__ | Character Description |  __Furnivall's Transcription*__ | __Unicode Option__ | Our Transcription |
 |:-----------:|:------------:|:-----------:| :-----------:|:-----------:|
-|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/kidney_s.png?raw=true "kidney s") | Kidney "s" |
+|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/kidney_s.png?raw=true "kidney s") | kidney s | s | none | s |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/sigma_s.png?raw=true "sigma s") | sigma s | s | σ | s |
+|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/long_s.png?raw=true "long s") | long s | s | ſ | s|
 
-Signma "s": !
+These different letter forms do not affect meaning in any way, but are either aesthetic or utilitarian; that is, they often depend on the place of "s" in a word or line (e.g. typically long-s can be either word-initial or word-final, whereas the kidney-shape s tends to be word-final, and the sigma only word-initial).
 
-Long "s":
+We can either transcribe these forms individually, or collapse them together.
 
-These different letter forms do not affect meaning in any way, but are either aesthetic or utilitarian; they often depend on the place of "s" in a word or line (e.g. typically long-s can be either word-initial or word-final, whereas the kidney-shape s tends to be word-final, and the sigma only word-initial).
+Individually transcribing these forms is preferable if it helps the OCR system identify them correctly, and if our goal is produce a very conservative digital replication of the manuscript. However, if we were to transcribe these forms uniquely, we would use different Unicode characters for each form, and certain forms do not have a matching Unicode characters (see the kidney "s" above); while matching manuscript-character and Unicode-character is not necessary (we could edit machine-made transcriptions manually later), it is still desirable.  
 
-We can either transcribe these forms individually, or collapse them together. If we were to transcribe them individually, we would use different Unicode characters for each form, and certain forms do not have a matching Unicode characters (see chart below); while matching manuscript-character and Unicode-character is not necessary (we could edit machine-made transcriptions manually), this would be preferable for readability. But in any case, since Kraken is able to collapse forms, and these varieties do not affect semantics, we will be collapsing them.
+Collectively transcribing these forms is preferable if our goal is create a digital edition of the manuscript that is accessible to a modern reader. As well, collapsing these forms is easier for creating training data (since it is tedious to insert special characters).
 
-Other multiple letter forms:
+Since Kraken is able to collapse forms, and these varieties do not affect semantics, we will be collapsing them.
+
+For more multiple letter forms, see this chart below:
 
 | __Manuscript Image__ | Character Description |  __Furnivall's Transcription__ | __Unicode Option__ | Our Transcription |
 |:-----------:|:------------:|:-----------:| :-----------:|:-----------:|
