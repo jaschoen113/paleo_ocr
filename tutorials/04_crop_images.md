@@ -32,13 +32,9 @@ Adapted from [Linux Academy](https://linuxacademy.com/blog/linux/cropping-multip
 
 7. Type the following command:
 
-
 	> `for i in $(ls *.jpg); do convert -crop {width}x{height}+{X}+{Y} $i cropped_$i; done`
 
-	> `*.jpg; do convert -crop {width}x{height}+{X}+{Y} $file cropped_$file; done`
-
-
-	- Where, of course, "width," "height," "x," and "y" are the values that you jotted down from Gimp; while "*.jpg" corresponds to the extension of the image files that you have saved in your folder.
+	- Where, of course, "width," "height," "x," and "y" are the values that you jotted down from Gimp; while "*.jpg" corresponds to the extension of the image files that you have saved in your folder. (__Do not include the curly brackets!__)
 
 	- __Note__: if you don't want to create cropped copies of your original files, but simply replace them, you can use this command: `mogrify -crop {width}x{height}+{X}+{Y} *.jpg`.
 
