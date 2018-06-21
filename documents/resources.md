@@ -15,9 +15,14 @@
 ### Scribe D Resources
 
 - University of York's *Late Medieval English Scribes* [Profile](https://www.medievalscribes.com/index.php?navtype=scribes&navappellation=John%20Marchaunt%20or%20Scribe%20D&browse=hands&id=1&msid=58&nav=off) of Scribe D
-- Estelle Stubbs' [article](https://www.jstor.org/stable/pdf/4501580.pdf?refreqid=excelsior%3A6fdf24a258b51bd73d6b500273f2b021) on MS 198 
+- Estelle Stubbs' [article](https://www.jstor.org/stable/pdf/4501580.pdf?refreqid=excelsior%3A6fdf24a258b51bd73d6b500273f2b021) on MS 198
 -  Doyle and Parkes. "The production of copies of the Canterbury tales and the Confessio amantis in the
-early fifteenth century." in *Medieval Scribes, Manuscripts, and Libraries*. 1978 
+early fifteenth century." in *Medieval Scribes, Manuscripts, and Libraries*. 1978
+- William S McCormick. *The Manuscripts of Chaucer’s
+Canterbury Tales: A Critical Description of their
+Contents*. 1933
+- J. M. Manly  and E. Rickert.
+*The Text of the Canterbury Tales*. Chicago, 1940. 
 
 ### Resources for transcription
 
