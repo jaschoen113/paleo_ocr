@@ -1,5 +1,4 @@
-# paleo_ocr
-Improving OCR for Middle English Manuscripts
+# Project Description
 
 This project aims to train an OCR system on a corpus of medieval manuscripts. Manuscripts pose significant challenges to automated processing, as they feature elaborate and often cryptic handwriting systems (scripts) which vary dramatically across period, region, and scribe. They also tend to contain extensive marginal elements that an engine should be trained to ignore, or treat differently: either intentional (like decorations or annotations) or accidental (like stains or rips). Finally, given that the most advanced OCR engines often rely on comprehensive dictionaries to improve accuracy, the inconsistent orthography of medieval languages (like Middle English) poses an additional obstacle to efficient automated transcription.
 
