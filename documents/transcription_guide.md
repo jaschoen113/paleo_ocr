@@ -11,13 +11,13 @@ Anglicana Formata, like other medieval bookhands, has multipe forms for certain 
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/sigma_s.png?raw=true "sigma s") | sigma s | s | σ | s |
 |![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/long_s.png?raw=true "long s") | long s | s | ſ | s|
 
-These different letter forms do not affect meaning in any way, but are either aesthetic or utilitarian; that is, they often depend on the place of "s" in a word or line (e.g. typically long-s can be either word-initial or word-final, whereas the kidney-shape s tends to be word-final, and the sigma only word-initial).
+These different letter forms do not affect meaning in any way, but are either aesthetic or functional; that is, they often depend on the place of "s" in a word or line (e.g. typically long-s can be either word-initial or word-final, whereas the kidney-shape s tends to be word-final, and the sigma only word-initial).
 
 We can either transcribe these forms individually, or collapse them together.
 
 Individually transcribing these forms is preferable if it helps the OCR system identify them correctly, and if our goal is produce a very conservative digital replication of the manuscript. However, if we were to transcribe these forms uniquely, we would use different Unicode characters for each form, and certain forms do not have a matching Unicode characters (see the kidney "s" above); while matching manuscript-character and Unicode-character is not necessary (we could edit machine-made transcriptions manually later), it is still desirable.  
 
-Collectively transcribing these forms is preferable if our goal is create a digital edition of the manuscript that is accessible to a modern reader. As well, collapsing these forms is easier for creating training data (since it is tedious to insert special characters).
+Collectively transcribing these forms is preferable if our goal is to create a digital edition of the manuscript that is accessible to a modern reader. As well, collapsing these forms is easier for creating training data (since it is tedious to insert special characters).
 
 Since Kraken is able to collapse forms, and these varieties do not affect semantics, we will be collapsing them.
 
@@ -56,7 +56,7 @@ It is often hard to distinguish between lowercase (minuscule) and uppercase (cap
 |y|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/y_minuscule.png?raw=true "y minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/y_capital.png?raw=true "y capital")|
 |ȝ|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/yogh_minuscule.png?raw=true "ȝ minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/yogh_capital.png?raw=true "ȝ capital")|
 
-Because these differences appear negligible, and will probably be difficult for the machine to discern, we will be transcribing these characters in their lower-case form.
+Because these differences appear negligible, and will probably be difficult for the machine to discern, we will be transcribing these characters in their lower-case form. 
 
 ## Abbreviations
 
