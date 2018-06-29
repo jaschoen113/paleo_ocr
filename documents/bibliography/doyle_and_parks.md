@@ -42,6 +42,7 @@ Doyle, A.I. and M.B. Parkes. "The production of copies of the _Canterbury Tales_
   - Δ's tops irregular and bottoms fairly level, more uneven  
   - Also difference between forms of **r** and **s**
   - Note: anglicana formata is used for Latin manuscripts, just different aspect (not formation)
+
 List of other Scribe D manuscripts:  
   1. London, Univ. Lib., MS V.88 (Piers Plowman)
   2. London, Brit. Lib., Additional MS 27944 (Trevisa), fols. 2-7v and 196-335v
@@ -53,6 +54,7 @@ List of other Scribe D manuscripts:
   8. New York, Columbia Univ. Lib., Plimpton MS 265 (Confessio Amantis)
   9. London, Brit. Lib., MS Egerton 1991 (Confessio Amantis)
   10. Oxford, Bodleian Lib., MS Bodley 294 (Confessio Amantis)
+
 List of Δ's manuscripts:  
   1. Cambridge, St John’s Coll., MSH.i (204) (Trevisa, Polychronicon)
   2. London, Brit. Lib., Additional MS 24194 (Trevisa, Polychronicon)
