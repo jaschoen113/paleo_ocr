@@ -49,7 +49,7 @@ List of other Scribe D manuscripts:
   3. London, Brit. Lib., MS Harley 7334 (Canterbury Tales)
   4. Oxford, Corpus Christi Coll., MS 198 (Canterbury Tales)
   5. Oxford, Bodleian Lib., MS Bodley 902 (Confessio Amantis), fols. 2-16v
-  6. Oxford, Corpus Christi CoU., MS 67 [Confessio Amantis)
+  6. Oxford, Corpus Christi CoU., MS 67 (Confessio Amantis)
   7. Oxford, Christ Church, MS148 (Confessio Amantis)
   8. New York, Columbia Univ. Lib., Plimpton MS 265 (Confessio Amantis)
   9. London, Brit. Lib., MS Egerton 1991 (Confessio Amantis)
