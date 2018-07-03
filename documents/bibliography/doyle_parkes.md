@@ -43,17 +43,19 @@ Doyle, A.I. and M.B. Parkes. "The production of copies of the _Canterbury Tales_
   - Also difference between forms of **r** and **s**
   - Note: anglicana formata is used for Latin manuscripts, just different aspect (not formation)
 
-List of other Scribe D manuscripts:  
+List of Scribe D manuscripts:  
   1. London, Univ. Lib., MS V.88 (Piers Plowman)
   2. London, Brit. Lib., Additional MS 27944 (Trevisa), fols. 2-7v and 196-335v
   3. London, Brit. Lib., MS Harley 7334 (Canterbury Tales)
   4. Oxford, Corpus Christi Coll., MS 198 (Canterbury Tales)
   5. Oxford, Bodleian Lib., MS Bodley 902 (Confessio Amantis), fols. 2-16v
   6. Oxford, Corpus Christi CoU., MS 67 (Confessio Amantis)
-  7. Oxford, Christ Church, MS148 (Confessio Amantis)
+  7. Oxford, Christ Church, MS 148 (Confessio Amantis)
   8. New York, Columbia Univ. Lib., Plimpton MS 265 (Confessio Amantis)
   9. London, Brit. Lib., MS Egerton 1991 (Confessio Amantis)
   10. Oxford, Bodleian Lib., MS Bodley 294 (Confessio Amantis)
+  11. Oxford, Trinity College. MS R.3.2 (Confessio Amantis), quires 9, 15-19 and the final recto of 14
+  12. Princeton, Taylor MS 5 (Confessio Amantis), fols. 9r-193r [not identified in Doyle Parkes, added by Pearsall ]
 
 List of Δ's manuscripts:  
   1. Cambridge, St John’s Coll., MSH.i (204) (Trevisa, Polychronicon)
