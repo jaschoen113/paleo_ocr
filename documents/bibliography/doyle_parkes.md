@@ -20,12 +20,14 @@ Doyle, A.I. and M.B. Parkes. "The production of copies of the _Canterbury Tales_
   - **h** tail-stroke tucked under
   - rounded downward curve on some shoulders of final long-**r***
   - catchwords and directions for artist almost certainly D's informal hand  
+
 - Theoretical History on Scribe D (p. 195-6):
   - His Piers Plowman probably one of his earliest efforts
   - Probably worked from around 1390-1426
   - Probably a full time scribe
   - Very little variation over his career
   - D and B produced highest quality work of period     
+
 - Info on MS 198 (p. 192-3):
   - Best representation of the 'c' tradition of CT
   - Defective at end
@@ -35,6 +37,7 @@ Doyle, A.I. and M.B. Parkes. "The production of copies of the _Canterbury Tales_
   - Headings and colophons in same ink as the text, placed so that no visible gaps
   - Headings in Latin/English follow no formula
   - Vestiges of chapter numbers in headings and rulers (not margins)
+
 - Difference between D and Δ (pp. 178, 206-8):
   - D and Δ very similar in style, especially in Δ's Paris manuscript
   - Both set pace for the script
@@ -55,7 +58,7 @@ List of Scribe D manuscripts:
   9. London, Brit. Lib., MS Egerton 1991 (Confessio Amantis)
   10. Oxford, Bodleian Lib., MS Bodley 294 (Confessio Amantis)
   11. Oxford, Trinity College. MS R.3.2 (Confessio Amantis), quires 9, 15-19 and the final recto of 14
-  12. Princeton, Taylor MS 5 (Confessio Amantis), fols. 9r-193r [not identified in Doyle Parkes, added by Pearsall ]
+  12. Princeton, Taylor MS 5 (Confessio Amantis), fols. 9r-193r [not identified in Doyle Parkes, added by Pearsall]
 
 List of Δ's manuscripts:  
   1. Cambridge, St John’s Coll., MSH.i (204) (Trevisa, Polychronicon)
