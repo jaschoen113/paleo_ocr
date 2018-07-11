@@ -16,7 +16,7 @@ Canterbury Tales*.
 ### MS 198 Images
 
 - Large Downloadable Images at [Early Manuscripts at Oxford University](http://image.ox.ac.uk/show?collection=corpus&manuscript=ms198)
-- Easier to read version at [Digital Bodleian](https://tinyurl.com/ycd26ohphttps://tinyurl.com/ycd26ohp)
+- Easier to read version at [Digital Bodleian](https://digital.bodleian.ox.ac.uk/inquire/p/bd648c05-aba4-46ee-b36c-030a657bc75d)
 
 ### Scribe D Information
 
