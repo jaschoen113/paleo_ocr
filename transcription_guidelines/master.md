@@ -56,7 +56,15 @@ It is often hard to distinguish between lowercase (minuscule) and uppercase (cap
 |y|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/y_minuscule.png?raw=true "y minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/y_capital.png?raw=true "y capital")|
 |ȝ|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/yogh_minuscule.png?raw=true "ȝ minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/yogh_capital.png?raw=true "ȝ capital")|
 
-Because these differences appear negligible, and will probably be difficult for the machine to discern, we will be transcribing these characters in their lower-case form. 
+Because these differences appear negligible, and will probably be difficult for the machine to discern, we will be transcribing these characters in their lower-case form.
+
+The uppercase forms should be transcribed as such:
+
+|Letter|Minuscule|Capital|
+|:---|:---:|:---:|
+| a |
+
+
 
 ## Abbreviations
 
