@@ -62,7 +62,15 @@ The uppercase forms should be transcribed as such:
 
 |Letter|Minuscule|Capital|
 |:---|:---:|:---:|
-| a |
+| a | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/lowercase%20A.png?raw=true "lowercase a") | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/uppercase%20A1.png?raw=true "uppercase a1") ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/uppercase%20A2.png?raw=true "uppercase a2") ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/uppercase%20A3.png?raw=true "uppercase a3") |
+| b |
+| c |
+| d | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/lowercase%20D.png?raw=true "lowercase d") | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/uppercase%20D.png?raw=true "uppercase D")|
+| e |
+| f |  
+| g |
+| h | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/lowercase%20H.png?raw=true "lowercase h") | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/uppercase%20H.png?raw=true "uppercase H")|
+| i | | ![alt text]( "uppercase I") |
 
 
 
