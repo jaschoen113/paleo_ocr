@@ -56,22 +56,20 @@ It is often hard to distinguish between lowercase (minuscule) and uppercase (cap
 |y|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/y_minuscule.png?raw=true "y minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/y_capital.png?raw=true "y capital")|
 |ȝ|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/yogh_minuscule.png?raw=true "ȝ minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/yogh_capital.png?raw=true "ȝ capital")|
 
-Because these differences appear negligible, and will probably be difficult for the machine to discern, we will be transcribing these characters in their lower-case form.
+Because these differences appear negligible, and will probably be difficult for the machine to discern, we will be transcribing such characters in their lower-case form.
 
-The uppercase forms should be transcribed as such:
+The following letters have no capital form, and even though they may be shaded in capital placement (as above), we will be transcribing them as lowercase: f, j, k, l, u, x, y, z, þ, ȝ
 
-|Letter|Minuscule|Capital|
-|:---|:---:|:---:|
-| a | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/lowercase%20A.png?raw=true "lowercase a") | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/uppercase%20A1.png?raw=true "uppercase a") ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/uppercase%20A2.png?raw=true "uppercase a") ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/uppercase%20A3.png?raw=true "uppercase a") |
-| b |
-| c |
-| d | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/lowercase%20D.png?raw=true "lowercase d") | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/uppercase%20D.png?raw=true "uppercase D")|
-| e |
-| f |  
-| g |
-| h | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/lowercase%20H.png?raw=true "lowercase h") | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/uppercase%20H.png?raw=true "uppercase H")|
-| i | | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/uppercase%20I.png?raw=true "uppercase I") ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/uppercase%20I2.png?raw=true "uppercase I")|
-| j | 
+There are some remaining concerns about the following forms:
+
+|Letter| Potential Capital | Note |
+|:---|---:|
+| h | 
+| w | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/uppercase%20W.png?raw=true "high middle w")
+| d | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/uppercase%20D.png?raw=true "extended d")
+| r | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/uppercase%20R%20.png?raw=true "modern r")
+
+
 
 ## Abbreviations
 
