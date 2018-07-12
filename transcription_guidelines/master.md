@@ -65,7 +65,7 @@ Note: there are formal capitals for **V** for and **H**, but often the scribe us
 There are some remaining concerns about the following forms:
 
 |Letter| Potential Capital | Note |
-|:---:|:---:|
+|:---:|:---:| :----: |
 | h | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/uppercase%20h2.png?raw=true "big h") | significantly larger, slightly different form |
 | d | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/uppercase%20D.png?raw=true "extended d") | extended loop, Mooney identifies as capital  |
 
