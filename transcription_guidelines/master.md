@@ -1,6 +1,5 @@
 ## Transcription Problems and Guidelines
 
-
 ### Multiple Letter Forms
 
 Anglicana Formata, like other medieval bookhands, has multipe forms for certain letters. For example, the "s" can take either a kidney, sigma, or long shape:
@@ -19,9 +18,9 @@ Individually transcribing these forms is preferable if it helps the OCR system i
 
 Collectively transcribing these forms is preferable if our goal is to create a digital edition of the manuscript that is accessible to a modern reader. As well, collapsing these forms is easier for creating training data (since it is tedious to insert special characters).
 
-Since Kraken is able to collapse forms, and these varieties do not affect semantics, we will be collapsing them.
+Since Kraken is able to collapse forms, and these varieties do not affect semantics, **we will be collapsing them.**
 
-For more multiple letter forms, see this chart below:
+For more examples of multiple letter forms, see the below chart, as well as our full character guide for Scribe D:
 
 | __Manuscript Image__ | Character Description |  __Furnivall's Transcription__ | __Unicode Option__ | Our Transcription |
 |:-----------:|:------------:|:-----------:| :-----------:|:-----------:|
@@ -44,9 +43,12 @@ For more multiple letter forms, see this chart below:
 
 ### Lowercase and uppercase
 
-It is often hard to distinguish between lowercase (minuscule) and uppercase (capital) letter forms. At times the scribe uses completely different graphs (for instance B and b, R and r, S and s); but often the distinction seems too subtle to be perceivable (for example, W and w, Þ and þ). Our reference, Furnivall's transcription, apparently distinguishes between capital and minuscule characters depending on their position; but we doubt that there are enough formal elements to justify this choice. Uppercase letters are often shaded slightly to mark their capital form, but this shading will not be visible to Kraken, which receives a binarized (black and white) photo.  Here are some examples:
+It is often hard to distinguish between lowercase (minuscule) and uppercase (capital) letter forms. At times the scribe uses completely different graphs (for instance B and b, R and r, S and s); but often the distinction seems too subtle to be perceivable (for example, W and w, Þ and þ). Our reference, Furnivall's transcription, apparently distinguishes between capital and minuscule characters depending on their position; but we doubt that there are enough formal elements to justify this choice. Uppercase letters are often shaded slightly to mark their capital form, but this shading will not be visible to Kraken, which receives a binarized (black and white) photo.  
 
-|Letter|Minuscule|Capital|
+
+Here are some examples:
+
+|Letter|Minuscule|Shaded Capital|
 |:---|:---:|:---:|
 |h|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/h_minuscule.png?raw=true "h minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/h_capital.png?raw=true "h capital")|
 |l|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/l_minuscule.png?raw=true "l minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/l_capital.png?raw=true "l capital")|
@@ -58,18 +60,18 @@ It is often hard to distinguish between lowercase (minuscule) and uppercase (cap
 
 Because these differences appear negligible, and will probably be difficult for the machine to discern, we will be transcribing such characters in their lower-case form.
 
-The following letters have no capital form, and even though they may be shaded in capital placement (as above), we will be transcribing them as lowercase: f, j, k, l, u, x, y, z, þ, ȝ
+Note: there are formal capitals for **V** for and **H**, but often the scribe uses the miniscule forms instead. However, **L**, **Þ**, **Ȝ**, **W**, **Y** do not seem to have distinct capital forms, nor does there appear to be a **J**, **K**, **U**, **X**, or **Z**. For capital **F**, the scribe uses a double f, which we will transcribe ff. An expanded chart of character forms can be found here.
 
 There are some remaining concerns about the following forms:
 
 |Letter| Potential Capital | Note |
-|:---|---:|
-| h | 
-| w | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/uppercase%20W.png?raw=true "high middle w")
-| d | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/uppercase%20D.png?raw=true "extended d")
-| r | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/uppercase%20R%20.png?raw=true "modern r")
+|:---:|:---:|
+| h | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/uppercase%20h2.png?raw=true "big h") | significantly larger, slightly different form |
+| d | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/uppercase%20D.png?raw=true "extended d") | extended loop, Mooney identifies as capital  |
 
+Given that these two forms appear exaggerated enough, and especially that this **D** has been identified by paleographers as a capital (see Late Medieval English Scribal Profile of Scribe D), we will be transcribing these two forms as capitals.
 
+In conclusion, any character that "should" semantically or geographically be a capital, but *looks* nearly or totally indistinguishable from the the miniscule, will be transcribed as a miniscule. To see examples of "proper" capitals and miniscules, consult the expanded character chart.
 
 ## Abbreviations
 
