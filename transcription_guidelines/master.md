@@ -20,7 +20,7 @@ Collectively transcribing these forms is preferable if our goal is to create a d
 
 Since Kraken is able to collapse forms, and these varieties do not affect semantics, **we will be collapsing them.**
 
-For more examples of multiple letter forms, see the below chart, as well as our full character guide for Scribe D:
+For more examples of multiple letter forms, see the below chart, as well as our full character [guide](https://github.com/gesaretto/paleo_ocr/blob/master/transcription_guidelines/Scribe%20D%20Letters%20Guide.pdf) for Scribe D:
 
 | __Manuscript Image__ | Character Description |  __Furnivall's Transcription__ | __Unicode Option__ | Our Transcription |
 |:-----------:|:------------:|:-----------:| :-----------:|:-----------:|
@@ -60,7 +60,7 @@ Here are some examples:
 
 Because these differences appear negligible, and will probably be difficult for the machine to discern, we will be transcribing such characters in their lower-case form.
 
-Note: there are formal capitals for **V** for and **H**, but often the scribe uses the miniscule forms instead. However, **L**, **Þ**, **Ȝ**, **W**, **Y** do not seem to have distinct capital forms, nor does there appear to be a **J**, **K**, **U**, **X**, or **Z**. For capital **F**, the scribe uses a double f, which we will transcribe ff. An expanded chart of character forms can be found here.
+Note: there are formal capitals for **V** for and **H**, but often the scribe uses the miniscule forms instead. However, **L**, **Þ**, **Ȝ**, **W**, **Y** do not seem to have distinct capital forms, nor does there appear to be a **J**, **K**, **U**, **X**, or **Z**. For capital **F**, the scribe uses a double f, which we will transcribe ff. An expanded chart of character forms can be found [here](https://github.com/gesaretto/paleo_ocr/blob/master/transcription_guidelines/Scribe%20D%20Letters%20Guide.pdf).
 
 There are some remaining concerns about the following forms:
 
