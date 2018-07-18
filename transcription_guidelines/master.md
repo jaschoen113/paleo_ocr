@@ -71,18 +71,9 @@ Here are some examples:
 
 Because these differences appear negligible, and will probably be difficult for the machine to discern, we will be transcribing such characters in their lowercase form.
 
-Note: there are formal capitals for **V** for and **H**, but often the scribe uses the miniscule forms instead. **L**, **Þ**, **Ȝ**, **W**, **Y** (above) do not seem to have distinct capital forms, nor do **J**, **K**, **U**, **X**, or **Z**. For capital **F**, the scribe uses a double f, which we will transcribe ff. An expanded chart of Scribe D's character forms can be found [here](https://github.com/gesaretto/paleo_ocr/blob/master/transcription_guidelines/Scribe%20D%20Letters%20Guide.pdf).
+Note: there are formal capitals for certain letters like **V**, **H** and **D**, but often the scribe uses the miniscule forms instead. **Þ**, **Ȝ**, **W**, **Y** (above) do not seem to have distinct capital forms, nor do **J**, **K**, **U**, **X**, or **Z**. For capital **F**, the scribe uses a double f, which we will transcribe ff. An expanded chart of Scribe D's character forms can be found [here](https://github.com/gesaretto/paleo_ocr/blob/master/transcription_guidelines/Scribe%20D%20Letters%20Guide.pdf).
 
-As well, these two forms are somewhat ambiguous:
-
-|Letter| Potential Capital | Note |
-|:---:|:---:| :----: |
-| h | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/uppercase%20h2.png?raw=true "big h") | significantly larger and slightly different in shape compared to other **h**s |
-| d | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/uppercase%20D.png?raw=true "extended d") | extended loop compared to other **d**s, and Mooney identifies this as as capital **D** |
-
-Given that these two forms appear exaggerated enough, and especially that this **D** has been identified by paleographers as a capital (see Late Medieval English Scribal Profile of Scribe D), we will be transcribing these two forms as capitals.
-
-**In conclusion, any character that "should" be a capital (semantically or geographically), but *looks* nearly or totally indistinguishable from the the miniscule, will be transcribed as a miniscule**. To see examples of "proper" capitals and miniscules, consult the expanded character [chart](https://github.com/gesaretto/paleo_ocr/blob/master/transcription_guidelines/Scribe%20D%20Letters%20Guide.pdf).
+**In conclusion, any character that "should" be a capital (semantically or positionally), but *looks* nearly or totally indistinguishable from the miniscule, will be transcribed as a miniscule**. To see examples of "proper" capitals and miniscules, consult the expanded character [chart](https://github.com/gesaretto/paleo_ocr/blob/master/transcription_guidelines/Scribe%20D%20Letters%20Guide.pdf).
 
 ### Abbreviations
 
