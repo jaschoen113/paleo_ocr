@@ -11,11 +11,11 @@ date: May 2018
 
     - [x] Develop Transcription Standard
         - [x] Find Unicode Latin abbreviation stuff, collect manuscript weird stuff
-    - [ ] Complete Scribe D Guide (letters plus abbreviations)
+    - [x] Complete Scribe D Guide (letters plus abbreviations)
     - [ ] Complete MS 198 description (after reading various sources)
     - [x] Figure out what to do about book transcription/"gold standard"
 
-- [ ] Double check transcriptions
+- [x] Double check transcriptions
 
 ### Part 2. Trial run
 
