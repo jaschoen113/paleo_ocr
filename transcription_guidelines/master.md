@@ -69,11 +69,11 @@ Here are some examples:
 |y|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/y_minuscule.png?raw=true "y minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/y_capital.png?raw=true "y capital")|
 |ȝ|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/yogh_minuscule.png?raw=true "ȝ minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/yogh_capital.png?raw=true "ȝ capital")|
 
-Because these differences appear negligible, and will probably be difficult for the machine to discern, we will be transcribing such characters in their lowercase form.
+In addition, there *are* formal capitals for certain letters like **V**, **H** and **D**, but often the scribe uses the miniscule forms instead. By contrast, **Þ**, **Ȝ**, **W**, **Y** (above) do not seem to have distinct capital forms, nor do **J**, **K**, **U**, **X**, or **Z**. For capital **F**, the scribe uses a double f, which we will transcribe ff. An expanded chart of Scribe D's character forms can be found [here](https://github.com/gesaretto/paleo_ocr/blob/master/transcription_guidelines/Scribe%20D%20Letters%20Guide.pdf).
 
-Note: there are formal capitals for certain letters like **V**, **H** and **D**, but often the scribe uses the miniscule forms instead. **Þ**, **Ȝ**, **W**, **Y** (above) do not seem to have distinct capital forms, nor do **J**, **K**, **U**, **X**, or **Z**. For capital **F**, the scribe uses a double f, which we will transcribe ff. An expanded chart of Scribe D's character forms can be found [here](https://github.com/gesaretto/paleo_ocr/blob/master/transcription_guidelines/Scribe%20D%20Letters%20Guide.pdf).
+Because such differences between miniscule and capital appear negligible, and will probably be difficult for the machine to discern, we will be transcribing such characters in their lowercase form. **Moreover, any character that "should" be a capital (semantically or positionally), but *looks* nearly or totally indistinguishable from the miniscule, will be transcribed as a miniscule**. To see examples of "proper" capitals and miniscules, consult the expanded character [chart](https://github.com/gesaretto/paleo_ocr/blob/master/transcription_guidelines/Scribe%20D%20Letters%20Guide.pdf).
 
-**In conclusion, any character that "should" be a capital (semantically or positionally), but *looks* nearly or totally indistinguishable from the miniscule, will be transcribed as a miniscule**. To see examples of "proper" capitals and miniscules, consult the expanded character [chart](https://github.com/gesaretto/paleo_ocr/blob/master/transcription_guidelines/Scribe%20D%20Letters%20Guide.pdf).
+Note: We have also found one example of a **V** occuring in **v** position, and in align with our rule above, are transcribing it as **V** ("aVys" on folio 26v, line 35). 
 
 ### Abbreviations
 
