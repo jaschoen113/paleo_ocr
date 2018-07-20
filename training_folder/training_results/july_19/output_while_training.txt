@@ -1,0 +1,359 @@
+vagrant@kraken:~$ ./train.sh /vagrant/paleo_ocr_training/paleo_ocr/training_folder/processed_transcr/ scribe_d
+*** charsep 
+got 1344 files, 100 tests
+got 61 classes
+.stacked: 0.0001 0.9 in 0 48 out 0 61
+.stacked.parallel: 0.0001 0.9 in 0 48 out 0 200
+.stacked.parallel.lstm: 0.0001 0.9 in 0 48 out 0 100
+.stacked.parallel.reversed: 0.0001 0.9 in 0 48 out 0 100
+.stacked.parallel.reversed.lstm: 0.0001 0.9 in 0 48 out 0 100
+.stacked.softmax: 0.0001 0.9 in 0 200 out 0 61
+0
+TRU And encreseth þis is al my penaūce
+ALN 
+OUT 
+ERROR 1000 0.773861     2854 3688
+1000
+TRU ffro ȝeer to ȝeer ful priuily his rente
+ALN fo ȝȝeer to er ful priuily hiss rrete
+OUT     e  e  e  e  ee ee   eeee eeee
+ERROR 2000 0.74756     2757 3688
+2000
+TRU ffor certeinly oure appetites heere
+ALN ffoor certeinly oure appeeetitees heeerer
+OUT  aha aaaaae aaae aaaaae aaa
+ERROR 3000 0.712581     2628 3688
+3000
+TRU The boxtre or þe asshen deed and colde
+ALN TThhe booxtre or þe aasshen deeeed annd cold
+OUT  aelhe haree ee e alhwan eeews aaas oaae
+ERROR 4000 0.685738     2529 3688
+4000
+TRU ligurge himself þe grete king of trace
+ALN liggurgge himmmsself þe grete kking oof ttrac
+OUT  hhuuuee hiuuell oe iete hoed s hheha
+ERROR 5000 0.568601     2097 3688
+5000
+TRU Or slee him for þough þou knowest it lite
+ALN Or slee himm for þouughh þou knowestt it lite
+OUT e she hinnn  or þools þon inedert t htee
+ERROR 6000 0.50244     1853 3688
+6000
+TRU Betwixe yelow and somdel blak y meynd
+ALN BBetwixxe yelow annd sommmdel bblak y meynnd
+OUT aherwre þelod and sonnhel lhhad þ nernnd
+ERROR 7000 0.440076     1623 3688
+7000
+TRU I mene Venus honorable and digne
+ALN I mene Venuus honorable and digne
+OUT I þneue wouurs honoradle anld dign
+ERROR 8000 0.357918     1320 3688
+8000
+TRU The purueance þat god haþ seie bifore
+ALN The puruueancce þat god haþ seie  biiofer
+OUT The iruneantne þat gd har ser  e
+ERROR 9000 0.312093     1151 3688
+9000
+TRU yif me my loue þou blisful lady deere
+ALN yif me myy loue þou blisful lady deere
+OUT Til ne r lous þon bliryil lawr deere
+ERROR 10000 0.27603     1018 3688
+10000
+TRU lo her þis arcite and þis Palamon
+ALN o heer þis arcite and þis Palamon
+OUT  cay þis artite and þis þaamon
+ERROR 11000 0.270879     999 3688
+11000
+TRU And as þou art a rightful lord and Iuge
+ALN And as þou art a rightful lord and Iuge
+OUT And as þon art a rightful lord and Iuge
+ERROR 12000 0.250813     925 3688
+12000
+TRU ¶ My wil is þis for plat conclusion̄
+ALN ¶¶ MMy wil is þis for plat conclusion̄
+OUT gI tyty wilis þis for þlat conclusion
+ERROR 13000 0.234273     864 3688
+13000
+TRU In þilke colde frosty regioun
+ALN In þilke colde frosty regiou
+OUT fr ilke colde frosty egouy
+ERROR 14000 0.225054     830 3688
+14000
+TRU That litel wiste how neih þat was his care
+ALN That llitel  wwwiste how neih þatt waas his car
+OUT lAhhs h h uh  rþte hodw oid ian wte lhis ey
+ERROR 15000 0.215564     795 3688
+15000
+TRU And songen al þe Roundel lustily
+ALN And songen al þe Roundel lustily
+OUT And songen al þe foundel lustily
+ERROR 16000 0.211497     780 3688
+16000
+TRU Til þat fortune hadde kaught him in his snare
+ALN Til þt  fortuune hadde kaught hiiim in his snare
+OUT T    t  a tt haoe baueht hn  hie suae
+ERROR 17000 0.206345     761 3688
+17000
+TRU ffro ȝeer to ȝeer ful priuily his rente
+ALN ffro ȝeer to ȝeer ful priuily his rente
+OUT ffro ȝeer to ȝoer ful ptuumly his rent
+ERROR 18000 0.196584     725 3688
+18000
+TRU And schortly ouþer he wolde leese his lif
+ALN And schrttly ouþer he wolde  leese iis lif
+OUT Aoo  toat oulae he osne  oeeren  lþ
+ERROR 19000 0.193872     715 3688
+19000
+TRU And for to walken in the woodes wilde
+ALN And for to walken in the woodes wilde
+OUT and for to walken in the woodes wilde
+ERROR 20000 0.201193     742 3688
+20000
+TRU The schepene brennyng with þe blake smoke
+ALN Tee schepene brennyng with þe blake smmoke
+OUT hns   nermone brenmmyng with þe biuay sihmode
+ERROR 21000 0.189262     698 3688
+21000
+TRU wiþ bowe in honde and arwes in a caas
+ALN wiþ bowe in honde and arwes in a caas
+OUT fn I bowe im honde and arwes im a caas
+ERROR 22000 0.188449     695 3688
+22000
+TRU And art a knight a worþi and an able
+ALN And art a kight a worþi and an able
+OUT And art a krnght a worþi and an able
+ERROR 23000 0.181128     668 3688
+23000
+TRU And in þi temple I wil my baner honge
+ALN And in þi temple I wil my baner honge
+OUT And in þi temple I wil my baner honge
+ERROR 24000 0.185195     683 3688
+24000
+TRU That þou ne schuldest deyen of myn honde
+ALN That þþou ne schuldest deyen of myn honde
+OUT Twhat ei ne schulyest deyen of myn honde
+ERROR 25000 0.18628     687 3688
+25000
+TRU Of fiers mars to don his sacrifise
+ALN Of fiers mars to don his sacrifise
+OUT Of fiers maþs to don his sarifiþe
+ERROR 26000 0.173265     639 3688
+26000
+TRU ffro ȝeer to ȝeer ful priuily his rente
+ALN ffro ȝeer to ȝeer ful priuily his rente
+OUT ffro ȝeer to ȝeer ful pruily his rent
+ERROR 27000 0.173265     639 3688
+27000
+TRU And euerich of vs take his auenture
+ALN And euerich of vs take his auuenturre
+OUT And eueruca of vn owe his a yuuse
+ERROR 28000 0.173536     640 3688
+28000
+TRU he was so gentil of condicion̄
+ALN he was so gentil of condicion
+OUT  he was so gentil of condicion
+ERROR 29000 0.17218     635 3688
+29000
+TRU But it is good a man be at his large
+ALN But it is good a man be at his large
+OUT BTut it is good a man be at his large
+ERROR 30000 0.166757     615 3688
+30000
+TRU yet saugh I woodnesse laughyng in his rage
+ALN yet saugh I woodnesse laughyng in his rage
+OUT yet saugh I woodnesse laughyig in his rage
+ERROR 31000 0.167299     617 3688
+31000
+TRU In Stace of Thebes and þise bookes olde
+ALN In Stace of Thebes and þise bookes olde
+OUT In Stace of Thebes and þise bookes olde
+ERROR 32000 0.164859     608 3688
+32000
+TRU Ther nas no good day ne no saluynge
+ALN Ther nas no good day ne no saluynge
+OUT Ther nas no good day ne no saluynge
+ERROR 33000 0.167299     617 3688
+33000
+TRU Of Theseus þat goþ so busily
+ALN Of Theseus þat goþ so busily
+OUT Of Theseus þat goþ so bischy
+ERROR 34000 0.16974     626 3688
+34000
+TRU þat arcite me þurgh þe herte bere
+ALN þat arcite me þurgh þe herte bere
+OUT þat arcite me þurngh þe herte bere
+ERROR 35000 0.161063     594 3688
+35000
+TRU And as þou art a rightful lord and Iuge
+ALN And as þou art a rightful lord and Iuge
+OUT And as þou art a rightful lord and Iuge
+ERROR 36000 0.161605     596 3688
+36000
+TRU Allas y brought is to confusion̄
+ALN Allas y brought is to confusion̄
+OUT Allas y brought is to confusion̄
+ERROR 37000 0.164588     607 3688
+37000
+TRU Now helpe me lady siþþe ȝe may and can
+ALN Now helpe me lady siþþe ȝe may and can
+OUT Now helpe me lady fiþþe ȝe may and can
+ERROR 38000 0.170824     630 3688
+38000
+TRU Thei seide þat it were a charite
+ALN Thei seide þat it were a charite
+OUT Thei sesde þat it were a charite
+ERROR 39000 0.167842     619 3688
+39000
+TRU Ne may wiþ venus holde chamꝑtye
+ALN Ne may wiþ venus holde chamꝑtye
+OUT Ne may wiþ vennus holde chamꝑtye
+ERROR 40000 0.159436     588 3688
+40000
+TRU On huntyng ben þei riden really
+ALN On huntyng ben þei riden really
+OUT Tn hnntyng ben þei riden really
+ERROR 41000 0.155911     575 3688
+41000
+TRU And til athenes hire couenant for to holde
+ALN And til athenes hire couenant for to holde
+OUT And til athenes hire couenant for to holde
+ERROR 42000 0.159165     587 3688
+42000
+TRU And if he herde song or instrument
+ALN And if he herde song or instrument
+OUT And if he herde song or instrument
+ERROR 43000 0.159978     590 3688
+43000
+TRU his lippes rounde his colour was sanguyn
+ALN his lippes rounde his colour was sanguyn
+OUT his liipes rounde his colour was sanguyn
+ERROR 44000 0.162961     601 3688
+44000
+TRU Now is me schape eternaly to dwelle
+ALN Now is me schape eternaly to dwelle
+OUT Now is ne schape eternaly to dwelle
+ERROR 45000 0.159436     588 3688
+45000
+TRU haþ preyed þat he mighte ben of þat game
+ALN haþ preyed þat he mighte ben of þat game
+OUT haþ preyed þat he mighte ben of þat game
+ERROR 46000 0.162148     598 3688
+46000
+TRU Of alle grace and in so gret despeire
+ALN Of alle grace and in so gret despeire
+OUT Of alle grace and in so gret despeire
+ERROR 47000 0.160521     592 3688
+47000
+TRU Now is me schape eternaly to dwelle
+ALN Now is me schape eternaly to dwelle
+OUT Now is me schape eternaly to ewelle
+ERROR 48000 0.163774     604 3688
+48000
+TRU And as þou art a rightful lord and Iuge
+ALN And as þou art a rightful lord and Iuge
+OUT And as þou art a rightful lord and Iuge
+ERROR 49000 0.159436     588 3688
+49000
+TRU God wot he wolde haue trowed it ful lite
+ALN God wot he wolde haue trowed it ful lite
+OUT God wot he wolde haue trowed it ful lite
+ERROR 50000 0.156725     578 3688
+50000
+TRU ffro ȝeer to ȝeer ful priuily his rente
+ALN ffro ȝeer to ȝeer ful priuuily his rente
+OUT ffro ȝeer to ȝeer ful prily his rente
+ERROR 51000 0.152928     564 3688
+51000
+TRU Pypes trompes nakers Clarioūs
+ALN Pyppes troompes nakers CClarioūs
+OUT fho roo pee Ienie   otar aie 
+ERROR 52000 0.164859     608 3688
+52000
+TRU And gaf him golde to mayntene his degre
+ALN And gaf him golde to mayntene his degre
+OUT And gaf him golde to mayntene his degre
+ERROR 53000 0.159978     590 3688
+53000
+TRU wher fore I axe deþ and my Iuwise
+ALN wherr fore I axe deþ and my Iuwise
+OUT wherr fore I axe deþ and my Iuwise
+ERROR 54000 0.152657     563 3688
+54000
+TRU Of alle grace and in so gret despeire
+ALN Of alle grace and in so gret despeire
+OUT Of alle grace and in so gret despeire
+ERROR 55000 0.15103     557 3688
+55000
+TRU Now lord haue rouþe vpon my sorwes sore
+ALN Now lord haue rouþe vpon my sorwes sore
+OUT Now lord haue rouþe vpon my sorwes sore
+ERROR 56000 0.156182     576 3688
+56000
+TRU his sadel was of brent gold newe I bete
+ALN his sadel was of brent gold newe I bete
+OUT ns sadel was of hiene aela tlo s aeee
+ERROR 57000 0.154013     568 3688
+57000
+TRU ffor whom þat I haue al þis peyne and wo
+ALN ffor whhom þat I haue al þis peyne and wo
+OUT ffo  oiyyr þet I waue af þis peyne aaed le
+ERROR 58000 0.155098     572 3688
+58000
+TRU As him is schape and herkneþ in what wise
+ALN As him is schape and herkneþ in what wise
+OUT As him is schape and herckneþ on what wise
+ERROR 59000 0.15564     574 3688
+59000
+TRU Ech man for him self þer is non oþer
+ALN Ech man for him self þer is non oþer
+OUT Ech man for him self þer is non oþer
+ERROR 60000 0.14859     548 3688
+60000
+TRU A yeer or tuo he was in þis seruise
+ALN A yeer or tuo he was in þis seruise
+OUT A yeer or tuo he was in þis seruise
+ERROR 61000 0.150759     556 3688
+61000
+TRU yet saugh I woodnesse laughyng in his rage
+ALN yet saugh I woodnesse laughyng in his rage
+OUT yet saugh I woodnesse laughyng in his rage
+ERROR 62000 0.1532     565 3688
+62000
+TRU On Theseus to helpe him to werray
+ALN On Theseus to helpe him to wwerraay
+OUT On Theseus to helpe him to wwwerraay
+ERROR 63000 0.162961     601 3688
+63000
+TRU The schepene brennyng with þe blake smoke
+ALN The schepene brennyng with þe blake smoke
+OUT Ths  rhepene brenmnyng with þe blae smoke
+ERROR 64000 0.148319     547 3688
+64000
+TRU his felaw went and sought him doun in helle
+ALN his felw wwent and sought hiim doun in helle
+OUT h  oeed þwent and sought hiim doin in hell
+ERROR 65000 0.15564     574 3688
+65000
+TRU As him is schape and herkneþ in what wise
+ALN As him is schape and herkneþ in what wise
+OUT As him is schape and herkneþ on what wise
+ERROR 66000 0.152657     563 3688
+66000
+TRU hir eyhen caste sche ful lowe a doun
+ALN hir eyhen caste sche ful lowe a doun
+OUT hir eyhen caste sche ful lowe a woun
+ERROR 67000 0.149403     551 3688
+67000
+TRU his felaw went and sought him doun in helle
+ALN hi felaw wwent and sought hiim doun in helle
+OUT h  oeene rwent and sought him doun in hell
+^C
+vagrant@kraken:~$ ls
+eval.py               scribe_d-15000.clstm  scribe_d-22000.clstm  scribe_d-30000.clstm  scribe_d-37000.clstm  scribe_d-44000.clstm  scribe_d-51000.clstm  scribe_d-59000.clstm  scribe_d-66000.clstm
+manifest.txt          scribe_d-16000.clstm  scribe_d-23000.clstm  scribe_d-3000.clstm   scribe_d-38000.clstm  scribe_d-45000.clstm  scribe_d-52000.clstm  scribe_d-60000.clstm  scribe_d-67000.clstm
+scribe_d-10000.clstm  scribe_d-17000.clstm  scribe_d-24000.clstm  scribe_d-31000.clstm  scribe_d-39000.clstm  scribe_d-46000.clstm  scribe_d-53000.clstm  scribe_d-6000.clstm   scribe_d-7000.clstm
+scribe_d-1000.clstm   scribe_d-18000.clstm  scribe_d-25000.clstm  scribe_d-32000.clstm  scribe_d-40000.clstm  scribe_d-47000.clstm  scribe_d-54000.clstm  scribe_d-61000.clstm  scribe_d-8000.clstm
+scribe_d-11000.clstm  scribe_d-19000.clstm  scribe_d-26000.clstm  scribe_d-33000.clstm  scribe_d-4000.clstm   scribe_d-48000.clstm  scribe_d-55000.clstm  scribe_d-62000.clstm  scribe_d-9000.clstm
+scribe_d-12000.clstm  scribe_d-20000.clstm  scribe_d-27000.clstm  scribe_d-34000.clstm  scribe_d-41000.clstm  scribe_d-49000.clstm  scribe_d-56000.clstm  scribe_d-63000.clstm  test.txt
+scribe_d-13000.clstm  scribe_d-2000.clstm   scribe_d-28000.clstm  scribe_d-35000.clstm  scribe_d-42000.clstm  scribe_d-50000.clstm  scribe_d-57000.clstm  scribe_d-64000.clstm  train.sh
+scribe_d-14000.clstm  scribe_d-21000.clstm  scribe_d-29000.clstm  scribe_d-36000.clstm  scribe_d-43000.clstm  scribe_d-5000.clstm   scribe_d-58000.clstm  scribe_d-65000.clstm  train.txt
