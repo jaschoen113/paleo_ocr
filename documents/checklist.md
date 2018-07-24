@@ -45,6 +45,12 @@ date: May 2018
 - [ ] Data analysis
 - [ ] Write up results
 
+#### Possible experiments
+
+1. Trying with processed/unprocessed images.
+
+2. Trying with and without special characters (e.g. the distinction between "n" with macron and "n" without it).
+
 #### Questions
 
 1. What's the status of the User Interface? Should we wait before we input the transcription for the training, or can we go ahead? What are the advantages of using the new interface? Can we start by using one interface and finish the job by using the other?
