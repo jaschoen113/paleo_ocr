@@ -73,7 +73,7 @@ In addition, there *are* formal capitals for certain letters like **V**, **H** a
 
 Because such differences between miniscule and capital appear negligible, and will probably be difficult for the machine to discern, we will be transcribing such characters in their lowercase form. **Moreover, any character that "should" be a capital (semantically or positionally), but *looks* nearly or totally indistinguishable from the miniscule, will be transcribed as a miniscule**. To see examples of "proper" capitals and miniscules, consult the expanded character [chart](https://github.com/gesaretto/paleo_ocr/blob/master/transcription_guidelines/Scribe%20D%20Letters%20Guide.pdf).
 
-Note: We have also found one example of a **V** occuring in **v** position, and in align with our rule above, are transcribing it as **V** ("aVys" on folio 26v, line 35). 
+Note: We have also found one example of a **V** occuring in **v** position, and in align with our rule above, are transcribing it as **V** ("aVys" on folio 26v, line 35).
 
 ### Abbreviations
 
@@ -101,6 +101,7 @@ Certain diacritic choices here are quite obvious: for example, a macron over an 
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/s%20with%20diagonal.png?raw=true "s with diagonal") | long s with diagonal stroke | ser | s*er* | ẜ (long s with diagonal stroke) | ẜ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/t%20with%20right%20hook%20.png?raw=true "t with right hook") | t with right hook suprascript | er (i.e. ter) | t*er* | t&#788; | t̔ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/thorn%20with%20right%20hook.png?raw=true "thorn with right hook") | thorn with right hook suprascript | er (i.e. þer) | þ*er* | þ̔ (inverted comma diacritic)| þ̔ |
+| | thorn with t suprascript | þat| þ*a*t | þͭ | þͭ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/u%20macron.png?raw=true "u macron")| u with macron | n (i.e. un) | u*n* | ū | ū |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/u%20with%20macron%20and%20balls.png?raw=true "u with macron and balls") | u with macron and tilde | ra (i.e. ura) | u*ra* | ǖ (macron and diaeresis) ũ | ũ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/u%20with%20right%20hook%20.png?raw=true "u with right hook") | u with right hook suprascript | er (i.e. uer) | u*er* | ủ (hook diacritic) u&#788; (inverted comma diacritic) | u&#788; |
@@ -124,4 +125,5 @@ Certain diacritic choices here are quite obvious: for example, a macron over an 
 comma diacritic = &#787   
 hook diacritic = &#777
 reverse comma diacritic = &#788   
-double macron = &#862 or &#x35e
+double macron = &#862 or &#x35e   
+suprascript t = &#87

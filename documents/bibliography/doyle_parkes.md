@@ -57,7 +57,7 @@ List of Scribe D manuscripts:
   8. New York, Columbia Univ. Lib., Plimpton MS 265 (Confessio Amantis)
   9. London, Brit. Lib., MS Egerton 1991 (Confessio Amantis)
   10. Oxford, Bodleian Lib., MS Bodley 294 (Confessio Amantis)
-  11. Oxford, Trinity College. MS R.3.2 (Confessio Amantis), quires 9, 15-19 and the final recto of 14
+  11. Cambridge, Trinity College. MS R.3.2 (Confessio Amantis), quires 9, 15-19 and the final recto of 14
   12. Princeton, Taylor MS 5 (Confessio Amantis), fols. 9r-193r [not identified in Doyle Parkes, added by Pearsall]
 
 List of Δ's manuscripts:  
