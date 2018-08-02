@@ -117,6 +117,7 @@ Certain diacritic choices here are quite obvious: for example, a macron over an 
 ### Unicode Resources
 [MUFI](http://folk.uib.no/hnooh/mufi/)  
 [Unicode and Macron](http://www.personal.psu.edu/ejp10/psu/gotunicode/macron.html)  
+[Unicode Table](https://unicode-table.com/en/#ipa-extensions)
 
 ### Unicode HTML Codes
 
@@ -126,4 +127,3 @@ comma diacritic = &#787
 hook diacritic = &#777
 reverse comma diacritic = &#788   
 double macron = &#862 or &#x35e   
-suprascript t = &#87
