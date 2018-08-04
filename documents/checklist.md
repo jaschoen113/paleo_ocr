@@ -31,14 +31,14 @@ date: May 2018
 
 - Compile transcriptions for:
   - [ ] CC MS 198 ff. 160r-164v
+      - [ ] Images processed
   - [ ] Harley MS 7334 ff. 63v-68v [link](http://www.bl.uk/manuscripts/Viewer.aspx?ref=harley_ms_7334_fs001r)
       - [x] Images processed
-  - [ ] Cambridge Trinity MS B.15.17 ff. 121r-123v
+  - [ ] Cambridge Trinity MS B.15.17 ff. 121r-123v [link](http://trin-sites-pub.trin.cam.ac.uk/james/viewpage.php?index=216)
       - [x] Images processed
-   [link](http://trin-sites-pub.trin.cam.ac.uk/james/viewpage.php?index=216)
   - [ ] (not sure) Huntington Library HM 114  [link](http://hdl.huntington.org/cdm/compoundobject/collection/p15150coll7/id/31197/rec/1)
   - [ ] Cambridge R.3.2 ff.140v-145r [link](http://trin-sites-pub.trin.cam.ac.uk/manuscripts/R_3_2/manuscript.php?fullpage=1&startingpage=156)
-      - Images processed [x]
+      - [x] Images processed
   - [ ] Plimpton MS 265 ff. ??? [link](http://www.digital-scriptorium.org/xtf3/search?rmode=digscript;smode=basic;text=Plimpton%20MS%20265;docsPerPage=1;startDoc=1;fullview=yes)
       - [ ] Images processed
 - [ ] Test against training data
