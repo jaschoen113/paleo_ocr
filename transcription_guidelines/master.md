@@ -125,6 +125,8 @@ Certain diacritic choices here are quite obvious: for example, a macron over an 
 (add semi-colon to end of codes)
 
 comma diacritic = &#787   
-hook diacritic = &#777
-reverse comma diacritic = &#788   
+hook diacritic = &#777  
+reverse comma diacritic = &#788     
 double macron = &#862 or &#x35e   
+macron = &#772
+small t diacritic = &#877
