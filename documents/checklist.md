@@ -26,9 +26,14 @@ date: May 2018
 
 - [x] Split up transcription work and transcribe
 - [x] Train
+- [ ] Remove extra lines from dataset
+- [ ] Deskew and crop all images with Scantailor
+- [ ] Retrain in grayscale
+
 
 ### Part 4. Testing
 
+- [ ] Figure out how to properly test model (e.g. how many lines necessary per MS)
 - Compile transcriptions for:
   - [ ] CC MS 198 ff. 160r-164v
       - [ ] Images processed
@@ -46,6 +51,10 @@ date: May 2018
 - [ ] Test against other Scribe D manuscripts
 - [ ] Test against non-Scribe D manuscripts
 
+### Part 6. Retraining
+
+- [ ] Retrain model using Part 5 manuscripts to get new training error rate
+ß
 ### Part 5. Analysis
 
 - [ ] Data analysis
