@@ -1,8 +1,8 @@
 
 ### English Abbreviations (Alphabetical)
 
-| __Manuscript Image__ | Description | Meaning  | Character |
-|:-----------:|:-----------:|:------------:|:-----------:| :-----------:|:-----------:|
+| Manuscript Image | Description | Meaning  | Character |
+|:-----------:|:-----------:|:------------:|:-----------:|
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/a_with_macron.png?raw=true "a macron") | a with macron | | ā |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/d%20with%20left%20hook.png?raw=true) | d with left hook | er (e.g. d*er*)| d&#777; |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/e%20with%20hook.png?raw=true "e with hook") | e with suprascript |  m (e.g. e*m*) | ẻ |
@@ -34,8 +34,8 @@
 
 ### Latin Abbreviations
 
-| __Manuscript Image__ | Description | Meaning  | Character |
- |:-----------:|:-----------:|:------------:|:-----------:| :-----------:|:-----------:|
+| Manuscript Image | Description | Meaning  | Character |
+|:-----------:|:-----------:|:------------:|:-----------:|
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/Latin%20con.png?raw=true "con") | character resembling 9 | con | ꝯ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/Latin%20um%20.png?raw=true "Latin rum") | character resembling 4 or y with strike through | rum | ɏ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/us.png?raw=true "us") | character resembling 3 | us (e.g.  b*us*) | ꝫ |
@@ -45,7 +45,7 @@
 
 ### Additional Abbreviations
 
-| __Manuscript Image__ | Description | Meaning  | Character |
-|:-----------:|:-----------:|:------------:|:-----------:| :-----------:|:-----------:|
+| Manuscript Image | Description | Meaning  | Character |
+|:-----------:|:-----------:|:------------:|:-----------:|
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/paragraph.png?raw=true "paragraph") | paragraph marker | new paragraph| ¶ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/word%20bar.png?raw=true "word bar") | vertical bar | divides cramped words | &#124; |
