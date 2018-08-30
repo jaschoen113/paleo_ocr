@@ -10,7 +10,7 @@
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/e%20with%20macron.png?raw=true "e with macron") | e with macron | n (e.g. e*n* | ē |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/g%20with%20left%20hook%20.png?raw=true "g with left hook") | g with left hook | er (e.g. g*er*)| g&#777; |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/g%20with%20tilde%20.png?raw=true "g with tilde") ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/g%20macron%20balls.png?raw=true "g with macron balls") | g with tilde or macron and tilde | ra (e.g. g*ra*) | g̃ |
-| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/m_right_hook.png?raw=true"m with hook")| m with right hook | er (e.g. m*er*) | m&#788; |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/m_right_hook.png?raw=true "m with hook")| m with right hook | er (e.g. m*er*) | m&#788; |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/macron%20m.png?raw=true "macron over m") | m with macron | m (e.g. m*m*) | m̄ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/macron%20over%20on.png?raw=true "macron over on") | macron over on or n| u (e.g. o*u*n) [confirm]| n̄ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/n%20with%20tilde.png?raw=true "n with tilde") | n with tilde | ra (e.g. *ra*n) | ñ |
