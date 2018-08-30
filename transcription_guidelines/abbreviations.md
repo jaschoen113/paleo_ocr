@@ -1,9 +1,13 @@
 | __Manuscript Image__ | Description | Meaning  | Character |
 |:-----------:|:-----------:|:------------:|:-----------:| :-----------:|:-----------:|
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/a_with_macron.png?raw=true "a macron") | a with macron | | ā |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/d%20with%20left%20hook.png?raw=true) | d with left hook | er (e.g. d*er*)| d&#777; |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/us.png?raw=true "us") | character resembling 3 | us (e.g.  b*us*) | ꝫ |
-| [need image] | character resembling 9 | con | ꝯ |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/Latin%20con.png?raw=true "con") | character resembling 9 | con | ꝯ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/e%20with%20hook.png?raw=true "e with hook") | e with suprascript |  m (e.g. e*m*) | ẻ |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/e%20with%20hook%20.png?raw=true "e with right hook") | e with right hook | r (e.g. e*r*)| e&#788; |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/e%20with%20macron.png?raw=true "e with macron") | e with macron | n (e.g. e*n* | ē |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/g%20with%20left%20hook%20.png?raw=true "g with left hook") | g with left hook | er (e.g. g*er*)| g&#777; |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/g%20with%20tilde%20.png?raw=true "g with tilde") ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/g%20macron%20balls.png?raw=true "g with macron balls") | g with tilde or macron and tilde | ra (e.g. g*ra*) | g̃ |
 | [need image] ![alt text "m with hook"]| m with right hook | er (e.g. m*er*) | m&#788; |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/macron%20m.png?raw=true "macron over m") | m with macron | m (e.g. m*m*) | m̄ |
@@ -17,7 +21,7 @@
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/p%20with%20left%20hook.png?raw=true "p with left hook")| p with left hook suprascript | ri (e.g.) p*ri* | p̉ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/p%20with%20back%20hook%20.png?raw=true "p with back loop") | p with loop on descender | ro (e.g. p*ro*) | ꝓ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/r%20with%20hook.png?raw=true "r with hook") | r with left hook suprascript | e (e.g. r*e*) | r̉ |
-| [need image] | character resembling 4 or y with strike through | Latin rum | ɏ |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/Latin%20um%20.png?raw=true "Latin rum") | character resembling 4 or y with strike through | Latin rum | ɏ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/s%20with%20diagonal.png?raw=true "s with diagonal") | long s with diagonal stroke | er (e.g. s*er*) | ẜ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/t%20with%20right%20hook%20.png?raw=true "t with right hook") | t with right hook suprascript | er (e.g. t*er*) | t̔ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/thorn%20with%20right%20hook.png?raw=true "thorn with right hook") | thorn with right hook suprascript | er (e.g. þ*er*) | þ̔ |
@@ -25,8 +29,10 @@
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/u%20macron.png?raw=true "u macron")| u with macron | n (e.g. u*n*) | ū |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/u%20with%20macron%20and%20balls.png?raw=true "u with macron and balls") | u with macron and tilde | ra (e.g. u*ra*) | ũ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/u%20with%20right%20hook%20.png?raw=true "u with right hook") | u with right hook suprascript | er (e.g. u*er*) | u&#788; |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/w%20with%20t.png?raw=true "w with t") | w with t suprascript | with | w&#877; |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/y%20macron.png?raw=true "y macron") | y with macron | n (e.g. y*n*) | ȳ |
 | ![alt  text](https://github.com/gesaretto/paleo_ocr/blob/master/images/quod%20d.png?raw=true "quod d") | d with endstroke | quod | qd |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/tironian%20et.png?raw=true "tironian et") | tironian et | and | ⁊ |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/et%20cetera%20.png?raw=true "et cetera") | tironian et + c with left hook | et cetera | ⁊c&#777; |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/paragraph.png?raw=true "paragraph") | paragraph marker | new paragraph| ¶ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/word%20bar.png?raw=true "word bar") | vertical bar | divides cramped words | &#124; |
