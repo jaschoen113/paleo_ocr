@@ -29,6 +29,7 @@
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/u%20macron.png?raw=true "u macron")| u with macron | n (e.g. u*n*) | ū |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/u%20with%20macron%20and%20balls.png?raw=true "u with macron and balls") | u with macron and tilde | ra (e.g. u*ra*) | ũ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/u%20with%20right%20hook%20.png?raw=true "u with right hook") | u with right hook suprascript | er (e.g. u*er*) | u&#788; |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/v_right_hook.png?raw=true "v right hook") | v with right hook | er (e.g. v*er*) | v&#788; | 
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/w%20with%20t.png?raw=true "w with t") | w with t suprascript | with | w&#877; |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/y%20macron.png?raw=true "y macron") | y with macron | n (e.g. y*n*) | ȳ |
 
