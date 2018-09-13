@@ -35,11 +35,11 @@ date: May 2018
 
 - [ ] Figure out how to properly test model (e.g. how many lines necessary per MS)
 - Compile transcriptions for:
-  - [ ] CC MS 198 ff. 160r-164v
+  - [ ] CC MS 198 ff. 160r-164v (~350 lines) *Gianmarco*
       - [ ] Images processed
-  - [ ] Harley MS 7334 ff. 63v-68v [link](http://www.bl.uk/manuscripts/Viewer.aspx?ref=harley_ms_7334_fs001r)
+  - [ ] Harley MS 7334 ff. 63v-68v (~350 lines) *Gianmarco* [link](http://www.bl.uk/manuscripts/Viewer.aspx?ref=harley_ms_7334_fs001r)
       - [x] Images processed
-  - [ ] Cambridge Trinity MS B.15.17 ff. 121r-123v [link](http://trin-sites-pub.trin.cam.ac.uk/james/viewpage.php?index=216)
+  - [ ] Cambridge Trinity MS B.15.17 ff. 121r-123v (~350 lines) *Jenna* [link](http://trin-sites-pub.trin.cam.ac.uk/james/viewpage.php?index=216)
       - [x] Images processed
   - [ ] (not sure) Huntington Library HM 114  [link](http://hdl.huntington.org/cdm/compoundobject/collection/p15150coll7/id/31197/rec/1)
   - [x] Cambridge R.3.2 ff. 139v-143r (~700 lines) [link](http://trin-sites-pub.trin.cam.ac.uk/manuscripts/R_3_2/manuscript.php?fullpage=1&startingpage=156)
