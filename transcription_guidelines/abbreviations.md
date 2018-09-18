@@ -23,6 +23,7 @@
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/p%20with%20left%20hook.png?raw=true "p with left hook")| p with left hook suprascript | ri (e.g.) p*ri* | p̉ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/p%20with%20back%20hook%20.png?raw=true "p with back loop") | p with loop on descender | ro (e.g. p*ro*) | ꝓ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/r%20with%20hook.png?raw=true "r with hook") | r with left hook suprascript | e (e.g. r*e*) | r̉ |
+| ![alt text]( "s with left hook") | s with left hook | er (s*er*)| s̉ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/s%20with%20diagonal.png?raw=true "s with diagonal") | long s with diagonal stroke | er (e.g. s*er*) | ẜ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/t%20with%20right%20hook%20.png?raw=true "t with right hook") | t with right hook suprascript | er (e.g. t*er*) | t̔ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/thorn%20with%20right%20hook.png?raw=true "thorn with right hook") | thorn with right hook suprascript | er (e.g. þ*er*) | þ̔ |
@@ -38,6 +39,9 @@
 
 | Manuscript Image | Description | Meaning  | Character |
 |:-----------:|:-----------:|:------------:|:-----------:|
+| ![alt text]( "") | c with macron | an - t (e.g. *an*c*t*)| c̄ |
+| ![alt text]( "macron i")| macron i | mn (e.g. *mn*i) | ī |
+| ![alt text]( " ") | p with tilde | ur (e.g. p*ur*)| p̃ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/Latin%20con.png?raw=true "con") | character resembling 9 | con | ꝯ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/Latin%20um%20.png?raw=true "Latin rum") | character resembling 4 or y with strike through | rum | ɏ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/us.png?raw=true "us") | character resembling 3 | us (e.g.  b*us*) | ꝫ |
