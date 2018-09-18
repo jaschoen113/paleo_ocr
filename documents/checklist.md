@@ -35,14 +35,14 @@ date: May 2018
 
 - [ ] Figure out how to properly test model (e.g. how many lines necessary per MS)
 - Compile transcriptions for:
-  - [ ] CC MS 198 ff. 160r-164v (~350 lines) *Gianmarco*
+  - [x] CC MS 198 ff. 160r-164v (~350 lines) *Gianmarco*
       - [ ] Images processed
   - [ ] Harley MS 7334 ff. 63v-68v (~350 lines) *Gianmarco* [link](http://www.bl.uk/manuscripts/Viewer.aspx?ref=harley_ms_7334_fs001r)
       - [x] Images processed
   - [x] Cambridge Trinity MS B.15.17 ff. 119v-123v (~350 lines) *Jenna* [link](http://trin-sites-pub.trin.cam.ac.uk/james/viewpage.php?index=216)
       - [x] Images processed
   - [ ] Oxford Corpus Christi 201 ff. 82r-86v *Jenna* [link](http://image.ox.ac.uk/show?collection=corpus&manuscript=ms201)
-      - [ ] Images processed 
+      - [ ] Images processed
   - [x] Cambridge R.3.2 ff. 139v-143r (~700 lines) [link](http://trin-sites-pub.trin.cam.ac.uk/manuscripts/R_3_2/manuscript.php?fullpage=1&startingpage=156)
       - [x] Images processed
 - [ ] Test against training data
