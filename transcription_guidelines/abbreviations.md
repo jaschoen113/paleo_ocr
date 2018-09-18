@@ -30,7 +30,7 @@
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/thorn%20with%20right%20hook.png?raw=true "thorn with right hook") | thorn with right hook suprascript | er (e.g. þ*er*) | þ̔ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/thorn_with_t.png?raw=true "thorn with t") | thorn with t suprascript | at (e.g.þ*a*t) | þͭ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/u%20macron.png?raw=true "u macron")| u with macron | n (e.g. u*n*) | ū |
-| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/u%20with%20macron%20and%20balls.png?raw=true "u with macron and balls") | u with macron and tilde | ra (e.g. u*ra*) | ũ |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/u%20with%20macron%20and%20balls.png?raw=true "u with macron and balls") ![alt text](https://raw.githubusercontent.com/gesaretto/paleo_ocr/master/images/u_with_balls.png "u with balls")| u with macron and tilde | ra (e.g. u*ra*) | ũ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/u%20with%20right%20hook%20.png?raw=true "u with right hook") | u with right hook suprascript | er (e.g. u*er*) | u&#788; |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/v_right_hook.png?raw=true "v right hook") | v with right hook | er (e.g. v*er*) | v&#788; |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/w%20with%20t.png?raw=true "w with t") | w with t suprascript | with | w&#877; |
