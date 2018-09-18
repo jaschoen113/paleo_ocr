@@ -28,6 +28,7 @@ Canterbury Tales*.
 ### Unicode Charts
 
 - [MUFI chart for medieval Unicode characters](http://bora.uib.no/bitstream/handle/1956/10699/MUFI-Alphabetic-4-0.pdf?sequence=9&isAllowed=y)
+- [Latin Extended Unicode Table](https://unicode-table.com/en/#latin-extended-a) 
 
 ### Related OCR/HTR Projects
 
