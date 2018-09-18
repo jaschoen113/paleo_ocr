@@ -47,6 +47,7 @@
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/Latin%20um%20.png?raw=true "Latin rum") | character resembling 4 or y with strike through | rum | ɏ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/us.png?raw=true "us") | character resembling 3 | us (e.g.  b*us*) | ꝫ |
 | ![alt  text](https://github.com/gesaretto/paleo_ocr/blob/master/images/quod%20d.png?raw=true "quod d") | d with endstroke | quod | qd |
+| ![alt text](https://raw.githubusercontent.com/gesaretto/paleo_ocr/master/images/q_for_quod.png "quod q") | q with right hook | quod | ꝙ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/tironian%20et.png?raw=true "tironian et") | tironian et | and | ⁊ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/et%20cetera%20.png?raw=true "et cetera") | tironian et + c with left hook | et cetera | ⁊c&#777; |
 
