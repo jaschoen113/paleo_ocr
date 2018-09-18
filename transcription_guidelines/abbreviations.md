@@ -8,7 +8,7 @@
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/e%20with%20hook.png?raw=true "e with hook") | e with suprascript |  m (e.g. e*m*) | ẻ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/e%20with%20hook%20.png?raw=true "e with right hook") | e with right hook | r (e.g. e*r*)| e&#788; |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/e%20with%20macron.png?raw=true "e with macron") | e with macron | n (e.g. e*n*) | ē |
-| ![alt text]( "e with tilde") | e with tilde | ur (e.g. t*ur*e) | ẽ |
+| ![alt text](https://raw.githubusercontent.com/gesaretto/paleo_ocr/master/images/e_with_tilde.png "e with tilde") | e with tilde | ur (e.g. t*ur*e) | ẽ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/g%20with%20left%20hook%20.png?raw=true "g with left hook") | g with left hook | er (e.g. g*er*)| g&#777; |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/g%20with%20tilde%20.png?raw=true "g with tilde") ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/g%20macron%20balls.png?raw=true "g with macron balls") | g with tilde or macron and tilde | ra (e.g. g*ra*) | g̃ |
 |![alt text](https://raw.githubusercontent.com/gesaretto/paleo_ocr/master/images/l_with_cross_stroke.png "l with cross stroke")|l with cross stroke| ett (e.g. l*ett*)|ꝉ|
