@@ -18,4 +18,4 @@ date: September 18 2018
 - Folio 78v (Man of Law's Tale; ll. 572 ff.)
 - [ ] Folio 72r (Man of Law's Prologue; ll. 77 ff.)
 - [ ] Folio 54v (Reeve's Tale; ll. 4069 ff.)
-- [ ] Folio 4v (General Prologue; ll. 267 ff.)
+- [x] Folio 4v (General Prologue; ll. 267 ff.)
