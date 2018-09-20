@@ -36,6 +36,7 @@
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/v_right_hook.png?raw=true "v right hook") | v with right hook | er (e.g. v*er*) | v&#788; |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/w%20with%20t.png?raw=true "w with t") | w with t suprascript | with | w&#877; |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/y%20macron.png?raw=true "y macron") | y with macron | n (e.g. y*n*) | ȳ |
+| ![alt text](https://raw.githubusercontent.com/gesaretto/paleo_ocr/master/images/y_right_hook.png "y with left hook") | y with left hook | er (e.g. u*er*y) | y&#777; |
 
 ### Latin Abbreviations
 
