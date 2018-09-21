@@ -18,6 +18,10 @@ Canterbury Tales*.
 - Large Downloadable Images at [Early Manuscripts at Oxford University](http://image.ox.ac.uk/show?collection=corpus&manuscript=ms198)
 - Easier to read version at [Digital Bodleian](https://digital.bodleian.ox.ac.uk/inquire/p/bd648c05-aba4-46ee-b36c-030a657bc75d)
 
+### MS Harley 7334 Transcription
+
+- [Furnivall's Edition](https://quod.lib.umich.edu/c/cme/AGZ8246.0001.001/1:3.1?rgn=div2;view=fulltext)
+
 ### Scribe D Information
 
 - University of York's *Late Medieval English Scribes* [Profile](https://www.medievalscribes.com/index.php?navtype=scribes&navappellation=John%20Marchaunt%20or%20Scribe%20D&browse=hands&id=1&msid=58&nav=off) of Scribe D
@@ -28,6 +32,7 @@ Canterbury Tales*.
 ### Unicode Charts
 
 - [MUFI chart for medieval Unicode characters](http://bora.uib.no/bitstream/handle/1956/10699/MUFI-Alphabetic-4-0.pdf?sequence=9&isAllowed=y)
+- [Latin Extended Unicode Table](https://unicode-table.com/en/#latin-extended-a)
 
 ### Related OCR/HTR Projects
 
