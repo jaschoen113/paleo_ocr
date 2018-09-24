@@ -16,7 +16,9 @@
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/g%20with%20left%20hook%20.png?raw=true "g with left hook") | g with left hook | er (e.g. g*er*)| g&#777; |
 | ![alt text] | g with hook | ri (e.g. g*ri*) | g&#859; |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/g%20with%20tilde%20.png?raw=true "g with tilde") ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/g%20macron%20balls.png?raw=true "g with macron balls") | g with tilde or macron and tilde | ra (e.g. g*ra*) | g̃ |
+| ![alt text] | g with dot | ro (g*ro*) | g&#730; | 
 |![alt text](https://raw.githubusercontent.com/gesaretto/paleo_ocr/master/images/l_with_cross_stroke.png "l with cross stroke")|l with cross stroke| ett (e.g. l*ett*) or is (e.g. l*is*) or e (e.g. *e*l or l*e*)|ꝉ|
+| ![alt text] | welsh l | e (e.g. ll*e*) | ỻ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/m_right_hook.png?raw=true "m with hook")| m with right hook | er or ir (e.g. m*er* m*ir*) | m&#788; M&#788;|
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/macron%20m.png?raw=true "macron over m") | m with macron | m (e.g. m*m*) | m̄ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/macron%20over%20on.png?raw=true "macron over on") | macron over on or n| u (e.g. o*u*n) [confirm]| n̄ |
@@ -27,6 +29,7 @@
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/p%20underscore.png?raw=true "P with underscore")| p with stroke through descender | er or ar (e.g. p*er* or p*ar*) | ꝑ and Ꝑ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/p%20with%20right%20hook%20.png?raw=true "p with right hook ") | p with right hook suprascript | er (e.g. p*er*) or re (e.g. p*re*) | p̔ |
 | ![alt text] | p with macron and balls | ra (e.g. p*ra*) | p&#776; |
+| ![alt text] | p with tilde | ur (e.g. p*ur*) | p̃ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/p%20with%20left%20hook.png?raw=true "p with left hook")| p with left hook suprascript | ri (e.g.) p*ri* | p̉ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/p%20with%20back%20hook%20.png?raw=true "p with back loop") | p with loop on descender | ro (e.g. p*ro*) | ꝓ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/r%20with%20hook.png?raw=true "r with hook") | r with left hook suprascript | e (e.g. r*e*) | r̉ |
