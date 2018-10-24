@@ -1,9 +1,11 @@
-### English Abbreviations
+# English Abbreviations
 
-Common Abbreviations:
+## Uniform Abbreviations:
 
-"er" hook abbreviation  
-hook diacritic = &#777  
+### "er" loop abbreviation  
+hook diacritic = &#777
+
+This symbol resembles the certain variations of the medieval Latin abbreviation for "er/ar/re." In our manuscripts, it mainly stands in for "er," though occasionally takes on other meanings (noted below. For a discussion of its Latin counterpart, See Capelli pp. 19-29, specifically sections 4.3-4.35.
 
 | Manuscript Image | Character |
 | :----: | :----: |
@@ -21,7 +23,100 @@ hook diacritic = &#777
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/v_right_hook.png?raw=true "v right hook") | v&#777; |
 | ![alt text](https://raw.githubusercontent.com/gesaretto/paleo_ocr/master/images/y_right_hook.png "y with right hook") | y&#777; |
 
-"ir" bent hook abbreviation
-bent hook diacritic = &#734
+### "ri" small 2-shaped abbreviation  
+zig zag diacritic = &#859  
 
-p&#734; 
+This symbol most closely resembles the Latin 2-shaped abbreviation, often used for *u* or *a* (see Capelli pages 29-30, section 4.4-4.41). However in our manuscripts it almost stands for "ri."  
+
+| Manuscript Image | Character |
+| :----: | :----: |
+| ![alt text]() | c&#859; |
+| ![alt text]() | g&#859; |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/p%20with%20left%20hook.png?raw=true "p with left hook")| p&#859; |
+| ![alt text]() | t&#859; | also ir or er |
+
+### "ra" upward facing wavy line
+
+diaeresis diacritic = &#776
+
+This symbol closely resembles the Latin "r/re/ra/ar" wavy line abbreviation. As Capelli notes, in the 14th and 15th century this symbol develops into a broken bar or two dots closely spaced, and we see a similar ball-type form in some instances below (see Capelli pp. 13-16, specifically sections 3.4-3.42). Given limited wavy-line options in Unicode, we have chosen to represent the abbreviation by its late form, with two balls.
+
+| Manuscript Image | Character |
+| :----: | :----: |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/g%20with%20tilde%20.png?raw=true "g with tilde") ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/g%20macron%20balls.png?raw=true "g with macron balls") | g&#776; |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/n%20with%20tilde.png?raw=true "n with tilde") | n&#776; |
+| ![alt text] | p&#776; |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/u%20with%20macron%20and%20balls.png?raw=true "u with macron and balls") ![alt text](https://raw.githubusercontent.com/gesaretto/paleo_ocr/master/images/u_with_balls.png "u with balls")| u&#776; |
+
+
+### "ur" downward facing wavy line
+
+tilde diacritic = &#771
+
+This symbol most closely resembles a version of the Latin "ur/tur/er" abbreviation, which Capelli describes as a "2" or "S" on its side (see Capelli pp.13-117, 3.5). In our English manuscripts, this symbol looks more like an inversion of the "ra" symbol (above) than a "2" or "S." We have chosen to represent this abbreviation with a tilde, which is closest to its form.
+
+| Manuscript Image | Character |
+| :----: | :----: |
+| ![alt text](https://raw.githubusercontent.com/gesaretto/paleo_ocr/master/images/e_with_tilde.png "e with tilde") | ẽ |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/o%20with%20tilde.png?raw=true "o with tilde") | õ |
+| ![alt text] | p̃ |
+| ![alt text] | t&#771; |  
+
+### "n/m" macron
+
+macron = 	&#772
+
+In almost all cases, the macron is used, as in Latin, to represent a missing "m" or "n." In some rare cases, it seems to be representing "u," but this may be scribal or reader error. **[take out? really shouldn't be u ever?]**
+
+| Manuscript Image | Character |
+| :----: | :----: |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/e%20with%20macron.png?raw=true "e with macron") | ē |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/macron%20m.png?raw=true "macron over m") | m̄ |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/o%20with%20macron,%20middle%20of%20word.png?raw=true "o with macron middle of word") | ō |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/u%20macron.png?raw=true "u macron")| ū |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/y%20macron.png?raw=true "y macron") | ȳ |
+
+## Discrete Abbreviations
+
+| Manuscript Image | Description | Meaning  | Character | Unicode |
+|:-----------:|:-----------:|:------------:|:-----------:|
+| ![alt text]()| d with downstroke | is (e.g. d*is*) or e (e.g. d*e*)| ɖ | &#598 |
+| ![alt text]() | h with cross stroke | et (e.g. h*et*) | ħ | &#295 |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/e%20with%20hook.png?raw=true "e with hook") | e with small stroke |  m (e.g. e*m*) | e&#700; | e&#700 |
+| ![alt text] | g with dot | ro (g*ro*) | g&#730; | g&#730 |
+|![alt text](https://raw.githubusercontent.com/gesaretto/paleo_ocr/master/images/l_with_cross_stroke.png "l with cross stroke")|l with cross stroke| ett (e.g. l*ett*) or is (e.g. l*is*) or e (e.g. *e*l or l*e*)| ꝉ | &#42825 |
+| ![alt text] | welsh l | e (e.g. ll*e*) | ỻ | &#7931 |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/p%20underscore.png?raw=true "P with underscore")| p with stroke through descender | er or ar (e.g. p*er* or p*ar*) | ꝑ and Ꝑ | &#42833 &#42832 |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/p%20with%20back%20hook%20.png?raw=true "p with back loop") | p with loop on descender | ro (e.g. p*ro*) | ꝓ | &#42835 |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/s%20with%20diagonal.png?raw=true "s with diagonal") | long s with diagonal stroke | er (e.g. s*er*) | ẜ | &#7836 | **[note: this is the same thing as s̉ actually... so maybe should do s̉ to be consistent?]** |
+| ![alt text]() | thorn with u diacritic | þou | þ&#871; | þ&#871 |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/w%20with%20t.png?raw=true "w with t") | w with t suprascript | with | w&#877; | w&#877 |
+
+# Latin Abbreviations
+
+| Manuscript Image | Description | Meaning  | Character | Unicode |
+|:-----------:|:-----------:|:------------:|:-----------:|
+| ![alt text] | a with o | ?  | a&#730; | a&#730 |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/c%20wih%20macron%20.png?raw=true "c with macron") | c with macron | an - t (e.g. *an*c*t*)| c̄ | c&#772 |
+| ![alt text] | d with shoulder | aui (e.g. d*aui*d) | d&#702; | d&#702 |
+| ![alt text]() | h with dot | hoc | h&#778; | h&#778 |
+| ![alt text]() | h with comma? | es (i.e. Ih*es*u) |  h&#777; | h&#777 |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/macron%20i.png?raw=true "macron i")| macron i | mn (e.g. *mn*i) | ī | i&#772 |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/p%20tilde.png?raw=true "p tilde") | p with tilde | ur (e.g. p*ur*)| p̃ | p&#771 |
+| ![alt text]() | t with 2-shaped tilde | ur (e.g. t*ur*)| t&#771; | t&#771 |
+| ![alt text] | t with macron | us (e.g. t*us*) | t̄ | t&#772 |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/Latin%20con.png?raw=true "con") | character resembling 9 | con | ꝯ | &#42863 |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/Latin%20um%20.png?raw=true "Latin rum") | character resembling 4 or y with strike through | rum | ɏ | &#591 |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/us.png?raw=true "us") | character resembling 3 | us (e.g.  b*us*) | ꝫ | &#42859 |
+| ![alt  text](https://github.com/gesaretto/paleo_ocr/blob/master/images/quod%20d.png?raw=true "quod d") | q plus d with endstroke | quod | qɖ | qd&#598 |
+| ![alt text](https://raw.githubusercontent.com/gesaretto/paleo_ocr/master/images/q_for_quod.png "quod q") | q with right hook | quod | ꝙ | &#42841 |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/tironian%20et.png?raw=true "tironian et") | tironian et | and | ⁊ | &#8266 |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/et%20cetera%20.png?raw=true "et cetera") | tironian et + c with left hook | et cetera | ⁊c&#777; | ⁊c&#777 |
+
+# Additional Abbreviations
+
+| Manuscript Image | Description | Meaning  | Character |
+|:-----------:|:-----------:|:------------:|:-----------:|
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/paragraph.png?raw=true "paragraph") | paragraph marker | new paragraph| ¶ |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/word%20bar.png?raw=true "word bar") | vertical bar | divides cramped words | &#124; |
+| ![alt text] | punctus elevatus (looks like inverted semi-colon) | pause | ؛ |
