@@ -30,7 +30,7 @@ This symbol most closely resembles the Latin 2-shaped abbreviation, often used f
 
 | Manuscript Image | Character |
 | :----: | :----: |
-| ![alt text]() | c&#859; |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/c_2.png?raw=true "c with 2") | c&#859; |
 | ![alt text]() | g&#859; |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/p%20with%20left%20hook.png?raw=true "p with left hook")| p&#859; |
 | ![alt text]() | t&#859; | also ir or er |
