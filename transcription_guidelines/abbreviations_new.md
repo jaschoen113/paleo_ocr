@@ -99,6 +99,7 @@ In almost all cases, the macron is used, as in Latin, to represent a missing "m"
 | ![alt text] | a with o | ?  | a&#730; | a&#730 |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/c%20wih%20macron%20.png?raw=true "c with macron") | c with macron | an - t (e.g. *an*c*t*)| c̄ | c&#772 |
 | ![alt text] | d with shoulder | aui (e.g. d*aui*d) | d&#702; | d&#702 |
+| ![alt text] | d with vertical line | um  (e.g. d*um*) | ? |?  |
 | ![alt text]() | h with dot | hoc | h&#778; | h&#778 |
 | ![alt text]() | h with comma? | es (i.e. Ih*es*u) |  h&#777; | h&#777 |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/macron%20i.png?raw=true "macron i")| macron i | mn (e.g. *mn*i) | ī | i&#772 |
