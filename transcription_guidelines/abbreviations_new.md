@@ -7,8 +7,8 @@ hook diacritic = &#777
 
 This symbol resembles the certain variations of the medieval Latin abbreviation for "er/ar/re." In our manuscripts, it mainly stands in for "er," though occasionally takes on other meanings (noted below. For a discussion of its Latin counterpart, See Capelli pp. 19-29, specifically sections 4.3-4.35.
 
-| Manuscript Image | Character |
-| :----: | :----: |
+| Manuscript Image | Character | Notes |
+| :----: | :----: | :---: |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/d%20with%20left%20hook.png?raw=true) | d&#777; |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/e%20with%20hook%20.png?raw=true "e with right hook") | e&#777; |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/g%20with%20left%20hook%20.png?raw=true "g with left hook") | g&#777; |
@@ -24,12 +24,13 @@ This symbol resembles the certain variations of the medieval Latin abbreviation 
 | ![alt text](https://raw.githubusercontent.com/gesaretto/paleo_ocr/master/images/y_right_hook.png "y with right hook") | y&#777; |
 
 ### "ri" small 2-shaped abbreviation  
+
 zig zag diacritic = &#859  
 
 This symbol most closely resembles the Latin 2-shaped abbreviation, often used for *u* or *a* (see Capelli pages 29-30, section 4.4-4.41). However in our manuscripts it almost stands for "ri."  
 
-| Manuscript Image | Character |
-| :----: | :----: |
+| Manuscript Image | Character | Notes |
+| :----: | :----: | :---: |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/c_2.png?raw=true "c with 2") | c&#859; |
 | ![alt text]() | g&#859; |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/p%20with%20left%20hook.png?raw=true "p with left hook")| p&#859; |
@@ -78,7 +79,7 @@ In almost all cases, the macron is used, as in Latin, to represent a missing "m"
 ## Discrete Abbreviations
 
 | Manuscript Image | Description | Meaning  | Character | Unicode |
-|:-----------:|:-----------:|:------------:|:-----------:|
+|:-----------:|:-----------:|:------------:|:-----------:| :------: |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/d_downstroke.png?raw=true "d downstroke")| d with downstroke | is (e.g. d*is*) or e (e.g. d*e*)| ɖ | &#598 |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/h%20cross.png?raw=true "h cross stroke") | h with cross stroke | et (e.g. h*et*) | ħ | &#295 |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/e%20with%20hook.png?raw=true "e with hook") | e with small stroke |  m (e.g. e*m*) | e&#700; | e&#700 |
