@@ -27,7 +27,7 @@ This symbol resembles the certain variations of the medieval Latin abbreviation 
 
 zig zag diacritic = &#859  
 
-This symbol most closely resembles the Latin 2-shaped abbreviation, often used for *u* or *a* (see Capelli pages 29-30, section 4.4-4.41). However in our manuscripts it almost stands for "ri."  
+This symbol most closely resembles the Latin 2-shaped abbreviation, often used for *u* or *a* (see Capelli pages 29-30, section 4.4-4.41). However in our manuscripts it almost always stands for "ri."  
 
 | Manuscript Image | Character | Notes |
 | :----: | :----: | :---: |
