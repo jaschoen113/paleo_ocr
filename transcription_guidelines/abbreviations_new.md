@@ -88,7 +88,7 @@ In almost all cases, the macron is used, as in Latin, to represent a missing "m"
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/welsh%20l.png?raw=true "welsh l")| welsh l | e (e.g. ll*e*) | ỻ | &#7931 |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/p%20underscore.png?raw=true "P with underscore")| p with stroke through descender | er or ar (e.g. p*er* or p*ar*) | ꝑ and Ꝑ | &#42833 &#42832 |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/p%20with%20back%20hook%20.png?raw=true "p with back loop") | p with loop on descender | ro (e.g. p*ro*) | ꝓ | &#42835 |
-| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/s%20with%20diagonal.png?raw=true "s with diagonal") | long s with diagonal stroke | er (e.g. s*er*) | ẜ | &#7836 | **[note: this is the same thing as s̉ actually... so maybe should do s̉ to be consistent?]** |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/s%20with%20diagonal.png?raw=true "s with diagonal") | long s with diagonal stroke | er (e.g. s*er*) | ẜ | &#7836 **[note: this is the same thing as s̉ actually... so maybe should do s̉ to be consistent?]** |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/thorn_u.png?raw=true "thorn with u") | thorn with u diacritic | þou | þ&#871; | þ&#871 |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/w%20with%20t.png?raw=true "w with t") | w with t suprascript | with | w&#877; | w&#877 |
 
