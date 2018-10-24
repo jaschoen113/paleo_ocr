@@ -95,7 +95,7 @@ In almost all cases, the macron is used, as in Latin, to represent a missing "m"
 # Latin Abbreviations
 
 | Manuscript Image | Description | Meaning  | Character | Unicode |
-|:-----------:|:-----------:|:------------:|:-----------:|
+|:-----------:|:-----------:|:------------:|:-----------:|:-----:|
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/a_dot.png?raw=true "a with dot") | a with dot | ?  | a&#730; | a&#730 |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/c%20wih%20macron%20.png?raw=true "c with macron") | c with macron | an - t (e.g. *an*c*t*)| c̄ | c&#772 |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/d_shoulder.png?raw=true "d with shoulder") | d with shoulder | aui (e.g. d*aui*d) | d&#702; | d&#702 |
