@@ -73,6 +73,7 @@ In most, the macron is used, as in Latin, to represent a missing "m" or "n." In 
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/e%20with%20macron.png?raw=true "e with macron") | ē |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/macron%20m.png?raw=true "macron over m") | m̄ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/o%20with%20macron,%20middle%20of%20word.png?raw=true "o with macron middle of word") | ō |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/macron%20over%20on.png?raw=true "macron over n") | n̄ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/u%20macron.png?raw=true "u macron")| ū |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/y%20macron.png?raw=true "y macron") | ȳ |
 
