@@ -66,7 +66,7 @@ This symbol most closely resembles a version of the Latin "ur/tur/er" abbreviati
 
 macron = 	&#772
 
-In almost all cases, the macron is used, as in Latin, to represent a missing "m" or "n." In some rare cases, it seems to be representing "u," but this may be scribal or reader error. **[take out? really shouldn't be u ever?]**
+In most, the macron is used, as in Latin, to represent a missing "m" or "n." In some cases, it represents "u" (for example when placed over an "n").   
 
 | Manuscript Image | Character |
 | :----: | :----: |
