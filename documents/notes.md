@@ -10,3 +10,6 @@ Meeting with Chris 6.26
   - small stroke
 - Look into medieval academy and NEH for grants
 - Look into BL for digitizing manuscript price (can digitize from microfilm)
+
+
+ocr
