@@ -83,7 +83,7 @@ In most, the macron is used, as in Latin, to represent a missing "m" or "n." In 
 |:-----------:|:-----------:|:------------:|:-----------:| :------: |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/d_downstroke.png?raw=true "d downstroke")| d with downstroke | is (e.g. d*is*) or e (e.g. d*e*)| ɖ | &#598 |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/h%20cross.png?raw=true "h cross stroke") | h with cross stroke | et (e.g. h*et*) | ħ | &#295 |
-| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/e%20with%20hook.png?raw=true "e with hook") | e with small stroke |  m (e.g. e*m*) | e&#700; | e&#700 |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/e%20with%20hook.png?raw=true "e with hook") | e with small stroke |  m or n (e.g. e*m*) | e&#700; | e&#700 |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/g_dot.png?raw=true "g with dot") | g with dot | ro (g*ro*) | g&#730; | g&#730 |
 |![alt text](https://raw.githubusercontent.com/gesaretto/paleo_ocr/master/images/l_with_cross_stroke.png "l with cross stroke")|l with cross stroke| ett (e.g. l*ett*) or is (e.g. l*is*) or e (e.g. *e*l or l*e*)| ꝉ | &#42825 |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/welsh%20l.png?raw=true "welsh l")| welsh l | e (e.g. ll*e*) | ỻ | &#7931 |
