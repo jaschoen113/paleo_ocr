@@ -26,6 +26,8 @@ date: February 2019
 
 3. Griffiths & Pearsall. *Book Production and Publishing in Britain 1375-1475*.
 
+4. Mooney. "Scribes and the City."
+
 ### On the Scripts
 
 #### On Anglicana
