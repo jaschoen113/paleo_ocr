@@ -106,7 +106,9 @@ author: J. Schoen & G. E. Saretto
 
 10. The results.
 
-11. The challenges. The
+11. The challenges.
+
+    - Multi-lingualism as a challenge?
 
 12. Future applications. Searchable .pdfs. Comparison with EEBO. Role of language recognition and implementation of dictionaries. More scans available; lower resolution images as an aid.
 
