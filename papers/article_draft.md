@@ -74,11 +74,23 @@ author: J. Schoen & G. E. Saretto
 
 1. Introduction. The context; the challenge; the purpose.
 
+    - In the past few decades, the field of medieval studies has been greatly affected by the rise of digital editions and the increased availability of on-line facsimiles. Thanks to comprehensive databases like--among others--Digital Scriptorium (...Footnote...), the Bibliothèque Virtuelle des Manuscripts Médiévaux (...Footnote...), or Manus Online (...Footnote...), students and scholars of the Middle Ages can now easily access hundreds of digitized manuscripts and thousands of high-quality images, from virtually any room where an Internet connection can be established. In addition to this, the number of projects committed to the digital preservation of premodern documents seems to increase steadily, with libraries and universities scanning and uploading new images every year (...Footnote...). On a smaller scale, the proliferation of portable photographic devices, particularly in the form of digital cameras and smartphones, has enabled researchers to photograph, upload and share manuscript pages almost effortlessly, resulting in an latent circulation of archival material that has similarly affected the field (...Footnote...). We look at these images constantly; they appear on the screens of our classrooms, in those of conference rooms, and on our own laptops. However, in spite of these technological advancements and of this steady increase in digital preservation, the dissemination of these images has not radically transformed the way we approach them. Since the inception of digitization, critics have repeatedly speculated on how technology would allow us to challenge the artificial dichotomy between _manuscript_ and _text_; put otherwise, they predicted that medievalists would soon manage to complement their reliance on reconstructed critical editions with a constant perusal of digitally available primary sources (...Footnote...). So far, this prediction has not been fulfilled. On most occasions, we still treat these images as facsimiles--items that we _look at_--rather than as texts--items that we _read_.
+
+    2. The distinction between looking and reading has been more easily overcome in other fields. For instance, comprehensive databases of printed materials--such as HathiTrust (...Footnote...), the Internet Archive (...Footnote..), or Google Books (...Footnote...)--allow scholars to look up strings of text across millions of digitized books. Having found a match, the users of these platforms can seamlessly turn from text to image. The search engine shows them the specific paragraph and line where these words appear; as a consequence, they can then examine the actual layout of the page, verify the presence of illustrations or annotations, and perhaps flip back and forth through the facsimile. In short, looking and reading overlap because image and text overlap. Such opportunities are not limited to modern texts; on the contrary, EEBO...
+
+     from there, they can examine the layout of the page,  
+
+ and to seamlessly start flipping through their page
+
+ flip through the pages
+
+
     - Imagine this... You are browsing a collection of texts... You can look up a word and immediately locate the corresponding part of a manuscript. Or, while looking at a manuscript, you can highlight a portion of text and be given an (automatic?) transcription ---
 
         - This happens on EEBO, Google Books, Amazon. It does not happen for medieval MSs.
 
-2. How electronic reproductions and online databases have pushed us to _see_ but not to _read_; we peruse collections of images as such--objects that are meant to be seen but not read. However, technology can help us overcome this obstacle by adding a layer of text onto the image. Picture this: a collection of images where the text is searchable; a collection of images where a transcription can be immediately perceived beyond the image itself.
+
+How electronic reproductions and online databases have pushed us to _see_ but not to _read_; we peruse collections of images as such--objects that are meant to be seen but not read. However, technology can help us overcome this obstacle by adding a layer of text onto the image. Picture this: a collection of images where the text is searchable; a collection of images where a transcription can be immediately perceived beyond the image itself.
 
     - Argument made by D. Wakelin somewhere?
 
