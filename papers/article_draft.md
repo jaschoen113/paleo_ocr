@@ -102,7 +102,9 @@ How electronic reproductions and online databases have pushed us to _see_ but no
 
     - How many MSs have been digitized? How expensive and time consuming is this kind of labor?
 
-4. What OCR has accomplished so far. The involvement of artificial intelligence and language recognition; neural networks. Great progress in a relatively short time. The work that has been done on medieval manuscripts. Different languages and different outcomes.
+4. Jerome McGann; in digitizing texts--especially premodern texts--we learn about their structure.
+
+      - What OCR has accomplished so far. The involvement of artificial intelligence and language recognition; neural networks. Great progress in a relatively short time. The work that has been done on medieval manuscripts. Different languages and different outcomes.
 
 5. A description of our experiment. What did we set out to establish? How much time did we have? Potential framing: Establish how well a preexistent turn-key OCR system--non-dedicated, designed for a different purpose--can transcribe a limited corpus of Middle English MSs. Also: Establish how much time and effort it takes, and make assumptions about its potential scalability. Also: Establish the potential challenges which a medievalist might encounter, and the different ways to improve the system (e.g.: is it better to work with one text or with multiple texts?)
 
@@ -127,6 +129,8 @@ How electronic reproductions and online databases have pushed us to _see_ but no
 12. Future applications. Searchable .pdfs. Comparison with EEBO. Role of language recognition and implementation of dictionaries. More scans available; lower resolution images as an aid.
 
 13. Conclusion. Feasibility of the process on a larger scale. Need to involve paleographers and medievalists. Decisions that will have a lasting impact on the way we consume these texts.
+
+    - ...
 
     - Also, need to maintain this work transparent, publicly available, and open source.
 
