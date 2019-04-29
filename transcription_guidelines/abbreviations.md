@@ -77,3 +77,14 @@
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/paragraph.png?raw=true "paragraph") | paragraph marker | new paragraph| ¶ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/word%20bar.png?raw=true "word bar") | vertical bar | divides cramped words | &#124; |
 | ![alt text] | punctus elevatus (looks like inverted semi-colon) | pause | ؛ |
+
+
+
+# example for presentations 
+
+| Manuscript Image | Description | Meaning  | Character |
+|:-----------:|:-----------:|:------------:|:-----------:|
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/e%20with%20hook.png?raw=true "e with hook") | e with suprascript |  m or n (e.g. e*m*) | ẻ |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/e%20with%20hook%20.png?raw=true "e with right hook") | e with right hook | r (e.g. e*r*)| e&#788; |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/images/e%20with%20macron.png?raw=true "e with macron") | e with macron | n (e.g. e*n*) | ē |
+| ![alt text](https://raw.githubusercontent.com/gesaretto/paleo_ocr/master/images/e_with_tilde.png "e with tilde") | e with tilde | ur (e.g. t*ur*e) | ẽ |
