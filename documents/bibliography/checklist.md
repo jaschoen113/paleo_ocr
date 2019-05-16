@@ -37,3 +37,4 @@ Hidden Markov Models" 2011
 - [ ] Transkribus system/READ project
 - [ ] Kraken system  
 - [ ] Transcribe Bentham project
+- [ ] Humanis article https://ieeexplore.ieee.org/document/8269990
