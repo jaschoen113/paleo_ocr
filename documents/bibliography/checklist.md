@@ -38,3 +38,8 @@ Hidden Markov Models" 2011
 - [ ] Kraken system  
 - [ ] Transcribe Bentham project
 - [ ] Humanis article https://ieeexplore.ieee.org/document/8269990
+- [ ] early printed texts ocr http://www.digitalhumanities.org/dhq/vol/11/2/000288/000288.html
+
+Other:
+
+- Broadview Introduction of Book History
