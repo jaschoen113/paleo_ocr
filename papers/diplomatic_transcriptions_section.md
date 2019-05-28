@@ -4,20 +4,6 @@ author: G. E. Saretto & J. Schoen
 date: May 2019
 ---
 
-##### Article
-
-|word limit|paragraphs|pages|
-|:---|:---|:---|
-|4000|16|16|
-
-##### Section
-
-|word limit|paragraphs|pages|
-|:---|:---|:---|
-|2000|8|8|
-
----
-
 ### Draft
 
 #### Diplomatic Transcription
@@ -34,18 +20,9 @@ date: May 2019
 
 [^note_mufi]: MUFI ...
 
-4. Taking into account the lasting impact of all these future implementations, and the fact that individual models may become increasingly versatile as the research behind OCR advances, these decisions should be discussed thoroughly and openly, and involve the participation of specialists from all the adjacent fields that rely on the analysis of such materials--not only paleographers and codicologists, but also linguists and literary critics. The potential scalability of this technology suggests that the outcome of these discussions will ultimately affect our study of these documents--including their script and their language--for a very long time. From this standpoint, the current technological limitations of OCR may have caused an almost unprecedented disciplinary shift in the way we approach the relationship between medieval handwriting and contemporary editions. The training of these models should rest on the establishment of a shared and sustainable standard for "diplomatic transcription"; and this standard demands an exact correspondence between handwritten letter forms and discrete typographical characters--associated with specific digital encodings. ...
+4. Taking into account the lasting impact of these implementations, and the fact that individual models may become increasingly versatile as the research behind OCR advances, these decisions should be discussed thoroughly, and involve the participation of specialists from all the adjacent fields that rely on the analysis of such materials--not only paleographers and codicologists, but also linguists and literary critics. The potential scalability of this technology suggests that the outcome of these discussions will ultimately affect our study of these artifacts--including their editorial history and their language--for a very long time. From this standpoint, the current technological limitations of OCR may have caused an almost unprecedented disciplinary shift in the way we approach the relationship between medieval handwriting and its typographical reproduction. The successful training of these models will rest on the establishment of a shared and sustainable standard for "diplomatic transcription"; and this standard will demand an exact correspondence between handwritten letter forms and discrete digital encodings. In short, the imminent rise of OCR will compel scholars to reflect again on what features of a medieval script should be deemed essential for its fruition, and why. In the training of our model, for example, we chose to maintain the distinction between the plain double "l" and the Welsh double "l," but we ignored the one between short "s" and long "s." We came to this conclusion by assessing that the former carried semantic weight as an abbreviation for an unstressed "e," while the latter did not.
 
- may affect the way that scholars and students approach not only these documents, but also their scripts and their language for a very long time.
-
-way we approach these documents, their script, and their language for a very long time.
-
-    - ...
-
-these
-
-the OCR system will every other text processed by the OCR will be read in the future.
-
+5. To facilitate the discussion surrounding these critical decisions, and to promote the creation of a shared and sustainable standard for "diplomatic transcriptions" within this context, we assembled and described all our choices in a comprehensive list which we made publicly available on our Git repository. ...
  Certainly, given its relatively small number of ligatures and abbreviations, a contemporary reader might find _Corpus Christi 198_ generally legible when compared with other handwritten documents from its period. To the human eye, its neatly arranged pages and generally distinct letter forms might recall the alleged tidiness of contemporary typesetting more than the _horror vacui_ popularly associated with the medieval book. Nevertheless, in spite of its ostensible legibility, the adaptation of this text into a digital "diplomatic transcription" entailed a number of choices ...
 
 [^note_mufi]
