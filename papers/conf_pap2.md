@@ -4,49 +4,41 @@ author: J. Schoen & G. E. Saretto
 date: May 2019
 ---
 
+- Sometime between roughly 1331 and 1341 a scribe in Ludlow compiled a collection of Middle English, Anglo-Norman, and Latin texts, with both prose and verse works that ranged from somber religious allegory to bawdy fabliau. The scribe then attached his miscellaneous folios to two older booklets of Anglo-Norman religious writing, and formed the manuscript now known as Harley MS 2253, which is held in the British Library.
+
+- Harley MS 2253 is a decidedly multilingual manuscript and an unusually rich example of such a kind produced commonly in the 13th and 14th century. The polyglot manuscript is fertile ground for comparative literary analysis. But in the 20th century, the English, French, and Latin texts were never edited alongside each other. Instead, the Middle English texts were edited separately, and the Latin and Anglo-Norman texts were largely ignored.
+
+- The Middle English lyrics were given special attention, and although the manuscript actually features more Anglo-Norman poems, "Harley Lyrics" became shorthand for the Middle English lyrics alone.
+
+- Thus a distinctly multilingual manuscript was for decades edited and studied almost exclusively for its monolingual holdings, while little attention was given to its larger structural, thematic, and cross-linguistic implications.
+
+- Significant work has been done in the past twenty years to correct this initial editorial bias, including a momentous edition of the entire manuscript. But the editorial history of Harley MS 2253 demonstrates the benefits and compromises behind any edition of a manuscript.
+
+- Such advantages and constraints are inherent to the process of shifting manuscript to print, and indeed inherent to any form of remediation—that is, to cite Bolter and Grusin, "the representation of one medium in another."
+
+- Remediation always affords certain conveniences--for instance, legibility, access, thematic considerations--at the expense of certain information--for instance, page layout, material, handwriting, structure. It is foremost essential to be aware of the shifting balance between information and convenience behind any remediation.
+
+- The digital era has ushered in a whole new set of mediums for representing manuscripts: digital facsimiles, digital editions, isolated images of manuscript pages and illustrations. As with print, these new mediums raise questions about how to best represent manuscripts across different contexts and for different purposes. But the digital era is also introducing new processes of remediation—that is, changing not only the medium through which we reproduce manuscripts, but the method by which we do so.
+
+- Editors can consult digital images when working on manuscripts; the internet allows scholars to collaborate more easily on editions; some research teams are even crowdsourcing transcriptions.  
+
+- And the next form of remediation may well entail machines automatically transcribing manuscripts themselves.
+
+- Thanks to advancements in Optical Character Recognition (OCR), several research teams (including our own) are successfully beginning to train machines to transcribe medieval scripts.
+
 - In this talk we will tell you about an experiment with Optical Character Recognition that we started about a year and a half ago, with the scientific support of Columbia's Group for Experimental Methods in Humanistic Research and the financial support of Columbia's Data Science Institute. The experiment itself consisted in using a preexistent OCR software--called _Kraken_, like Tennyson's giant squid--to train a model for the automatic recognition and transcription of a Middle English book hand from the early 15th century.
 
 - As you probably already know, Optical Character Recognition (OCR) is a promising technology that transforms a text-image--for example, a scanned book or a photograph of a document--into machine-readable text. That text can then be digitally searched, edited, stored, and otherwise manipulated by a computer. OCR technology already underlies many of the digital texts we read: it is what enables Project Gutenberg to easily digitize printed texts and Google Books to perform keyword-searches on scanned books.
 
 - OCR models are built through machine learning. This means that the machine transcribes a text by following inferred rules rather than explicit instructions. More specifically, the machine learns these inferred rules through a "training" process, wherein a researcher provides the machine with a "training set" of paired inputs and outputs.
 
-- To use manuscript transcription as an example, a machine is first given a training set composed of manuscript images (input) alongside corresponding human-made transcriptions (output). Then, the machine “trains” on the images and transcriptions and “learns” the transcription rules on its own, through guessing and correcting. The machine can then produce its own transcriptions on new, previously unseen images.
+- To use manuscript transcription as an example, a machine is first given a training set composed of manuscript images--the input--alongside corresponding human-made transcriptions--the output. Then, the machine “trains” on the images and transcriptions and “learns” the transcription rules on its own, through guessing and correcting. The machine can then produce its own transcriptions on new, previously unseen images.
 
-- This process
+- The automation involved in this process ...
 
 
-Sometime between roughly 1331 and 1341 a scribe in Ludlow compiled a collection of Middle English, Anglo-Norman, and Latin texts, with both prose and verse works that range from somber religious allegory to bawdy fabliau.
 
-The scribe then attached his miscellaneous folios to two older booklets of Anglo-Norman religious writing (a previous scribe's work) and formed the manuscript now known as Harley MS 2253, which is held in the British Library.
-
-Harley MS 2253 is a decidedly multilingual manuscript and an unusually rich example of such a kind produced commonly in the 13th and 14th century—Middle English, Latin, and Anglo-Norman texts alternate regularly, several pages contain two or three languages side-by-side, and there are even some bilingual and trilingual poems in the collection. The polyglot manuscript is fertile ground for comparative literary analysis, whether scholars are interested in historicizing a multilingual 14th century England, exploring genres and themes across multiple languages, or tracking linguistic interplay and influence. But in the 20th century, the English, French, and Latin texts were never edited alongside each other. Instead, the Middle English texts were edited separately, and the Latin and Anglo-Norman texts were largely ignored.
-
-Even a facsimile of the manuscript omitted the first two booklets (containing the Anglo-Norman texts copied by a different scribe).
-
-The Middle English lyrics were given special attention, and although the manuscript actually features more Anglo-Norman poems, "Harley Lyrics" became shorthand for the Middle English lyrics alone. Scholarly analysis reinforced the decisions of scholarly editions and vice-versa: as the "Harley Lyrics" became a cornerstone of the Middle English canon, the manuscript itself was considered primarily significant for its unique and extensive collection of secular Middle English lyrics. Thus a distinctly multilingual manuscript was for decades edited and studied almost exclusively for its monolingual holdings, while little attention was given to its larger structural, thematic, and cross-linguistic implications.
-
-Significant work has been done in the past twenty years to correct this initial editorial bias, including a momentous edition of the entire manuscript and a collection of essays which considers "the manuscript as a whole."  
-
-But the editorial history of Harley MS 2253 demonstrates the benefits and compromises behind any edition of a manuscript. By collecting the Middle English Harley lyrics together, editors directed attention to a previously overlooked branch of medieval English literature. By overlooking the Anglo-Norman and Latin texts in the manuscript, editors also cut off investigations into cross-linguistic and manuscript-level studies.
-
-Such advantages and constraints are inherent to the process of shifting manuscript to print, and indeed inherent to any form of remediation—that is, the "the representation of one medium in another."
-
-Remediation always affords certain conveniences (e.g. legibility, access, thematic considerations) at the expense of certain information (e.g. page layout, material, handwriting, structure). This is not to say that certain kinds of mediums or editions are objectively superior to others. Rather, it is foremost essential to be aware of the shifting balance between information and convenience behind any remediation—to be aware, for example, when selecting for convenience that we lose certain information.
-
-The digital era has ushered in a whole new set of mediums for representing manuscripts—digital facsimiles, digital editions, isolated images of manuscript pages and illustrations. As with print, these new mediums raise questions about how to best represent manuscripts across different contexts and for different purposes. But the digital era is also introducing new processes of remediation—that is, changing not only the medium through which we reproduce manuscripts, but the method by which we do so.
-
-Editors can consult digital images when working on manuscripts; the internet allows scholars to collaborate more easily on editions; some research teams are even crowdsourcing transcriptions.  
-
-And the next form of remediation may well entail machines automatically transcribing manuscripts themselves.
-
-Thanks to advancements in Optical Character Recognition (OCR), several research teams (including our own) are successfully beginning to train machines to transcribe medieval scripts.  
-
-The potential benefits of automatic transcriptions are manifold—quick and large-scale transcriptions of understudied manuscripts, keyword searches on digital facsimiles, transcription errors which are easier to identify.
-
-In this paper, we discuss our method for training an OCR system as well as our promising results. But we also discuss important considerations for any team embarking on an automatic transcription project, as well as what this experiment may teach us about manuscript studies in general. Rather than viewing automatic transcription as an extreme departure from the history of manuscript studies as we know it, we suggest understanding this moment like any other layer in a manuscript's remediation history. As with previous mediums, there are many potential benefits to automatic transcription, and there are also various constraints demanded by the process, which we discuss in this paper.
-
-Moreover, just as we argue for viewing current OCR projects as a discrete moment in manuscript history, so we suggest reading manuscript history through the lens of data science and machine learning. Returning to Harley MSS 2253, we can think about this manuscript's editorial history in terms of data manipulation and remediation bias. In plucking the Middle English lyrics out of their original context and presenting them as a homogenous set, scholars mined the manuscript for a particular data set and discarded the rest. They manipulated the manuscript's data according to a certain bias—in favor of Middle English and discriminatory against Latin and Anglo-Norman. Even the facsimile edition—typically considered a rather transparent remediation—distorted data by leaving out the first two quires, reflecting a bias in favor of a single scribe as well as the Middle English. As in data science, these biases often have political and cultural roots: in privileging the Middle English lyrics scholars may have been engaged in a kind of medievalist nativism, implicitly marking Middle English as the “authentic” language of medieval England, and signalling a tie between nation and language when no such tie existed in medieval England. Of course, this is what all editions are—selections, curations, manipulations. Though Harley 2253's history may be exemplary, any medieval manuscript's editorial history is a history of data manipulation. But it is important to be aware of the ways in which we manipulate data and to consider the ramifications of our manipulation, especially in a technological age when decisions amplify rapidly and are often difficult to reverse.
-
+In this paper, we discuss our method for training an OCR system as well as our promising results. But we also discuss important considerations for any team embarking on an automatic transcription project, as well as what this experiment may teach us about manuscript studies in general.
 
 - We decided to try OCR on a small corpus of Middle English manuscripts. To begin with, we needed to find a suitable OCR system to use. We decided on Kraken, which is a turn-key OCR suite developed and maintained by Benjamin Kiessling.
 
@@ -84,3 +76,7 @@ Presumably because semi-diplomatic transcriptions are the paleographic standard,
 - [Maybe say something about open-software in general? Something about how doing projects like this can open our eyes to how restrictive the field can be?]
 
 - In conclusion, we want to reiterate both the promising results of our experiment as well as the intriguing challenges ahead. We are excited by this technology's potential, and our experiment proved more successful than we imagined: but after working through this process, we have also come to realize that there critical conversations to be had about the [kinds of transcription we want this technology to produce, what a transcription is in the first place, and what kinds of biases underlie any transcription of a manuscript-- both in today's digital age and in the history of medieval studies]
+
+- Rather than viewing automatic transcription as an extreme departure from the history of manuscript studies as we know it, we suggest understanding this moment like any other layer in a manuscript's remediation history. As with previous mediums, there are many potential benefits to automatic transcription, and there are also various constraints demanded by the process.
+
+- Moreover, just as we argue for viewing current OCR projects as a discrete moment in manuscript history, so we suggest reading manuscript history through the lens of data science and machine learning. Returning to Harley MS 2253, we can think about this manuscript's editorial history in terms of data manipulation and remediation bias. In plucking the Middle English lyrics out of their original context and presenting them as a homogenous set, scholars mined the manuscript for a particular data set and discarded the rest. They manipulated the manuscript's data according to a certain bias—in favor of Middle English and discriminatory against Latin and Anglo-Norman. Even the facsimile edition—typically considered a rather transparent remediation—distorted data by leaving out the first two quires, reflecting a bias in favor of a single scribe as well as the Middle English. As in data science, these biases often have political and cultural roots: in privileging the Middle English lyrics scholars may have been engaged in a kind of medievalist nativism, implicitly marking Middle English as the “authentic” language of medieval England, and signalling a tie between nation and language when no such tie existed in medieval England. Of course, this is what all editions are—selections, curations, manipulations. Though Harley 2253's history may be exemplary, any medieval manuscript's editorial history is a history of data manipulation. But it is important to be aware of the ways in which we manipulate data and to consider the ramifications of our manipulation, especially in a technological age when decisions amplify rapidly and are often difficult to reverse.
