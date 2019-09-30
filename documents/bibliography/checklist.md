@@ -43,3 +43,18 @@ Hidden Markov Models" 2011
 Other:
 
 - Broadview Introduction of Book History
+
+From reviewers:
+
+- Mooney 1996
+- Ciula 2005
+- Stutzmann 2016
+- Stansbury 2009
+- Schomaker 2004
+- Dahllof 2018
+- Arabnejad et al 2016
+- Global Currents White Paper Andrew Piper McGill
+- Radical Mediation 2015
+- Hawk Karaisl White
+- Kestement Christlein Stutzman
+- Michael Widner in “Toward Text-Mining the Middle Ages: Digital Scriptoria and Networks of Labor.”
