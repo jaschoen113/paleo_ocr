@@ -46,15 +46,17 @@ Other:
 
 From reviewers:
 
-- Raymond Mooney 1996
--**Ciula 2005**
-- Stutzmann 2016
-- Stansbury 2009
-- Schomaker 2004
-- Dahllof 2018
-- Arabnejad et al 2016
-- Global Currents White Paper Andrew Piper McGill
-- **Radical Mediation 2015**
-- Hawk Karaisl White
-- Kestement Christlein Stutzman
-- **Michael Widner in “Toward Text-Mining the Middle Ages: Digital Scriptoria and Networks of Labor.”**
+- [ ] Raymond Mooney 1996
+- [x] Ciula 2005
+- [x] Stutzmann 2016
+- [ ] **Stansbury 2009**
+- [ ] **Schomaker 2004**
+- [ ] **Dahllof 2018**
+- [ ] **Arabnejad et al 2016**
+- [ ] Global Currents White Paper Andrew Piper McGill
+- [x] Radical Mediation 2015
+- [ ] Hawk Karaisl White
+- [ ] Kestement Christlein Stutzman
+- [x] Michael Widner in “Toward Text-Mining the Middle Ages: Digital Scriptoria and Networks of Labor.”
+- [x] "On Digital-Medieval Manuscript Culture: A Tentative Manifesto"
+- [x] "Textual Bodies, the Digital Surrogate, and Desire: Guillaume de Machaut’s Judgment Cycle and his Protean Corpus"*
