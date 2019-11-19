@@ -90,6 +90,59 @@ date: Nov 2019
 
 > Regarding the transcriptions of manuscript texts, I want to stress from the outset that they do not strive for diplomatic status. Their major function is to serve as a reminder that the material I cite is drawn from a medium radically different from the modern printed page on which we read it. In agreement with the themes of this book, the transcriptions represent the manuscript text as best I can capture it in two stages of existence. At the fist level, the transcriptions seek to represent in the print medium certain features of the text on the manuscript page, stripped of modern accretions (capitalizations, punctuation, standard word division) and with portions of the medieval text preserved (most notably scribal "errors," punctuation, and physical spacing). I have tried to reflect rudiments of scribal *usus*, so that readers may eventually be able to recognize the manuscript in question from the transcription. Thus, my transcription uses the tyronian sign, and, when appropriate, paragraphs (*calderones*) and marginal material. (xx-xxi)
 
----  
+6. Baker, Donald C. "Frederick James Furnivall (1825-1910)." *Editing Chaucer. The Great Tradition*, ed. Paul G. Ruggiers, Norman: Pilgrim Books, 1984.
 
-...
+- Argues that Furnivall's work on Chaucer's manuscripts should be regarded as the necessary foundation for all subsequent critical and philological endeavors; in a footnote (6) on p. 280, Baker explains that the editor of the first jumbo-sized edition of *The Canterbury Tales*, John M. Manly, was greatly indebted to Furnivall's transcriptions (which would be soon replaced by photographic reproductions).
+
+    - Photography made printed facsimiles such as Furnivall's redundant (although Furnivall's transcription represented a sort of compromise between faithfulness to the aspect of the MS and readability for the general user); but up to the moment when photographs became available, a printed edition such as Furnivall's would have been more helpful.
+
+    - Given the capabilities of digitized archives, where information can be concealed or displayed according to the needs of the user, transcriptions such as Furnivall's are made viable and somewhat necessary again; they will make this kind of information searchable, and allow researchers to investigate it through computational methods.
+
+> In the essay "Origin and Development of Our Plan," (1.1) Manly makes clear that the Furnivall prints pointed the way for the great Chicago work, which was enabled to go beyond the Chaucer society achievement, to some extent at any rate, by the availability of cheap photographic reproduction, which was, of course, unavailable very much earlier. Who can doubt that if this method had been available to Furnivall *all* the *Canterbury Tales* known to exist would have been printed? But the Manly-Rickert *Text*, of course, became a great *edition*, assembling and organizing the material which Furnivall, even had he access to the new technology, would probably only have printed. He saw himself, as always, as preparing the ground for other scholars. (280)
+
+- Note that Robinson's edition (which forms the basis for the Riverside Chaucer) was prepared by looking at:
+
+    - "all the published manuscript materials and photographs or collations of some of the more important published sources";
+
+    - although Robinson eventually chose a "best" manuscript and edited "it in the light of the others, using common sense and scholarly knowledge and experience" (G. F. Reinecke, "F. N. Robinson," *Editing Chaucer*, 239);
+
+    - Robinson meticulously compared his edition with the one prepared by Manly and Rickert, often accepting their variants (249);
+
+    - Robinson's edition became the standard over the course of the XX century; the *Riverside Chaucer* that we read today largely coincides with it.
+
+- The same could be said for Skeat's edition, dated 1894; this was based on Furnivall's work and on the Six-Text edition (p. 179); it will be the basis for the upcoming Oxford version, edited by C. Cannon and J. Simpson.
+
+- In other words, Furnivall's work on the Six-Text edition constitutes the basis for all the editorial and critical work done on Chaucer during the 20th century--until this day.
+
+- Here is how Baker describes Furnivall's editions:
+
+> It is not exaggeration at all to say that the selection and printing of this series of texts was the most important contribution by one man to the tradition of Chaucerian textual study [...]. (159)
+
+> The texts themselves are much alike, in appearance like those of the EETS. Furnivall, as he tells us, aimed to reproduce the manuscript itself as closely as possible, expanding obvious abbreviations (with italics), but generally wherever there was a doubt about practice reproducing the brevigraphs used by the scribes with a variety of printed symbols. The appearance of the page, as Bradshaw noted of the volumes of EETS, certainly gives an impression of scholarly impeccability. How accurate are these texts? [...] Errors, of course, abound, but largely of a minor nature. The remarkable thing which I concluded was that, considering the amount of material, the errors are quite surprisingly few, and, more importantly, consist largely of inconsistencies in representing letters (*i-j*, *u-v*, etc.) and in expansions, all of which Furnivall freely admits in his *Temporary Prefaces*. (164)
+
+> As an *editor*, as I have remarked, his work cannot really be evaluated, for he never, in a sense *edited* anything. He printed, but how fully, how gloriously he printed! He made all modern editions possible. In every aspect of Chaucerian study his work is found. [...] Whether we condescend in our own day of supersophisticated (perhaps too sophisticated) concepts of editing even to admit Furnivall into our ranks, he is the giant upon whose shoulders we all stand--enthusiastic, genial, enormously hard-working, quick to judgment and quick to admit error, encouraging all who followed and criticized and bettered his own work. (169)
+
+7. Febvre, Lucien and Henri-Jean Martin. *The Coming of the Book. The Impact of Printing 1450-1800*. Trans. David Gerard, Norfolk: Verso, 1976.
+
+- The writers argue that the invention of print might have caused the reduction of special characters and abbreviations.
+
+> To begin with, there was the problem of making type sorts. Not only did the printer need a foolproof method of making them with the aid of punches and moulds [...] An even greater drawback was the use of so many typographic signs imitated from the handwriting employed in writing manuscripts. The first printers cast letters joined by ligatures and used standard abbreviations (*a* [with line on top] for *an* or *am*; *q* for *quia*) so that there were many more typographic signs than there are today. It makes us wonder whether the gradual abandonment of the ligatures and abbreviations so common in the 15th and 16th centuries was not partly due to a wish to reduce the number of punches and matrices needed, one aspect of the tendency toward uniformity and simplification so characteristic of the evolution of the book. (57)
+
+- They also tell us that the choice of Caroline ("humanistic hand") for printed materials was not an obvious choice.
+
+> Around 1450, when printing was invented, texts were being written, according to their contents or their intended recipients, in very different hands. In fact four main styles of script were current, each with its own specific purpose. *[They list: "scholastic" gothic, "missal" gothic, "bastard" gothic, and the "humanist" or "roman" script.]* Inspired by the Carolingian minuscule, this script was made fashionable by Petrarch and his disciples, but in 1480 [NB: **Petrarch died in 1374.**] was used only by a few exclusive groups of humanists, or by aristocratic book collectors who wanted their classical texts to have a look of antiquity and authenticity about them [...]. (79)
+
+> Such were the different models that were available to early printers; and this diversity explains the extraordinary variety of the letters used in the first incunabula and even in early 16th-century books. There was a conventional type for each class of book and reader, just like there had been in the manuscript period [...]. (79)
+
+> Some printers went further in imitating manuscript handwriting, as did Le Talleur, a printer of Rouen, who published two treatises on Anglo-Norman law for Richard Pynson, the English bookseller of Norman extraction. To do this work he cast a type quite different from his normal model, and tried to copy the cursive script used peculiarly by English scribes for this class of work.  
+> Gradually, printing became more uniform for quite material reasons. (80)
+
+- The reference for the "Anglicana" incunabulum is: G. Lepreux, *Gallia Typographica. Province de Normandie*, Vol. 1, p. 276, Paris 1912, 2 vols.
+
+---
+
+- Punctus versus and punctus elevatus?
+
+---
+
+Look at Kerby-Fulton, pp. 4-5.
