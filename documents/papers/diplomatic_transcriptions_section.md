@@ -4,6 +4,12 @@ author: G. E. Saretto & J. Schoen
 date: May 2019
 ---
 
+### Back to Diplomatic Transcription
+
+Paleography shares the practice of "diplomatic transcription" with ... cataloging? The science of cataloging?
+
+---
+
 ### Draft
 
 #### Diplomatic Transcription
