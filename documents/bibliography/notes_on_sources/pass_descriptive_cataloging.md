@@ -139,10 +139,21 @@ date: Nov 2019
 
 - The reference for the "Anglicana" incunabulum is: G. Lepreux, *Gallia Typographica. Province de Normandie*, Vol. 1, p. 276, Paris 1912, 2 vols.
 
----
+8. Kerby-Fulton, Kathryn. "How to Transcribe Middle English." *Opening Up Middle English Manuscripts. Literary and Visual Approaches,* ed. Kathryn Kerby-Fulton, Maidie Hilmo, Linda Olson. Ithaca: Cornell University Press, 2012, 2-5.
 
-- Punctus versus and punctus elevatus?
 
----
 
-Look at Kerby-Fulton, pp. 4-5.
+- Elements that could cause ambiguity or a loss of information:
+
+    - ampersand and tironian et?
+    - punctus versus and punctus elevatus?
+
+        - according to KF, these are supposed to mean "voice rising" and "voice falling."
+
+    - distinction between thorn, eth, and "th"?
+
+    - Maybe all of them together? Notion that ambiguity concerning the transcription of all these character causes an inevitable loss of information?
+
+9. Derolez, Albert. The Paleography ...
+
+> In Anglicana the upper lobe of round **s** is left open, thus acquiring the form of figure 6. It was traced in a simple one-stroke clockwise ductus, and may often be observed in the lower levels of execution. More typical and sophisticated is the form giving **s** the same style as **d** and **e** which was obtained through a different ductus [...]. This form, also found in certain documentary scripts, is in fact not far removed from the looped straight **s**, especially if the round letter was made taller than the other short letters. This could explain a most noteworthy feature of Anglicana: the use of round **s** at the beginning of words. With the exception of a few German hands, this feature occurs only in Anglicana and gives this script a unique place among late medieval book scripts. Although round **s** in initial position may alternate with straight **s**, and tended to disappear in the course of the fifteenth century under Cursiva influence, the feature remains a remarkable characteristic of Anglicana. Straight **s** was always used in the middle of words. (138-39)
