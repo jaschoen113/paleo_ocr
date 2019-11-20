@@ -6,9 +6,7 @@ date: May 2019
 
 ### Back to Diplomatic Transcription
 
-Paleography shares the practice of "diplomatic transcription" with ... cataloging? The science of cataloging?
-
----
+1. In the second half of the 19th century, before the advent of affordable photographic facsimiles, scholarship on the Middle Ages depended on the faithful transcription of primary sources. Unless they could afford the expenses and the inconvenience of traveling to many diverse institutions, philologists and historians in this field needed to rely on the circulation of printed transcriptions. This need inspired the great ... of Furnivall ...
 
 ### Draft
 
