@@ -6,6 +6,36 @@ date: May 2019
 
 ### Back to Diplomatic Transcription
 
+1. [Today we cannot think of medieval philology without photography.] As Ludwig Traube noted in 1909, the circulation of affordable photographic facsimiles allowed scholars of the Middle Ages to examine and compare primary sources at their own pace, without the encumbrance of traveling from library to library. Previously, however, philologists who did not consult artifacts in person would still rely on surrogates, albeit of a different kind: typographic transcriptions. Before photographs, a scholar who expected to learn about the contents and the form of a particular manuscript would either turn to its description in a catalog, or confide in the accuracy and availability of a faithful transcription, possibly in print. In the last decades of the 19th century, this scholarly dependency on transcriptions motivated the editorial efforts of one among the most industrious patrons of Chaucerian literary criticism: Frederick James Furnivall (1825-1910). As the founder of--among several others--the Early English Texts Society and the Chaucer Society, Furnivall invested great time, labor, and resources in the production of such transcriptions, which he regarded as an indispensable foundation for the future study of medieval literature. He was not proven wrong. In the words of Donald C. Baker, "the selection and printing of this series of texts was the most important contribution by one man to the tradition of Chaucerian textual study." Indeed, Furnivall's *Six-Text Edition of Chaucer's Canterbury Tales*--an eighth-volume series of eccentrically printed "oblong folios," displaying his transcriptions from six different manuscripts in six parallel columns--was extensively consulted by John Manly and Edith Rickert, whose *Text of the Canterbury Tales* ....
+
+
+
+regarded as
+
+ would rely on the accuracy and availability of a different kind of surrogate
+
+ who wished to learn about the contents and the form of a particular manuscript
+
+would have to rely on the availability of faithful transcriptions in print. Indeed, this need for transcriptions prompted the great editorial efforts of one among the most industrious
+
+
+either seek a way to consult the artifact in person, or
+
+
+1. In the last decades of the 19th century, the popularization of photography changed
+
+1. The popularization of photography
+
+- At the end of the 19th century
+
+1. The advent of affordable photographic facsimiles,
+
+1. The advent of affordable photographic facsimiles, at the end of the 19th century,
+
+1. Before the advent of affordable photographic facsimiles
+
+1. Before the advent of affordable photographic facsimiles at the end of the 19th century,
+
 1. In the second half of the 19th century, before the advent of affordable photographic facsimiles, scholarship on the Middle Ages depended on the faithful transcription of primary sources. Unless they could afford the expenses and the inconvenience of traveling to many diverse institutions, philologists and historians in this field needed to rely on the circulation of printed transcriptions. This need inspired the great ... of Furnivall ...
 
 ### Draft
