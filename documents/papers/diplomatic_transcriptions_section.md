@@ -4,13 +4,36 @@ author: G. E. Saretto & J. Schoen
 date: May 2019
 ---
 
+> To do honour to CHAUCER, and to let the lovers and students of him see how far the best unprinted Manuscripts of his works differ from the printed texts, this Society is founded. There are many questions of metre, pronunciation, orthography, and etymology yet to be settled, for which more prints of Manuscripts are wanted, and it is hardly too much to say that every line of Chaucer contains points that need reconsideration. The founder's proposal is to begin with *The Canterbury Tales*, and give of them (in parallel columns in Royal 4to) six of the best unprinted Manuscripts known. Inasmuch also as the parallel arrangement will necessitate the alteration of the places of certain tales in some of the MSS, a print of each MS will be issued separately, and will follow the order of its original.
+
+### Nuovo corso
+
+1. ...
+
+1. The purpose of the Chaucer Society was to produce "printed Manuscripts" (maybe allude to the NCS)?
+
+> The Chaucer Society. To do honour to CHAUCER, and to let the lovers and students of him see how far the best unprinted
+
+2. The transcriptions produced by the CS were foundational for edited texts of Chaucer, to this day ...
+
+3. but they are "fu"
+
+### Attempt
+
+When
+
 ### Back to Diplomatic Transcription
 
-1. [Today we cannot think of medieval philology without photography.] As Ludwig Traube noted in 1909, the circulation of affordable photographic facsimiles allowed scholars of the Middle Ages to examine and compare primary sources at their own pace, without the encumbrance of traveling from library to library. Previously, however, philologists who did not consult artifacts in person would still rely on surrogates, albeit of a different kind: typographic transcriptions. Before photographs, a scholar who expected to learn about the contents and the form of a particular manuscript would either turn to its description in a catalog, or confide in the accuracy and availability of a faithful transcription, possibly in print. In the last decades of the 19th century, this scholarly dependency on transcriptions motivated the editorial efforts of one among the most industrious patrons of Chaucerian literary criticism: Frederick James Furnivall (1825-1910). As the founder of--among several others--the Early English Texts Society and the Chaucer Society, Furnivall invested great time, labor, and resources in the production of such transcriptions, which he regarded as an indispensable foundation for the future study of medieval literature. He was not proven wrong. In the words of Donald C. Baker, "the selection and printing of this series of texts was the most important contribution by one man to the tradition of Chaucerian textual study." Indeed, Furnivall's *Six-Text Edition of Chaucer's Canterbury Tales*--an eighth-volume series of eccentrically printed "oblong folios," displaying his transcriptions from six different manuscripts in six parallel columns--was extensively consulted by John Manly and Edith Rickert, whose *Text of the Canterbury Tales* ....
+1. Today we may hardly imagine a practice of medieval philology detached from the support of photography. As Ludwig Traube noted in 1909, it was thanks to the circulation of affordable photographic facsimiles that scholars of the Middle Ages could begin to compare the fine details of primary sources at their own pace, without the encumbrance of traveling from library to library. However, even before the popularization of photography, philologists did rely on surrogates--albeit of a different kind. To learn about a particular manuscript, a scholar who could not consult it in person would either turn to its description in a catalog, or confide in the accuracy of a typographic transcription. In fact, the scholarly need for such transcriptions motivated the editorial efforts of one among the most industrious champions of Chaucerian criticism: Frederick James Furnivall (1825-1910). During the last decades of the 19th century, Furnivall invested great labor and resources in producing transcriptions of previously unavailable medieval manuscripts, which he regarded as indispensable foundations for the study of premodern literature. Time proved him right. In the words of Donald C. Baker, "the selection and printing of this series of texts was the most important contribution by one man to the tradition of Chaucerian textual study." Furnivall's *Six-Text Edition of Chaucer's Canterbury Tales*--which appeared as an eighth-volume series of extravagantly "oblong folios," displaying his transcriptions from six different manuscripts in parallel columns--was extensively consulted by subsequent editors, including William W. Skeat--for his *The Complete Works of Geoffrey Chaucer*--and John Manly and Edith Rickert--editors of the seminal *Text of the Canterbury Tales*. In short, every modern edition of Chaucer's poem--including the ones that we read today--rests on the reliability and convenience of Furnivall's typographic transcriptions.
 
+2. The practice of transcribing manuscripts typographically did not disappear with the inception of affordable photography. In fact, transcriptions are often included alongside photographic facsimiles--either digital or in print--to help readers find relevant passages within pages that may seem crammed or disorienting to the untrained eye. Paleographers and philologists still turn to transcription to zero in on the significant features that distinguish a particular variant. Critics like John Dagenais deploy faithful transcriptions of minute manuscript features in their essays, "to serve as a reminder that the material [*they*] cite is drawn from a medium radically different from the modern printed page on which we read it." Finally, students who learn how to read medieval handwriting are trained and tested through transcriptions, following the example established by their manuals and their teachers. Nevertheless, in spite of its past indispensability and present usefulness, the typographic transcription of medieval manuscripts has never been comprehensively systematized. On the contrary, it has remained a fuzzy business  
+
+ Even though it greatly facilitated the work of philologists and paleographers, the inception of affordable photography did not eradicate
 
 
 regarded as
+
+
 
  would rely on the accuracy and availability of a different kind of surrogate
 
