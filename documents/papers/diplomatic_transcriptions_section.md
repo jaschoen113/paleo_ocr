@@ -4,6 +4,53 @@ author: G. E. Saretto & J. Schoen
 date: May 2019
 ---
 
+A long century of cultural and technological transformations separates the foundation of the original Chaucer Society, started in 1868, from that of the New Chaucer Society, started in 1979. The different rationales behind the establishment of these two organizations--among the most influential for the study of Middle English--further reflect a dramatic change in the field of medieval studies. On the one hand, the "New" Society has aspired "to promote interest in Chaucer and to advance Chaucer studies," particularly by means of "international congresses" where members can "exchang[*e*] ideas and techniques." On the other, the "old" Chaucer Society was established "to let the lovers and students of [*Chaucer*] see how far the best unprinted Manuscripts of his works differ from the printed texts." Put differently, while the New Society has concentrated on dialogue, the old Society relied on print. According to its founder, the industrious editor and promoter F. J. Furnivall, the circulation of previously "unprinted Manuscripts" would in fact fulfill a critical scholarly need.
+
+> There are many questions of metre, pronunciation, orthography, and etymology yet to be settled, for which more prints of Manuscripts are wanted, and it is hardly too much to say that every line of Chaucer contains points that need reconsideration.
+
+Furnivall planned to facilitate the "reconsideration" and the "settl[*ing*]" of these textual quandaries by issuing the "prints of Manuscripts" which were ostensibly most "wanted" by his contemporaries. As a consequence, he supervised the production and the circulation of many "printed" manuscripts from the Middle Ages--a titanic endeavor which indeed proved quite fruitful. According to a present-day scholar, "the selection and printing of this series of texts was the most important contribution by one man to the tradition of Chaucerian textual study." Furnivall's *Six-Text Edition of Chaucer's Canterbury Tales*--which appeared as an eighth-volume series of extravagantly "oblong folios," displaying the printed texts of six different manuscripts in parallel columns--was extensively consulted by subsequent editors, including William W. Skeat and John Manly and Edith Rickert. In short, every modern edition of Chaucer's poem--including the ones that we read today--rests on the reliability and convenience of Furnivall's "prints."
+
+Today, in spite of its undeniable scholarly usefulness, Furnivall's project of "print[*ing*] [...] Manuscripts" comes across as perplexing. In his statement of purpose, Furnivall lightly conjoins two distinct media--the handwritten *codex* and the printed book--without even alluding to the scholarly practice on which such conjunction must be predicated: namely, the practice of transcription. The phrase glosses over his intellectual labor and his role of mediator, implicitly suggesting a sort of automatic translation from one medium to the other; as if the distinction between "printed" and "unprinted" manuscripts depended solely on the operation of the printing press. On the contrary, the transcription of ... ... constitutes the bulk of Furnivall's ...
+
+Predictably, the field of medieval studies also
+
+also changed dramatically   
+
+Between these two dates, medieval studies also changed dramatically. The different rationales behind the establishment of these societies reflects these changes. While the "New" corporation was created "to promote interest in "
+
+Medieval studies changed between the foundation of the original Chaucer Society (1868) and that of the New Chaucer Society (1979).
+
+Medieval studies changed over the course of the long century that separates the foundation of the original Chaucer
+
+The long century that separates the foundation of the original Chaucer Society ()
+
+Cultural and technological upheavals  the long century that separated the foundation of the original Chaucer Society (1868) from that of
+
+For medieval studies, the century the separated the foundation of the original Chaucer Society (1868) from that of the New Chaucer Society (1979) was marked by
+
+A century of intellectual and technological upheaval separates the foundation of the original Chaucer Society
+
+Medieval studies changed dramatically in the century that passed between the
+
+A century of intellectual and technological upheavals separated the foundation of the New Chaucer Society-inaugurated in 1979--from that of its original counterpart, the Chaucer Society started by Frederick James Furnivall in 1879.
+
+Scholarly needs and scholarly practices changed dramatically
+
+During the century
+
+The century that separates the foundation of the original Chaucer
+
+The different rationales behind the foundations of the original Chaucer Society, ...
+
+Unlike its contemporary counterpart, the original Chaucer Society was not founded "to provide a forum for teachers and scholars of Geoffrey Chaucer and his age," but to "let the lovers and students of "
+
+One among the most
+
+Unlike
+
+Unlike its contemporary counterpart,
+
+
 > To do honour to CHAUCER, and to let the lovers and students of him see how far the best unprinted Manuscripts of his works differ from the printed texts, this Society is founded. There are many questions of metre, pronunciation, orthography, and etymology yet to be settled, for which more prints of Manuscripts are wanted, and it is hardly too much to say that every line of Chaucer contains points that need reconsideration. The founder's proposal is to begin with *The Canterbury Tales*, and give of them (in parallel columns in Royal 4to) six of the best unprinted Manuscripts known. Inasmuch also as the parallel arrangement will necessitate the alteration of the places of certain tales in some of the MSS, a print of each MS will be issued separately, and will follow the order of its original.
 
 ### Nuovo corso
