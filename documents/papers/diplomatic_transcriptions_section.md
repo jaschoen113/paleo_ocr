@@ -4,13 +4,37 @@ author: G. E. Saretto & J. Schoen
 date: May 2019
 ---
 
+### Nuovo Corso
+
+All the editions of the *Canterbury Tales* that we read today share a common, tacit ancestor--a forebear that does not date back to the age of Chaucer, but to the Victorian era. In the last decades of the 19th century, an enterprising Cambridge graduate named Frederick James Furnivall founded a number of literary societies that aimed at "editing and publishing the primary documents of early English literature."[^note_dnb] Among these, the Chaucer Society was established in 1868 with a distinct mission: "to let the lovers and students of [*Chaucer*] see how far the best unprinted Manuscripts of his works differ[ed] from the printed texts."[^note_furnivall_preface] According to Furnivall, the circulation of previously unedited--or, in his words "unprinted"--manuscripts would fulfill a critical scholarly need.
+
+> There are many questions of metre, pronunciation, orthography, and etymology yet to be settled, for which more prints of Manuscripts are wanted, and it is hardly too much to say that every line of Chaucer contains points that need reconsideration.
+
+Furnivall planned to facilitate the "reconsideration" and the "settl[*ing*]" of these textual quandaries by issuing the "prints of Manuscripts" which were ostensibly most "wanted" by his contemporaries. As a consequence, he supervised the production and the circulation of many "printed" manuscripts from the Middle Ages--a titanic endeavor which indeed proved quite fruitful. According to a present-day scholar, "the selection and printing of this series of texts was the most important contribution by one man to the tradition of Chaucerian textual study." Furnivall's *Six-Text Edition of Chaucer's Canterbury Tales*--which appeared as an eighth-volume series of extravagantly "oblong folios," displaying the printed texts of six different manuscripts in parallel columns--was extensively consulted by subsequent editors, including William W. Skeat and John Manly and Edith Rickert. In short, every modern edition of Chaucer's poem--including the ones that we read today--rests on the reliability and convenience of Furnivall's "prints." ...
+
+---
+
+[^note_dnb]: “Furnivall, Frederick James (1825–1910), Textual Scholar and Editor | Oxford Dictionary of National Biography.” Accessed December 3, 2019. https://doi.org/10.1093/ref:odnb/33298.
+
+[^note_furnivall_preface]: Furnivall, Frederick James. *A Temporary Preface to the Six-Text Edition of Chaucer’s Canterbury Tales, Part I, Attempting to Show the True Order of the Tales, and the Days and Stages of the Pilgrimage, Etc., Etc.* London : Published for the Chaucer society by N. Trübner & co., 1868, 146.
+
+
+A common ancestor
+
+The *Canterbury Tales* that we read today
+
+---
+
 A long century of cultural and technological transformations separates the foundation of the original Chaucer Society, started in 1868, from that of the New Chaucer Society, started in 1979. The different rationales behind the establishment of these two organizations--among the most influential for the study of Middle English--further reflect a dramatic change in the field of medieval studies. On the one hand, the "New" Society has aspired "to promote interest in Chaucer and to advance Chaucer studies," particularly by means of "international congresses" where members can "exchang[*e*] ideas and techniques." On the other, the "old" Chaucer Society was established "to let the lovers and students of [*Chaucer*] see how far the best unprinted Manuscripts of his works differ from the printed texts." Put differently, while the New Society has concentrated on dialogue, the old Society relied on print. According to its founder, the industrious editor and promoter F. J. Furnivall, the circulation of previously "unprinted Manuscripts" would in fact fulfill a critical scholarly need.
 
 > There are many questions of metre, pronunciation, orthography, and etymology yet to be settled, for which more prints of Manuscripts are wanted, and it is hardly too much to say that every line of Chaucer contains points that need reconsideration.
 
 Furnivall planned to facilitate the "reconsideration" and the "settl[*ing*]" of these textual quandaries by issuing the "prints of Manuscripts" which were ostensibly most "wanted" by his contemporaries. As a consequence, he supervised the production and the circulation of many "printed" manuscripts from the Middle Ages--a titanic endeavor which indeed proved quite fruitful. According to a present-day scholar, "the selection and printing of this series of texts was the most important contribution by one man to the tradition of Chaucerian textual study." Furnivall's *Six-Text Edition of Chaucer's Canterbury Tales*--which appeared as an eighth-volume series of extravagantly "oblong folios," displaying the printed texts of six different manuscripts in parallel columns--was extensively consulted by subsequent editors, including William W. Skeat and John Manly and Edith Rickert. In short, every modern edition of Chaucer's poem--including the ones that we read today--rests on the reliability and convenience of Furnivall's "prints."
 
-Today, in spite of its undeniable scholarly usefulness, Furnivall's project of "print[*ing*] [...] Manuscripts" comes across as perplexing. In his statement of purpose, Furnivall lightly conjoins two distinct media--the handwritten *codex* and the printed book--without even alluding to the scholarly practice on which such conjunction must be predicated: namely, the practice of transcription. The phrase glosses over his intellectual labor and his role of mediator, implicitly suggesting a sort of automatic translation from one medium to the other; as if the distinction between "printed" and "unprinted" manuscripts depended solely on the operation of the printing press. On the contrary, the transcription of ... ... constitutes the bulk of Furnivall's ...
+Today, in spite of its undeniable scholarly usefulness, Furnivall's project of "print[*ing*] [...] Manuscripts" comes across as perplexing. In his statement of purpose, Furnivall lightly conjoins two distinct media--the handwritten *codex* and the printed book--without even alluding to the scholarly practice on which such conjunction must be predicated: namely, the process of transcription. By glossing over his intellectual labor and his role of mediator, the phrase implicitly suggests a sort of automatic translation from one medium to the other; as if the distinction between "printed" and "unprinted" manuscripts depended solely on one's decision to start the printing press. On the contrary, the core of Furnivall's enterprise corresponded to the professedly faithful
+
+
+the transcription of textual variants from the  page to the  constitutes the bulk of Furnivall's ...
 
 Predictably, the field of medieval studies also
 
