@@ -6,18 +6,31 @@ date: May 2019
 
 ### Nuovo Corso
 
-All the editions of the *Canterbury Tales* that we read today share a common, tacit ancestor--a forebear that does not date back to the age of Chaucer, but to the Victorian era. In the last decades of the 19th century, an enterprising Cambridge graduate named Frederick James Furnivall founded a number of literary societies that aimed at "editing and publishing the primary documents of early English literature."[^note_dnb] Among these, the Chaucer Society was established in 1868 with a distinct mission: "to let the lovers and students of [*Chaucer*] see how far the best unprinted Manuscripts of his works differ[ed] from the printed texts."[^note_furnivall_preface] According to Furnivall, the circulation of previously unedited--or, in his words "unprinted"--manuscripts would fulfill a critical scholarly need.
+All the editions of the *Canterbury Tales* that we read today share a common, tacit ancestor--a forebear that does not date back to the age of Chaucer, but to the Victorian era. In the last decades of the 19th century, the enterprising Cambridge graduate Frederick James Furnivall founded a number of literary societies that aimed at "editing and publishing the primary documents of early English literature."[^note_dnb] Among these, the Chaucer Society was established in 1868 with a distinct mission: "to let the lovers and students of [*Chaucer*] see how far the best unprinted Manuscripts of his works differ[ed] from the printed texts."[^note_furnivall_preface] According to Furnivall, the circulation of these previously unedited--or, in his words "unprinted"--medieval manuscripts would fulfill a critical scholarly need.
 
 > There are many questions of metre, pronunciation, orthography, and etymology yet to be settled, for which more prints of Manuscripts are wanted, and it is hardly too much to say that every line of Chaucer contains points that need reconsideration.
 
-Furnivall planned to facilitate the "reconsideration" and the "settl[*ing*]" of these textual quandaries by issuing the "prints of Manuscripts" which were ostensibly most "wanted" by his contemporaries. As a consequence, he supervised the production and the circulation of many "printed" manuscripts from the Middle Ages--a titanic endeavor which indeed proved quite fruitful. According to a present-day scholar, "the selection and printing of this series of texts was the most important contribution by one man to the tradition of Chaucerian textual study." Furnivall's *Six-Text Edition of Chaucer's Canterbury Tales*--which appeared as an eighth-volume series of extravagantly "oblong folios," displaying the printed texts of six different manuscripts in parallel columns--was extensively consulted by subsequent editors, including William W. Skeat and John Manly and Edith Rickert. In short, every modern edition of Chaucer's poem--including the ones that we read today--rests on the reliability and convenience of Furnivall's "prints." ...
+Furnivall planned to facilitate the "reconsideration" and the "settl[ing]" of these textual quandaries by issuing the "prints of Manuscripts" which were ostensibly most "wanted" by his contemporaries. As a consequence, he supervised the production and the circulation of many "printed" manuscripts from the Middle Ages. This titanic endeavor proved quite valuable. Indeed, according to a present-day scholar, "the selection and printing of this series of texts was the most important contribution by one man to the tradition of Chaucerian textual study."[^note_baker] In particular, Furnivall's *Six-Text Edition of Chaucer's Canterbury Tales*--which appeared as an eighth-volume series of extravagantly "oblong folios," displaying the printed texts of six different manuscripts in parallel columns--was extensively consulted by the great Chaucerian editors of the period, including William W. Skeat--who edited *The Complete Works of Geoffrey Chaucer*--and John Manly and Edith Rickert--who edited the seminal *Text of the Canterbury Tales*. These editions were in turn perused by subsequent editors, such as F.N. Robinson--whose *The Works of Geoffrey Chaucer* became the foundation for the nowadays universal *Riverside Chaucer*--and Christopher Cannon and James Simpson, who are basing their upcoming *ombibus* Chaucer on Skeat's text. In short, every modern edition of Chaucer's poem ultimately rests on the reliability and convenience of Furnivall's "prints."
 
----
-
-[^note_dnb]: “Furnivall, Frederick James (1825–1910), Textual Scholar and Editor | Oxford Dictionary of National Biography.” Accessed December 3, 2019. https://doi.org/10.1093/ref:odnb/33298.
+[^note_dnb]: Peterson, William S. *Furnivall, Frederick James (1825–1910), Textual Scholar and Editor*. Oxford University Press, 2007. https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-33298.
 
 [^note_furnivall_preface]: Furnivall, Frederick James. *A Temporary Preface to the Six-Text Edition of Chaucer’s Canterbury Tales, Part I, Attempting to Show the True Order of the Tales, and the Days and Stages of the Pilgrimage, Etc., Etc.* London : Published for the Chaucer society by N. Trübner & co., 1868, 146.
 
+[^note_baker]: Baker, Donald C. "Frederick James Furnivall (1825-1910)." In *Editing Chaucer: The Great Tradition*, ed. Ruggiers, Paul G., Norman, Okla: Pilgrim Books, 1984, 159.
+
+Nevertheless, in spite of the advantages that they have yielded to the discipline as a whole, Furnivall's "printed" manuscripts have often been criticized for their sloppiness. Furnivall never aspired to produce actual critical editions--which he mockingly called "doctored editions"[^note_brandl]. On the contrary, driven by the intention to avoid any sort of "doctoring," he strived to offer printed materials that would resemble the original sources as much as possible. His uncompromising enthusiasm for this kind of unmediated editing and publishing was frequently "ridiculed by medievalists more firmly esconced in the professional establishment"[^note_dinshaw] ...
+
+- diplomatic transcription offers a set of rules to do the "unmediated" stuff in an authoritative, standardized way; "diplomatic" transcription thinks about the -- thoughtful, critical approach
+
+ resemble the original sources as much as possible; the materials that he wished to make available ought to avoid at all costs any sort of intervention that might come across as "doctoring." His uncompromising enthusiasm
+
+to avoid at all costs any intervention that could come across as "doctoring."
+
+ the texts that he intended to make available to his contemporaries ought to . his enthusiastic [^note_dinshaw]
+
+[^note_munro]: Brandl, Alois. "F. J. Furnivall." In *Frederick James Furnivall; a Volume of Personal Record*. New York : H. Frowde, 1911, 14.
+
+[^note_dinshaw]: Dinshaw, Carolyn. *How Soon Is Now? : Medieval Texts, Amateur Readers, and the Queerness of Time*. Durham, NC: Duke University Press, 2012.
 
 A common ancestor
 
