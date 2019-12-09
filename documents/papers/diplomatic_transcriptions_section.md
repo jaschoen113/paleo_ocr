@@ -4,7 +4,7 @@ author: G. E. Saretto & J. Schoen
 date: May 2019
 ---
 
-All the editions of the *Canterbury Tales* that we read today share an unexpected ancestor--a forebear that does not date back to the age of Chaucer, but to the Victorian era. In 1868, the enterprising Cambridge graduate Frederick James Furnivall founded the Chaucer Society with a distinct mission: "to let the lovers and students of [*Chaucer*] see how far the best unprinted Manuscripts of his works differ[ed] f_rom the printed texts."[^note_furnivall_preface] According to Furnivall, the circulation of these previously unedited--or, in his words "unprinted"--medieval manuscripts would fulfill a critical scholarly need.
+All the editions of the *Canterbury Tales* that we read today share an unexpected ancestor--a forebear that does not date back to the age of Chaucer, but to the Victorian era. In 1868, the enterprising Cambridge graduate Frederick James Furnivall founded the Chaucer Society with a distinct mission: "to let the lovers and students of [*Chaucer*] see how far the best unprinted Manuscripts of his works differ[ed] from the printed texts."[^note_furnivall_preface] According to Furnivall, the circulation of these previously unedited--or, in his words "unprinted"--medieval manuscripts would fulfill a critical scholarly need.
 
 > There are many questions of metre, pronunciation, orthography, and etymology yet to be settled, for which more prints of Manuscripts are wanted, and it is hardly too much to say that every line of Chaucer contains points that need reconsideration.
 
@@ -24,11 +24,28 @@ Nevertheless, in spite of their benefits for the discipline as a whole, Furnival
 
 For Baker, Furnivall's editions would not suggest amateurism because of their "errors," but because of their "inconsistencies." Rather than accuracy, his process lacked a unifying criterion. On the one hand, he wished to "reproduce the manuscript" as faithfully as possible, rendering many "brevigraphs" typographically and preserving some of the idiosyncrasies that characterize medieval spelling. On the other, he aspired "to make early English texts available for a wide range of readers to enjoy"[^note_dinshaw_2], thus "expanding obvious abbreviations" and paying great attention to the legibility of the text and to its general "appearance on the page." Thus, divided between scholarly demands and his ambitions to accommodate a broad audience, Furnivall neglected to establish a consistent set of principles to govern the fulcrum of his editorial process: his transcriptions.
 
-Indeed, not only does Furnivall fail to provide an account of the principles that have informed his transcriptions, but he appears to gloss over the practice of transcribing altogether, avoiding--in his *Temporary Preface to the Six-Text Edition of Chaucer's Canterbury Tales*--the verb "to transcribe" and its cognates. Furnivall always speaks of "printing": "print Manuscripts," "unprinted Manuscripts," "prints of Manuscripts".[^note_furnivall_2] These phrases encapsulate his understanding of this endeavor. He did not regard it as a careful, time-consuming process--one that might have involved substantial labor, a number of contentious decisions, and the possibility of error and bias; rather, he characterized it as an ostensibly straightforward transition from one medium to another. The distance between handwriting and typography is flattened -- removed --
+[^note_brandl]: Brandl, Alois. "F. J. Furnivall." In *Frederick James Furnivall; a Volume of Personal Record*. New York: H. Frowde, 1911, 14.
 
- to offer an "unmediated" product ... remove the human agent ... suggest a form of automatism ... underline the technical instrument ...
+[^note_baker_2]: Baker, Donald C. "Frederick James Furnivall (1825-1910)," 164.
+
+[^note_dinshaw_2]: Dinshaw, Carolyn. *How Soon is Now?*, 27.
+
+Indeed, not only does Furnivall fail to provide an account of the principles that have informed his transcriptions, but he appears to gloss over the practice of transcribing altogether, avoiding--in his *Temporary Preface to the Six-Text Edition of Chaucer's Canterbury Tales*--the verb "to transcribe" and its cognates. Instead, Furnivall always speaks of "printing": "print Manuscripts," "unprinted Manuscripts," "prints of Manuscripts".[^note_furnivall_2] These phrases well encapsulate his understanding of his editorial endeavor. He did not describe the production of these volumes as a careful, time-consuming process--one that might have involved substantial labor, a number of contentious decisions, and the possibility of error and bias; rather, he characterized it as an ostensibly straightforward transition from a handwritten to a typographical support. The distance between the two media is therefore flattened by the seemingly careless joining of the predicate "to print"--which of course evokes the arrangement of types and the operation of the printing press--with the direct object "manuscripts"--which unambiguously designates unique artifacts written by hand. Through this flattening, Furnivall foregrounds the automaticity and speed of the modern machine--"print" absorbs "Manuscripts," not vice versa--and conceals his own human intervention. Thanks to this technology, the "unprinted" is made "printed"; a procedure that seems as fast and as simple--in other words, as immediate--as the removal of the prefix "un."
 
 [^note_furnivall_2]: Furnivall, Frederick James. *A Temporary Preface*, *passim*.
+
+As it emphasizes the immediacy of print, Furnivall's account of his own method overlooks the role of transcription--the least immediate of its prerequisites. Since the inception of the printing press, in the second half of the 15th century, the transcription of handwritten characters into reproducible sequences of types has constantly involved complex processes of semiotic negotiation. In their essay on *The Coming of the Book*, Lucien Febvre and Henri-Jean Martin remark how the copiousness of signs deployed in medieval handwriting created a potential "drawback" for early printers, who painstakingly "imitated" the appearance of manuscripts by deploying "so many typographic signs."
+
+>  The first printers cast letters joined by ligatures and used standard abbreviations (*a* [with line on top] for *an* or *am*; *q* for *quia*) so that there were many more typographic signs than there are today. It makes us wonder whether the gradual abandonment of the ligatures and abbreviations so common in the 15th and 16th centuries was not partly due to a wish to reduce the number of punches and matrices needed, one aspect of the tendency toward uniformity and simplification so characteristic of the evolution of the book.[^note_febvre]
+
+The material constraints of print--its reliance on a finite number of types--produced a "tendency toward uniformity and simplification" that clashed against the timesaving strategies developed by medieval scribes: ligatures and abbreviations. This initial negotiation affected the subsequent history of both media; printers began adopting a more economical set of "punches and matrices," while medieval abbreviations gradually disappeared from common use. From the start, transcription from one medium to another has been shaped by technological limitations, human decisions, and an inevitable loss of information. Furnivall conceals the impact of all three, while leaving room for a largely unregulated--and, therefore, inconsistent--practice of transcription.
+
+[^note_febvre]: Febvre, Lucien and Henri-Jean Martin. *The Coming of the Book. The Impact of Printing 1450-1800*. Trans. David Gerard, Norfolk: Verso, 1976, 57.
+
+From this standpoint, Furnivall ...
+
+
+: the transcription of handwritten characters into typographic characters.
 
 Furnivall glosses over the practice of transcription. In his *Temporary Preface* to the *Six-Text  , He barely alludes to it
 
@@ -42,11 +59,6 @@ Furnivall glosses over transcription and its principles. In fact, he avoids the 
 
 ... failed to standardize transcription
 
-[^note_brandl]: Brandl, Alois. "F. J. Furnivall." In *Frederick James Furnivall; a Volume of Personal Record*. New York: H. Frowde, 1911, 14.
-
-[^note_baker_2]: Baker, Donald C. "Frederick James Furnivall (1825-1910)," 164.
-
-[^note_dinshaw_2]: Dinshaw, Carolyn. *How Soon is Now?*, 27.
 
 - ... however, transcription is hardly ever standardized ...
 
@@ -436,3 +448,6 @@ Kiessling, Benjamin, Matthew Thomas Miller, Maxim G. Romanov, and Sarah Bowen Sa
 Mooney, Linne and Estelle Stubbs. Scribes and the city: London Guildhall clerks and the dissemination of Middle English literature, 1375-1425. Suffolk: York Medieval Press, 2013.
 
 Yang, Ying, et al. “Automatic single page-based algorithms for medieval manuscript analysis.” Journal on Computing and Cultural Heritage. 10.2 (2017): 9.
+
+
+even thugh a machine works similarly to a human, the moment
