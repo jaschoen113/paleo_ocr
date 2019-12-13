@@ -61,4 +61,50 @@
 
     - the goal of their experiment was to establish whether "the size and diversity of the training pool would be directly proportional to the quality of the resulting model when tested on 'seen' and 'unseen' manuscripts within the realm of Caroline minuscule scripts."
 
-    - They bracket "the expansion of medi..."
+    - They bracket "the expansion of medieval abbreviations" as a "post-processing problem"; they argue that future research should expect "LSTM models to be trained" to correctly expand ambiguous abbreviations."
+
+    - they argue that some combinations of manuscripts can yield surprisingly effective results:
+
+    > A careful conclusion would have it that a variety of two or more manuscripts does not yield a better foundation for an OCR model for either target manuscript as a rule, but that specific combinations of manuscripts can yield exceptional results.
+
+    - their ambition is to build "a turn-key OCR model applicable to as large a range of unseen manuscripts as possible"
+
+    - their results apply mostly to Caroline
+
+8. Committee, Association of College and Research Libraries Rare Books and Manuscripts Section Bibliographic Standards. *Descriptive Cataloging of Rare Materials (Books)*. Washington, D.C.: Cataloging Distribution Service, 2007.
+
+    - they prescribe the normalization of spelling and the expansion of contractions (34-45, 187-193).
+
+9. McGrady, Deborah. “Textual Bodies, the Digital Surrogate, and Desire: Guillaume de Machaut’s Judgment Cycle and His Protean Corpus.” *Digital Philology: A Journal of Medieval Cultures* 5, no. 1 (June 1, 2016): 8–27. https://doi.org/10.1353/dph.2016.0002.
+
+    - examines how digital surrogates "reignite nostalgia for the *real*, understood here as a physical and material body that one might experience multi-sensorially and intimately" (9)
+
+    - she explores remediation in terms of "surrogate" and the medieval manuscript; useful recapitulation on p. 21
+
+    > That is, in dealing with remediated texts, we oscillate between believing we have an unmediated relationship with the original object--here the handwritten manuscript--at the same time that we recognize that a new medium--the digital realm--negotiates our encounter with the original mediated object. (21)
+
+10. Edwards, A. S. G. “Chaucer From Manuscript to Print: The Social Text and the Critical Text.” *Mosaic: A Journal for the Interdisciplinary Study of Literature* 28, no. 4 (1995): 1–12.
+
+    - a discussion of how early printed editions of Chaucer's works affected the long history of his reception and his placement in the canon, from the early modern period to the present.
+
+11. Dahllöf, Mats. “Automatic Scribe Attribution for Medieval Manuscripts.” *Digital Medievalist* 11, no. 1 (December 24, 2018): 6. https://doi.org/10.16995/dm.67.
+
+    - offers an automated system for attribution that still strives to be readable (accessible) for a human reader; works against the pitfalls of a "black box" approach
+
+12. Ciula, Arianna. “Digital Palaeography: Using the Digital Representation of Medieval Script to Support Palaeographic Analysis.” *Digital Medievalist* 1, no. 0 (April 20, 2005). https://doi.org/10.16995/dm.4.
+
+    - seminal article in the development of automatic methods for the study of premodern handwriting; she argues that paleography seeks discrete differences (seeks to systematize and quantify discrete differences); we can argue that, on the contrary, OCR often works in the direction of standardization: it removes differences, it tries to ignore differences; her work concentrates on the identification and quantification of discrete paleographic differences.
+
+13. Stansbury, Mark. “The Computer and the Classification of Script.” In *Kodikologie Und Paläographie Im Digitalen Zeitalter - Codicology and Palaeography in the Digital Age*, edited by Malte Rehbein, Torsten Schaßan, and Patrick Sahle, 2:237–49. Norderstedt: BoD, 2009.
+
+    - examines the turn  towards "measurement" and quantification in the study of paleography; argues that technology enables a paradigmatic shift (238), and that in fact "palaeography was made possible by two technological innovations in the fifteenth century: printing and engraving. Engraving and later etching and lithography made possible the mass reproduction of identical facsimiles of scripts." (241)
+
+    - cites Ludwig Traube on Photography;
+
+14. Traube, Ludwig. *Zur Paläographie Und Handschriftenkunde*. München: C.H. Beck, 1965.
+
+    - argues that the dissemination of cheap photographic facsimiles changed the field of paleography (57)
+
+15. Arabnejad, Ehsan, Reza Farrahi Moghaddam, and Mohamed Cheriet. “PSI: Patch-Based Script Identification Using Non-Negative Matrix Factorization.” *Pattern Recognition* 67 (July 1, 2017): 328–39. https://doi.org/10.1016/j.patcog.2017.02.020.
+
+    - offers a method base on neural networks for the automatic recognition and classification of script  

@@ -4,6 +4,8 @@ author: G. E. Saretto & J. Schoen
 date: May 2019
 ---
 
+``
+
 All the editions of the *Canterbury Tales* that we read today share an unexpected ancestor--a forebear that does not date back to the age of Chaucer, but to the Victorian era. In 1868, the enterprising Cambridge graduate Frederick James Furnivall founded the Chaucer Society with a distinct mission: "to let the lovers and students of [*Chaucer*] see how far the best unprinted Manuscripts of his works differ[ed] from the printed texts."[^note_furnivall_preface] According to Furnivall, the circulation of these previously unedited--or, in his words "unprinted"--medieval manuscripts would fulfill a critical scholarly need.
 
 > There are many questions of metre, pronunciation, orthography, and etymology yet to be settled, for which more prints of Manuscripts are wanted, and it is hardly too much to say that every line of Chaucer contains points that need reconsideration.
