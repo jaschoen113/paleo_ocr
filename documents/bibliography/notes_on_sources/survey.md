@@ -108,3 +108,23 @@
 15. Arabnejad, Ehsan, Reza Farrahi Moghaddam, and Mohamed Cheriet. “PSI: Patch-Based Script Identification Using Non-Negative Matrix Factorization.” *Pattern Recognition* 67 (July 1, 2017): 328–39. https://doi.org/10.1016/j.patcog.2017.02.020.
 
     - offers a method base on neural networks for the automatic recognition and classification of script  
+
+16. Stokes, Peter A. “Palaeography and the ‘Virtual Library’ of Manuscripts.” In *Digitizing Medieval and Early Modern Material Culture*, edited by Brent Nelson and Melissa M. Terras, 137–69. New Technologies in Medieval and Renaissance Studies, v. 3. Toronto, Ontario, Canada : Tempe, Arizona: Iter, Inc. ; ACMRS (Arizona Center for Medieval and Renaissance Studies), 2012.
+
+    - examines problems in the circulation and availability of digital facsimiles; identifies questions "of access and 'democratization,' of copyright and reproduction rights" (159) as some of the most urgent that the field faces right now; images are copyrighted and often made inaccessible (this has changed with the introduction of IIIF, by the way)
+
+17. Burrows, Tony. “Medieval Manuscripts and Their Digital Afterlives.” In The Routledge Research Companion to Digital Medieval Literature. Routledge, 2017. https://doi.org/10.4324/9781315696041-9.
+
+    - explains that the number of manuscripts that are still to be digitized is very high:
+
+    > Fabian and Schreiber estimate that only 7.5 percent of Germany's 60,000 medieval manuscripts have been digitized; this is a in country that has invested significant amounts already in digitization and has developed a national strategy for future work. There is no reason to think that the proportion is any higher across the rest of Europe and North America.
+
+    - covers the kind of potential opened up by mass digitization
+
+18. Roberts, Jane. *Guide to Scripts Used in English Writings up to 1500*. London: British Library, 2005.
+
+    - Offers some interesting clarifications concerning her transcriptions.
+
+    > The transcriptions present, as far as it is practicable, the letter-shapes, punctuation, and layout of the manuscript pages reproduced. Every attempt is made to avoid editorial interference. Yet, because it is incumbent on any transcriber to understand the text as it is read, no attempt is made to reproduce the spaces (or indeed lack of spaces) between words or parts of words. Instead the word divisions that might be expected in a modern critical edition are presented, and <-> is used at line endings where necessary to identify divided words. As far as possible, capitals and other distinctive letter-forms are represented in the transcription, with attention drawn to further significant features in the commentaries. (8)
+
+    - She also explains the importance that some stylistic features (letter forms and their placement, abbreviations, use of tironian et or ampersand) might have on paleographic assessments (quality and status of the document or book, date of production, influence, region).
