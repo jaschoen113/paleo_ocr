@@ -42,7 +42,40 @@ The material constraints of print--its reliance on a finite number of types--pro
 
 [^note_febvre]: Febvre, Lucien and Henri-Jean Martin. *The Coming of the Book. The Impact of Printing 1450-1800*. Trans. David Gerard, Norfolk: Verso, 1976, 57.
 
-From this standpoint, Furnivall ...
+Yet, Furnivall's lack of consistency and transparency in addressing transcription does not constitute an isolated case in the field of medieval studies. On the contrary, even though the practice of transcribing manuscripts has remained widely popular,[^note_use_transcription] paleographers, historians, and literary critics often perform it according to their own judgment, and without adhering to any given set of instructions. According to Dawson and Skipton's popular handbook on how to read and work with *Elizabethan Handwriting*, transcription happens on a spectrum.
+
+> At one extreme lies the completely modernized text, reproducing the content only--all spellings modernized; punctuation, abbreviation, and the use of capitals standardized; contractions expanded. At the other extreme lies the nearest approach to facsimile reproduction that is attainable in type, a kind of printing which requires hand setting in a shop equipped with a great number of special type sorts--symbols, signs, and marks employed by medieval writers and still used in the sixteenth century.
+
+Between these two extremes, transcribers face a great variety of options; as a consequence, they "must interpret, and in so doing [they] may often alter the writer's meaning," or cause the loss "of linguistic detail important to some students."[^note_elizabethan_handwriting] Kathryn Kerby-Fulton similarly bestows a great deal of responsibility on transcribers in her manual on *Middle English Manuscripts*; she stresses how transcribers decide on questions that are only apparently "tiny": what spelling should be used to expand an abbreviation, whether a silent *e* should be added, and when an initial letter should be capitalized.[^note_kerby_fulton] Scholars of the Middle Ages who work with primary sources share these concerns with archivists and catalogers. These have coined a specific phrase to describe a transcription which, like Furnivall's, strives to reproduce the appearance of the manuscript as faithfully as possible: "diplomatic transcription." Nevertheless, even though the literature on cataloging seems to offer far more rules, theories, and principles on the subject, the practice of transcription from manuscripts into print is still widely understood as "a subjective matter"--one whose results should always be regarded as "interpretive."[^note_pass]
+
+[^note_pass]: Pass, Gregory A. *Descriptive cataloging of ancient, medieval, Renaissance, and early modern manuscripts*. Chicago: Association of College and Research Libraries, 2002.
+
+ "diplomatic transcription"  Gregory Pass's guide to *Descriptive cat
+
+This is defined as a transcription that "attempts to represent by means of a system of editorial signs the physical state of an individual manifestation of the text of a work, reproducing original spellings, punctuation, and capitalization and showing all additions, suppressions, or substitutions made to the text at the time of and subsequent to its creation."
+
+[^note_elizabethan_handwriting]: Dawson, Giles E. and Laetitia Kennedy Skipton. Elizabethan Handwriting. 1500-1650. A Guide to the Reading of Documents and Manuscripts. London: Faber and Faber, 1966.
+
+[^note_kerby_fulton]: Kerby-Fulton, Kathryn. "How to Transcribe Middle English." *Opening Up Middle English Manuscripts. Literary and Visual Approaches*, ed. Kathryn Kerby-Fulton, Maidie Hilmo, Linda Olson. Ithaca: Cornell University Press, 2012, 2-5.
+
+The wide variety of options that isbetween these two extremes
+
+As a consequence, they continue, "the transcriber must also constantly be an editor; he must interpret, and in so doing he may often alter the writer's meaning."
+
+
+> An early manuscript can be transcribed in print in various ways. At one extreme lies the completely modernized text, reproducing the content only--all spellings modernized; punctuation, abbreviation, and the use of capitals standardized; contractions expanded. At the other extreme lies the nearest approach to facsimile reproduction that is attainable in type, a kind of printing which requires hand setting in a shop equipped with a great number of special type sorts--symbols, signs, and marks employed by medieval writers and still used in the sixteenth century. [...]  
+> Inherent in fully modernized text is the disadvantage that the transcriber must also constantly be an editor; he must interpret, and in so doing he may often alter the writer's meaning. A further disadvantage lies in the loss, in such modernized texts, of linguistic detail important to some students. On the other hand, the production of a type facsimile today is so costly that books so printed can seldom pay their own way, and since, at best, the type reproduction of early manuscripts cannot be completely accurate and reliable, those who require detailed reproduction of this sort usually prefer photographic reproductions of originals, which are now usually obtainable without prohibitive cost. For the majority of students a modernized text or a compromise between the two extremes is satisfactory.  
+> The transcripts accompanying the plates in this book have, of course, a special purpose, and this has dictated the editorial policies that we have adopted. While scrupulously adhering to original spelling and punctuation, we have thought it best to expand most abbreviations and contractions, which, left as written, would require constant glossing. This expansion is done silently, without any signal, on the assumption that in each instance it will be immediately apparent. [...] Where we do expand contractions and abbreviations we use the spelling favored by the individual writer if this can be inferred. (22-23)
+
+[^note_use_transcription]: The practice of transcribing manuscripts typographically did not disappear with the inception of affordable photography. In fact, transcriptions are often included alongside photographic facsimiles--either digital or in print--to help readers find relevant passages within pages that may seem crammed or disorienting to the untrained eye. Paleographers and philologists still turn to transcription to zero in on the significant features that distinguish a particular variant. Critics like John Dagenais deploy faithful transcriptions of minute manuscript features in their essays, "to serve as a reminder that the material [*they*] cite is drawn from a medium radically different from the modern printed page on which we read it." Finally, students who learn how to read medieval handwriting are trained and tested through transcriptions, following the example established by their manuals and their teachers.
+
+ the  
+
+Yet, Furnivall's negligence in addressing the task of transcription with
+
+Yet, Furnivall's negligence in the explicit and consistent
+
+From this standpoint, Furnivall
 
 
 : the transcription of handwritten characters into typographic characters.
