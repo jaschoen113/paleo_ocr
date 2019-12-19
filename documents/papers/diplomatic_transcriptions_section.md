@@ -4,7 +4,21 @@ author: G. E. Saretto & J. Schoen
 date: May 2019
 ---
 
-``
+[1] Furnivall, Frederick James. A Temporary Preface to the Six-Text Edition of Chaucer’s Canterbury Tales, Part I, Attempting to Show the True Order of the Tales, and the Days and Stages of the Pilgrimage, Etc., Etc. London : Published for the Chaucer society by N. Trübner & co., 1868, 146.
+[2] Baker, Donald C. “Frederick James Furnivall (1825-1910).” In Editing Chaucer: The Great Tradition, ed. Ruggiers, Paul G., Norman, Okla: Pilgrim Books, 1984, 159.
+[3] In particular, Furnivall’s Six-Text Edition of Chaucer’s Canterbury Tales–which appeared as an eighth-volume series of extravagantly “oblong folios,” displaying the printed texts of six different manuscripts in parallel columns–was extensively consulted by the great Chaucerian editors of the period, including William W. Skeat–who edited The Complete Works of Geoffrey Chaucer–and John Manly and Edith Rickert–who edited the seminal Text of the Canterbury Tales. These editions were in turn perused by subsequent editors, such as F.N. Robinson–whose The Works of Geoffrey Chaucer became the foundation for the nowadays universal Riverside Chaucer–and Christopher Cannon and James Simpson, who are basing their upcoming ombibus Chaucer on Skeat’s text.
+[4] Brandl, Alois. “F. J. Furnivall.” In Frederick James Furnivall; a Volume of Personal Record. New York: H. Frowde, 1911, 14.
+[5] Dinshaw, Carolyn. How Soon Is Now? : Medieval Texts, Amateur Readers, and the Queerness of Time. Durham, NC: Duke University Press, 2012, 25-27.
+[6] Baker, Donald C. “Frederick James Furnivall (1825-1910),” 164.
+[7] Dinshaw, Carolyn. How Soon is Now?, 27.
+[8] Furnivall, Frederick James. A Temporary Preface, passim.
+[9] Febvre, Lucien and Henri-Jean Martin. The Coming of the Book. The Impact of Printing 1450-1800. Trans. David Gerard, Norfolk: Verso, 1976, 57.
+[10] The practice of transcribing manuscripts typographically did not disappear with the inception of affordable photography. In fact, transcriptions are often included alongside photographic facsimiles–either digital or in print–to help readers find relevant passages within pages that may seem crammed or disorienting to the untrained eye. Paleographers and philologists still turn to transcription to zero in on the significant features that distinguish a particular variant. Critics like John Dagenais deploy faithful transcriptions of minute manuscript features in their essays, “to serve as a reminder that the material [they] cite is drawn from a medium radically different from the modern printed page on which we read it.” Finally, students who learn how to read medieval handwriting are trained and tested through transcriptions, following the example established by their manuals and their teachers.
+[11] Dawson, Giles E. and Laetitia Kennedy Skipton. Elizabethan Handwriting. 1500-1650. A Guide to the Reading of Documents and Manuscripts. London: Faber and Faber, 1966.
+[12] Kerby-Fulton, Kathryn. “How to Transcribe Middle English.” Opening Up Middle English Manuscripts. Literary and Visual Approaches, ed. Kathryn Kerby-Fulton, Maidie Hilmo, Linda Olson. Ithaca: Cornell University Press, 2012, 2-5.
+[13] Pass, Gregory A. Descriptive cataloging of ancient, medieval, Renaissance, and early modern manuscripts. Chicago: Association of College and Research Libraries, 2002.
+
+---
 
 All the editions of the *Canterbury Tales* that we read today share an unexpected ancestor--a forebear that does not date back to the age of Chaucer, but to the Victorian era. In 1868, the enterprising Cambridge graduate Frederick James Furnivall founded the Chaucer Society with a distinct mission: "to let the lovers and students of [*Chaucer*] see how far the best unprinted Manuscripts of his works differ[ed] from the printed texts."[^note_furnivall_preface] According to Furnivall, the circulation of these previously unedited--or, in his words "unprinted"--medieval manuscripts would fulfill a critical scholarly need.
 
