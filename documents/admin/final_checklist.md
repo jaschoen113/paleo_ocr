@@ -9,7 +9,7 @@ date: January 2020
 
 - [ ] Make a DOI. [Together.]
 
-- [ ] Add comments from DT to the Google Doc. [J.]
+- [x] Add comments from DT to the Google Doc. [J.]
 
 - [ ] Check about table. [J.]
     - [ ] Potentially create table in PanDoc. [Together?]
@@ -22,13 +22,13 @@ date: January 2020
 
 - [ ] Get rid of "to be" constructions (that is, of the verb "to be" altogether). [G.]
 
-- [ ] Cite others on "remediation" when we cite Grusin. [G.]
+- [x] Cite others on "remediation" when we cite Grusin. [G.]
 
 - [ ] Make methodology explicit (why do we go to our process in such detail; provide rationale for the thorough exposition of process). [J. ]
 
-- [ ] Double check and potentially remove the terms "text-image" and "turn-key" (people may not know what that means). [G.]
+- [x] Double check and potentially remove the terms "text-image" and "turn-key" (people may not know what that means). [G.]
 
-- [ ] Be consistent with words in quotes (especially around pp. 5 and 6). [J.]
+- [x] Be consistent with words in quotes (especially around pp. 5 and 6). [J.]
 
 - [ ] Pick stronger verbs throughout. [J.]
 
