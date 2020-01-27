@@ -18,13 +18,13 @@ date: January 2020
 
 - [ ] Make the language about "rapidity," "automaticity," "scale," "speed..." consistent. [G.]
 
-- [ ] Tighten up para. 1 of page 3 (about Furnivall). [G.]
+- [x] Tighten up para. 1 of page 3 (about Furnivall). [G.]
 
 - [ ] Get rid of "to be" constructions (that is, of the verb "to be" altogether). [G.]
 
 - [x] Cite others on "remediation" when we cite Grusin. [G.]
 
-- [ ] Make methodology explicit (why do we go to our process in such detail; provide rationale for the thorough exposition of process). [J. ]
+- [x] Make methodology explicit (why do we go to our process in such detail; provide rationale for the thorough exposition of process). [J. ]
 
 - [x] Double check and potentially remove the terms "text-image" and "turn-key" (people may not know what that means). [G.]
 
@@ -32,4 +32,4 @@ date: January 2020
 
 - [ ] Pick stronger verbs throughout. [J.]
 
-- [ ] Use more technical language (especially in the "methods" section). [G.]
+- [x] Use more technical language (especially in the "methods" section). [G.]
