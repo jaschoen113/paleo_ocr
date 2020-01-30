@@ -112,7 +112,7 @@ This symbol most closely resembles the Latin 2-shaped abbreviation, often used f
 | Manuscript Image | Character | Notes |
 | :----: | :----: | :---: |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/c_2.png?raw=true "c with 2") | c&#859; |
-| missing image? | g&#859; |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/g_zigzag.png?raw=true) "g zig zag" | g&#859; |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/p%20with%20left%20hook.png?raw=true "p with left hook")| p&#859; |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/t_2.png?raw=true "t with 2") | t&#859; | also ir or er |
 
@@ -181,11 +181,11 @@ In most, the macron is used, as in Latin, to represent a missing "m" or "n." In 
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/d_shoulder.png?raw=true "d with shoulder") | d with shoulder | aui (e.g. d*aui*d) | d&#702; | d&#702 |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/d_um.png?raw=true "d with line") | d with vertical line | um  (e.g. d*um*) | ? |?  |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/h_dot.png?raw=true "h with dot") | h with dot | hoc | h&#778; | h&#778 |
-| missing image? | h with comma? | es (i.e. Ih*es*u) |  h&#777; | h&#777 |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/h_comma.png?raw=true "h with comma") | h with comma | es (i.e. Ih*es*u) |  h&#777; | h&#777 |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/macron%20i.png?raw=true "macron i")| macron i | mn (e.g. *mn*i) | ī | i&#772 |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/p%20tilde.png?raw=true "p tilde") | p with tilde | ur (e.g. p*ur*)| p̃ | p&#771 |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/t_2again.png?raw=true "Latin t with 2") | t with 2-shaped tilde | ur (e.g. t*ur*)| t&#771; | t&#771 |
-| missing image? | t with macron | us (e.g. t*us*) | t̄ | t&#772 |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/t_macron.png?raw=true "t with macron") | t with macron | us (e.g. t*us*) | t̄ | t&#772 |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/Latin%20con.png?raw=true "con") | character resembling 9 | con | ꝯ | &#42863 |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/Latin%20um%20.png?raw=true "Latin rum") | character resembling 4 or y with strike through | rum | ɏ | &#591 |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/us.png?raw=true "us") | character resembling 3 | us (e.g.  b*us*) | ꝫ | &#42859 |
@@ -200,7 +200,7 @@ In most, the macron is used, as in Latin, to represent a missing "m" or "n." In 
 |:-----------:|:-----------:|:------------:|:-----------:|
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/paragraph.png?raw=true "paragraph") | paragraph marker | new paragraph| ¶ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/word%20bar.png?raw=true "word bar") | vertical bar | divides cramped words | &#124; |
-| missing image? | punctus elevatus (looks like inverted semi-colon) | pause | ؛ |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/punctus_elevatus.png?raw=true "punctus elevatus") | punctus elevatus (looks like inverted semi-colon) | pause | ؛ |
 
 ### Citations  
 
