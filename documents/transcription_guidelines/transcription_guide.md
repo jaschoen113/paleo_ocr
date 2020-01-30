@@ -1,4 +1,4 @@
-## Transcription Guidelines
+# Transcription Guidelines
 
 Our transcription rules in brief:
 
@@ -11,7 +11,7 @@ Our transcription rules in brief:
 
 As we compile our training transcriptions, it is essential that we have consistent rules for rendering letters and abbreviations. However, part of what makes medieval handwriting so challenging for OCR is its various letter forms and obscure abbreviations. We have identified three primary transcriptions "issues" for our manuscript: 1) multiple letter forms 2) lowercase letters used in uppercase instances 3) extensive abbreviations. We discuss these issues in detail below, and also explain how we handle them in our transcription.    
 
-### Multiple Letter Forms
+## Multiple Letter Forms
 
 Anglicana formata, like other medieval bookhands, has multiple forms for certain letters. For example, the "s" can take either a kidney, sigma, or long shape:
 
@@ -49,7 +49,7 @@ For more examples of multiple letter forms, see the below chart, as well as our 
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/t%20tick.png?raw=true "t tick") | t with tick |  adds a tick | none | t |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/y%20dot.png?raw=true "y dot") | y dot | y | ẏ | y |
 
-### Lowercase and Uppercase
+## Lowercase and Uppercase
 
 It is often hard to distinguish between lowercase (minuscule) and uppercase (capital) letter forms. At times the scribe uses completely different graphs (for instance **B** and **b**, **R** and **r**, **S** and **s**); but often the distinction seems too subtle to be perceivable (for example, **W** and **w**, **Þ** and **þ**). We may assume from location or semantic context that a letter is "meant" to be a capital, for example in a proper name or at the beginning of a line. And accordingly, our reference, Furnivall, often marks a capital where the manuscript presents a miniscule form.
 But it will be difficult (if not impossible) for an OCR system to identify such a distinction, at least without a certain level of language processing. Additionally, the scribe often shades uppercase letters slightly to mark their capital form, but this shading will not be visible to Kraken, which receives a binarized (black and white) photo.  
@@ -72,17 +72,17 @@ Because such differences between miniscule and capital appear negligible, and wi
 
 Note: We have also found one example of a **V** occuring in **v** position, and in align with our rule above, are transcribing it as **V** ("aVys" on folio 26v, line 35).
 
-### Abbreviations
+## Abbreviations
 
 Medieval manuscripts have many abbreviations. Usually transcriptions will extend these abbreviations, marking the abbreviated letters with italics. However, since Kraken requires diplomatic transcription (one-to-one characters), we can not extend the abbreviations in our training data. And since abbreviations *do* carry semantic meaning (unlike the various letter forms above), we will be using special characters and diacritics to represent abbreviations.
 
 Certain diacritic choices here are quite obvious: for example, a macron over an **o** can be easily represented with **ō**. Other abbreviations have no corresponding Unicode character (see, for example, **p**s with right hook and left hook suprascripts). For these forms, we use Unicode diacritics that most closely resemble the abbreviations. We have also tried to be as consistent as possible with these abbreviations: for example, we use the same diacritic for the right hook ("er" or "re" abbreviation) over the **p**, **n**, **t**, **þ**, and **u**.  
 
-# English Abbreviations
+## Middle English Abbreviations
 
-## Uniform Abbreviations:
+### Uniform Middle English Abbreviations:
 
-### "er" loop abbreviation  
+#### "er" loop abbreviation  
 hook diacritic = &#777
 
 This symbol resembles the certain variations of the medieval Latin abbreviation for "er/ar/re." In our manuscripts, it mainly stands in for "er," though occasionally takes on other meanings (noted below. For a discussion of its Latin counterpart, See Capelli pp. 19-29, specifically sections 4.3-4.35.
@@ -103,7 +103,7 @@ This symbol resembles the certain variations of the medieval Latin abbreviation 
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/v_right_hook.png?raw=true "v right hook") | v&#777; |
 | ![alt text](https://raw.githubusercontent.com/gesaretto/paleo_ocr/master/abbreviation_images/y_right_hook.png "y with right hook") | y&#777; |
 
-### "ri" small 2-shaped abbreviation  
+#### "ri" small 2-shaped abbreviation  
 
 zig zag diacritic = &#859  
 
@@ -116,7 +116,7 @@ This symbol most closely resembles the Latin 2-shaped abbreviation, often used f
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/p%20with%20left%20hook.png?raw=true "p with left hook")| p&#859; |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/t_2.png?raw=true "t with 2") | t&#859; | also ir or er |
 
-### "ra" upward facing wavy line
+#### "ra" upward facing wavy line
 
 diaeresis diacritic = &#776
 
@@ -130,7 +130,7 @@ This symbol closely resembles the Latin "r/re/ra/ar" wavy line abbreviation. As 
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/u%20with%20macron%20and%20balls.png?raw=true "u with macron and balls") ![alt text](https://raw.githubusercontent.com/gesaretto/paleo_ocr/master/abbreviation_images/u_with_balls.png "u with balls")| u&#776; |
 
 
-### "ur" downward facing wavy line
+#### "ur" downward facing wavy line
 
 tilde diacritic = &#771
 
@@ -142,7 +142,7 @@ This symbol most closely resembles a version of the Latin "ur/tur/er" abbreviati
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/o%20with%20tilde.png?raw=true "o with tilde") | õ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/t_tilde.png?raw=true "t tilde") | t&#771; |  
 
-### "n/m" macron
+#### "n/m" macron
 
 macron = 	&#772
 
@@ -157,7 +157,7 @@ In most, the macron is used, as in Latin, to represent a missing "m" or "n." In 
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/u%20macron.png?raw=true "u macron")| ū |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/y%20macron.png?raw=true "y macron") | ȳ |
 
-## Discrete Abbreviations
+### Discrete Middle English Abbreviations
 
 | Manuscript Image | Description | Meaning  | Character | Unicode |
 |:-----------:|:-----------:|:------------:|:-----------:| :------: |
@@ -172,7 +172,7 @@ In most, the macron is used, as in Latin, to represent a missing "m" or "n." In 
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/thorn_u.png?raw=true "thorn with u") | thorn with u diacritic | þou | þ&#871; | þ&#871 |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/w%20with%20t.png?raw=true "w with t") | w with t suprascript | with | w&#877; | w&#877 |
 
-# Latin Abbreviations
+## Latin Abbreviations
 
 | Manuscript Image | Description | Meaning  | Character | Unicode |
 |:-----------:|:-----------:|:------------:|:-----------:|:-----:|
@@ -194,7 +194,7 @@ In most, the macron is used, as in Latin, to represent a missing "m" or "n." In 
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/tironian%20et.png?raw=true "tironian et") | tironian et | and | ⁊ | &#8266 |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/et%20cetera%20.png?raw=true "et cetera") | tironian et + c with left hook | et cetera | ⁊c&#777; | ⁊c&#777 |
 
-# Additional Abbreviations
+## Additional Abbreviations
 
 | Manuscript Image | Description | Meaning  | Character |
 |:-----------:|:-----------:|:------------:|:-----------:|
@@ -202,17 +202,20 @@ In most, the macron is used, as in Latin, to represent a missing "m" or "n." In 
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/word%20bar.png?raw=true "word bar") | vertical bar | divides cramped words | &#124; |
 | missing image? | punctus elevatus (looks like inverted semi-colon) | pause | ؛ |
 
+### Citations  
+
 "Furnivall's transcription" refers to *The Corpus MS of Chaucer's Canterbury Tales* ed. by Frederick J. [Furnivall](https://babel.hathitrust.org/cgi/pt?id=uva.x030198621;view=1up;seq=25), a print transcription of MS 198 from 1868-79
 
 
 ### Unicode Resources
+
 [MUFI](http://folk.uib.no/hnooh/mufi/)  
 [Unicode and Macron](http://www.personal.psu.edu/ejp10/psu/gotunicode/macron.html)  
 [Unicode Table](https://unicode-table.com/en/#ipa-extensions)
 
 ### Unicode HTML Codes
 
-(add semi-colon to end of codes)
+(add ; to end of code to create character)
 
 comma diacritic = &#787   
 hook diacritic = &#777  
