@@ -17,7 +17,7 @@ Anglicana formata, like other medieval bookhands, has multiple forms for certain
 
 | __Manuscript Image__ | Character Description |  __Furnivall's Transcription__ | __Unicode Option__ | Our Transcription |
 |:-----------:|:------------:|:-----------:| :-----------:|:-----------:|
-|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/kidney_s.png?raw=true "kidney s") | kidney s | s | none | s |
+|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/kidney_s.png?raw=true "kidney s") | kidney s | s | ß | s |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/sigma_s.png?raw=true "sigma s") | sigma s | s | σ | s |
 |![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/long_s.png?raw=true "long s") | long s | s | ſ | s|
 
@@ -25,7 +25,7 @@ These different letter forms do not affect meaning in any way, but are either ae
 
 We can either transcribe these forms individually, or collapse them together.
 
-Individually transcribing these forms is preferable if it helps the OCR system identify them correctly, and if our goal is produce a very conservative digital replication of the manuscript. However, if we were to transcribe these forms uniquely, we would use different Unicode characters for each form, and certain forms do not have a matching Unicode characters (see the kidney "s" above); while matching manuscript-character and Unicode-character is not necessary (we could edit machine-made transcriptions manually later), it is still desirable.  
+Individually transcribing these forms is preferable if it helps the OCR system identify them correctly, and if our goal is produce a very conservative digital replication of the manuscript. However, if we were to transcribe these forms uniquely, we would use different Unicode characters for each form, and certain forms either do not have a matching Unicode characters or the closest Unicode option could be semantically misleading (e.g. if we were to use ß or σ to represent "s" as above); while matching manuscript-character and Unicode-character is not necessary (we could edit machine-made transcriptions manually later), it is still desirable.  
 
 Collectively transcribing these forms is preferable if our goal is to create a digital edition of the manuscript that is accessible to a modern reader. As well, collapsing these forms is easier for creating training data (since it is tedious to insert special characters).
 
