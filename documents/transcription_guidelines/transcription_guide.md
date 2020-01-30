@@ -112,7 +112,7 @@ This symbol most closely resembles the Latin 2-shaped abbreviation, often used f
 | Manuscript Image | Character | Notes |
 | :----: | :----: | :---: |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/c_2.png?raw=true "c with 2") | c&#859; |
-| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/g_zigzag.png?raw=true) "g zig zag" | g&#859; |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/g_zigzag.png?raw=true "g zig zag") | g&#859; |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/p%20with%20left%20hook.png?raw=true "p with left hook")| p&#859; |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/t_2.png?raw=true "t with 2") | t&#859; | also ir or er |
 
