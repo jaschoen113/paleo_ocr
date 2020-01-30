@@ -1,5 +1,5 @@
 ---
-title: "Tutorial for OCR workshop at Columbia"
+title: "Short Tutorial on Running Kraken"
 author: G. E. Saretto & J. Schoen
 date: October 29 2019
 ---
