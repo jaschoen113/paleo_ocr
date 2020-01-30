@@ -1,3 +1,84 @@
+## Transcription Guidelines
+
+Our transcription rules in brief:
+
+1. Our transcription collapses multiple letter forms with identical meaning.
+2. Our transcription renders miniscule "should-be" capitals as minuscule letters.
+3. Our transcription does not expand abbreviations, but rather marks them with Unicode diacritics.  
+
+
+### Overview
+
+As we compile our training transcriptions, it is essential that we have consistent rules for rendering letters and abbreviations. However, part of what makes medieval handwriting so challenging for OCR is its various letter forms and obscure abbreviations. We have identified three primary transcriptions "issues" for our manuscript: 1) multiple letter forms 2) lowercase letters used in uppercase instances 3) extensive abbreviations. We discuss these issues in detail below, and also explain how we handle them in our transcription.    
+
+### Multiple Letter Forms
+
+Anglicana formata, like other medieval bookhands, has multiple forms for certain letters. For example, the "s" can take either a kidney, sigma, or long shape:
+
+| __Manuscript Image__ | Character Description |  __Furnivall's Transcription__ | __Unicode Option__ | Our Transcription |
+|:-----------:|:------------:|:-----------:| :-----------:|:-----------:|
+|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/kidney_s.png?raw=true "kidney s") | kidney s | s | none | s |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/sigma_s.png?raw=true "sigma s") | sigma s | s | σ | s |
+|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/long_s.png?raw=true "long s") | long s | s | ſ | s|
+
+These different letter forms do not affect meaning in any way, but are either aesthetic or functional; that is, they often depend on the place of "s" in a word or line (e.g. typically long-s can be either word-initial or word-final, whereas the kidney-shape s tends to be word-final, and the sigma only word-initial).
+
+We can either transcribe these forms individually, or collapse them together.
+
+Individually transcribing these forms is preferable if it helps the OCR system identify them correctly, and if our goal is produce a very conservative digital replication of the manuscript. However, if we were to transcribe these forms uniquely, we would use different Unicode characters for each form, and certain forms do not have a matching Unicode characters (see the kidney "s" above); while matching manuscript-character and Unicode-character is not necessary (we could edit machine-made transcriptions manually later), it is still desirable.  
+
+Collectively transcribing these forms is preferable if our goal is to create a digital edition of the manuscript that is accessible to a modern reader. As well, collapsing these forms is easier for creating training data (since it is tedious to insert special characters).
+
+Since Kraken is able to collapse forms, and these varieties do not affect semantics, **we will be collapsing them.**
+
+For more examples of multiple letter forms, see the below chart, as well as our full character [guide](https://github.com/gesaretto/paleo_ocr/blob/master/transcription_guidelines/Scribe%20D%20Letters%20Guide.pdf) for Scribe D:
+
+| __Manuscript Image__ | Character Description |  __Furnivall's Transcription__ | __Unicode Option__ | Our Transcription |
+|:-----------:|:------------:|:-----------:| :-----------:|:-----------:|
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/d_looped.png?raw=true "d open loop") | d open loop| d | none | d |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/d_regular.png?raw=true "d closed loop") | d closed loop| d | none | d |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/e_chickpea.png?raw=true "chickpea e") | chickpea e | e | none | e |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/e_regular.png?raw=true "regular e") | regular e | e | e | e |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/f%20tick.png?raw=true "f tick") | f with tick | adds a tick | none | f |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/biting%20fs.png?raw=true "biting fs")| biting f's | ﬀ (connected stroke) | ﬀ (connected stroke) | ff (disconnected strokes) |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/extended%20g.png?raw=true "extended g") | g with extended stroke | adds tick | none | g |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/h_regular.png?raw=true "normal h") | normal h | h | h | h |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/biting%20ps.png?raw=true "biting p") | biting p's | pp | none | pp |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/r_2_shaped.png?raw=true "2 r") | 2-shaped r | r | 2 | r |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/r_minuscule.png?raw=true "miniscule r") | miniscule r | r | r | r |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/r_split.png?raw=true "split r") | split r | r | none | r |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/t%20tick.png?raw=true "t tick") | t with tick |  adds a tick | none | t |
+| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/y%20dot.png?raw=true "y dot") | y dot | y | ẏ | y |
+
+### Lowercase and Uppercase
+
+It is often hard to distinguish between lowercase (minuscule) and uppercase (capital) letter forms. At times the scribe uses completely different graphs (for instance **B** and **b**, **R** and **r**, **S** and **s**); but often the distinction seems too subtle to be perceivable (for example, **W** and **w**, **Þ** and **þ**). We may assume from location or semantic context that a letter is "meant" to be a capital, for example in a proper name or at the beginning of a line. And accordingly, our reference, Furnivall, often marks a capital where the manuscript presents a miniscule form.
+But it will be difficult (if not impossible) for an OCR system to identify such a distinction, at least without a certain level of language processing. Additionally, the scribe often shades uppercase letters slightly to mark their capital form, but this shading will not be visible to Kraken, which receives a binarized (black and white) photo.  
+
+Here are some examples:
+
+|Letter|Minuscule|Shaded Capital|
+|:---|:---:|:---:|
+|h|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/h_minuscule.png?raw=true "h minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/h_capital.png?raw=true "h capital")|
+|l|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/l_minuscule.png?raw=true "l minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/l_capital.png?raw=true "l capital")|
+|þ|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/thorn_minuscule.png?raw=true "þ minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/thorn_capital.png?raw=true "þ capital")|
+|v|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/v_minuscule.png?raw=true "v minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/v_capital.png?raw=true "v capital")|
+|w|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/w_minuscule.png?raw=true "w minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/w_capital.png?raw=true "w capital")|
+|y|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/y_minuscule.png?raw=true "y minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/y_capital.png?raw=true "y capital")|
+|ȝ|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/yogh_minuscule.png?raw=true "ȝ minuscule")|![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/yogh_capital.png?raw=true "ȝ capital")|
+
+In addition, there *are* formal capitals for certain letters like **V**, **H** and **D**, but often the scribe uses the miniscule forms instead. By contrast, **Þ**, **Ȝ**, **W**, **Y** (above) do not seem to have distinct capital forms, nor do **J**, **K**, **U**, **X**, or **Z**. For capital **F**, the scribe uses a double f, which we will transcribe ff. An expanded chart of Scribe D's character forms can be found [here](https://github.com/gesaretto/paleo_ocr/blob/master/transcription_guidelines/Scribe%20D%20Letters%20Guide.pdf).
+
+Because such differences between miniscule and capital appear negligible, and will probably be difficult for the machine to discern, we will be transcribing such characters in their lowercase form. **Moreover, any character that "should" be a capital (semantically or positionally), but *looks* nearly or totally indistinguishable from the miniscule, will be transcribed as a miniscule**. To see examples of "proper" capitals and miniscules, consult the expanded character [chart](https://github.com/gesaretto/paleo_ocr/blob/master/transcription_guidelines/Scribe%20D%20Letters%20Guide.pdf).
+
+Note: We have also found one example of a **V** occuring in **v** position, and in align with our rule above, are transcribing it as **V** ("aVys" on folio 26v, line 35).
+
+### Abbreviations
+
+Medieval manuscripts have many abbreviations. Usually transcriptions will extend these abbreviations, marking the abbreviated letters with italics. However, since Kraken requires diplomatic transcription (one-to-one characters), we can not extend the abbreviations in our training data. And since abbreviations *do* carry semantic meaning (unlike the various letter forms above), we will be using special characters and diacritics to represent abbreviations.
+
+Certain diacritic choices here are quite obvious: for example, a macron over an **o** can be easily represented with **ō**. Other abbreviations have no corresponding Unicode character (see, for example, **p**s with right hook and left hook suprascripts). For these forms, we use Unicode diacritics that most closely resemble the abbreviations. We have also tried to be as consistent as possible with these abbreviations: for example, we use the same diacritic for the right hook ("er" or "re" abbreviation) over the **p**, **n**, **t**, **þ**, and **u**.  
+
 # English Abbreviations
 
 ## Uniform Abbreviations:
@@ -121,3 +202,22 @@ In most, the macron is used, as in Latin, to represent a missing "m" or "n." In 
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/paragraph.png?raw=true "paragraph") | paragraph marker | new paragraph| ¶ |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/word%20bar.png?raw=true "word bar") | vertical bar | divides cramped words | &#124; |
 | missing image? | punctus elevatus (looks like inverted semi-colon) | pause | ؛ |
+
+"Furnivall's transcription" refers to *The Corpus MS of Chaucer's Canterbury Tales* ed. by Frederick J. [Furnivall](https://babel.hathitrust.org/cgi/pt?id=uva.x030198621;view=1up;seq=25), a print transcription of MS 198 from 1868-79
+
+
+### Unicode Resources
+[MUFI](http://folk.uib.no/hnooh/mufi/)  
+[Unicode and Macron](http://www.personal.psu.edu/ejp10/psu/gotunicode/macron.html)  
+[Unicode Table](https://unicode-table.com/en/#ipa-extensions)
+
+### Unicode HTML Codes
+
+(add semi-colon to end of codes)
+
+comma diacritic = &#787   
+hook diacritic = &#777
+reverse comma diacritic = &#788   
+double macron = &#862 or &#x35e    
+macron = &#772
+small t diacritic = &#877
