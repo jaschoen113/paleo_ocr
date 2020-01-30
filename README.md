@@ -7,4 +7,6 @@ We use [Kraken](http://kraken.re/index.html), a turn-key OCR system forked from 
 We have achieved promising results so far: a 2.84% CER (character error rate) on the training set, and a range of 
 14.46% to 73.23% CERs on unseen manuscripts. 
 
-In this repository you can find our training data for MS 198, OCR models, full transcriptions of our training and testing manuscripts, and a guide to the abbrevations we used in our transcriptions (with a discussion of these decisions). We also have relevant resources on OCR and paleography.
+In this repository you can find our [training data](https://github.com/gesaretto/paleo_ocr/tree/master/training_data) for MS 198, OCR [models](https://github.com/gesaretto/paleo_ocr/tree/master/models), full [transcriptions](https://github.com/gesaretto/paleo_ocr/tree/master/transcriptions) of our training and testing manuscripts, and a [guide](https://github.com/gesaretto/paleo_ocr/blob/master/documents/transcription_guidelines/transcription_guide.md) to the abbrevations we used in our transcriptions (with a discussion of these decisions).
+
+Please feel free to use our training data, models, and transcriptions for your own research projects. 
