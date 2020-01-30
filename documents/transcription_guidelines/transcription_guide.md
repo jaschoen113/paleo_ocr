@@ -42,7 +42,6 @@ For more examples of multiple letter forms, see the below chart, as well as our 
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/f%20tick.png?raw=true "f tick") | f with tick | adds a tick | none | f |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/biting%20fs.png?raw=true "biting fs")| biting f's | ﬀ (connected stroke) | ﬀ (connected stroke) | ff (disconnected strokes) |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/extended%20g.png?raw=true "extended g") | g with extended stroke | adds tick | none | g |
-| ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/h_regular.png?raw=true "normal h") | normal h | h | h | h |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/biting%20ps.png?raw=true "biting p") | biting p's | pp | none | pp |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/r_2_shaped.png?raw=true "2 r") | 2-shaped r | r | 2 | r |
 | ![alt text](https://github.com/gesaretto/paleo_ocr/blob/master/abbreviation_images/r_minuscule.png?raw=true "miniscule r") | miniscule r | r | r | r |
@@ -216,8 +215,8 @@ In most, the macron is used, as in Latin, to represent a missing "m" or "n." In 
 (add semi-colon to end of codes)
 
 comma diacritic = &#787   
-hook diacritic = &#777
+hook diacritic = &#777  
 reverse comma diacritic = &#788   
 double macron = &#862 or &#x35e    
-macron = &#772
-small t diacritic = &#877
+macron = &#772  
+small t diacritic = &#877  
