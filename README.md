@@ -1,4 +1,4 @@
-# OCR and Medieval Manuscripts 
+# Project Description  
 
 This project uses OCR on a corpus of medieval manuscripts. Manuscripts pose significant challenges to automated processing, as they feature elaborate and often cryptic handwriting systems (scripts) which vary dramatically across period, region, and scribe. They also tend to contain extensive marginal elements (such as decorations, annotations, or tears) that an engine should be trained to ignore, or treat differently. Finally, given that the most advanced OCR engines often rely on comprehensive dictionaries to improve accuracy, the inconsistent orthography of medieval languages (like Middle English) poses an additional obstacle to efficient automated transcription.
 
